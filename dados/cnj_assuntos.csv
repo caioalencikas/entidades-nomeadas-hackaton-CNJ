@@ -1,0 +1,2397 @@
+cod_assunto;cod_item_pai;artigo;dispositivo_legal;nome
+899;;7;LICCvB;DIREITO CIVIL
+1,721;2,458;458;CLT;Salário In Natura
+1,907;2,62;482;CLT;Justa Causa / Falta Grave
+2,019;2,662;137;CLT;Fruição / Gozo
+2,569;1,855;"CF, Art. 7º, XXVIII; Lei 10406/02, arts. 186, 932; Lei 8213/91, art. 19.";"CF; Lei 10406/02";Acidente de Trabalho
+2,661;2,656;118;Lei 8.213/91;Estabilidade Acidentária
+2,663;2,662;143;CLT;Abono Pecuniário
+2,697;2,458;461;CLT;Salário por Equiparação / Isonomia
+3,37;3,369;121, caput;CP;Homicídio Simples
+3,371;3,369;121, § 1º;CP;Homicídio Privilegiado
+3,372;3,369;121, § 2º;CP;Homicídio Qualificado
+3,373;3,369;122;CP;Induzimento, Instigação ou Auxílio a Suicídio
+3,375;3,369;123;CP;Infanticídio
+3,386;3,385;129, caput;CP;Leve
+3,387;3,385;129, § 3º;CP;Seguida de Morte
+3,389;3,388;131;CP;Perigo de contágio de moléstia grave
+3,39;3,388;132;CP;Perigo para a vida ou saúde de outrem
+3,391;3,388;133;CP;Abandono de incapaz
+3,392;3,388;135;CP;Omissão de socorro
+3,393;3,388;137;CP;Rixa
+3,395;3,394;138;CP;Calúnia
+3,396;3,394;139;CP;Difamação
+3,401;3,4;146;CP;Constrangimento ilegal
+3,402;3,4;147;CP;Ameaça
+3,403;3,4;148;CP;Seqüestro e cárcere privado
+3,404;3,4;149;CP;Redução a condição análoga à de escravo
+3,406;3,405;150;CP;Violação de domicílio
+3,408;3,407;151, caput;CP;Violação de correspondência
+3,409;3,407;151, § 1º, I;CP;Sonegação ou destruição de correspondência
+3,41;3,407;art. 151, § 1º, II, III e IV;CP;Violação de comunicação telegráfica, radioelétrica ou telefônica
+3,411;3,407;152;CP;Violação de Correspondência comercial
+3,413;3,412;153;CP;Divulgação de segredo
+3,414;3,412;154;CP;Violação do segredo profissional
+3,416;3,415;155;CP;Furto
+3,417;3,415;155, § 4o.;CP;Furto Qualificado
+3,418;3,415;156;CP;Furto de coisa comum
+3,419;3,415;157, caput;CP;Roubo
+3,42;3,415;158;CP;Extorsão
+3,421;3,415;159;CP;Extorsão mediante seqüestro
+3,422;3,415;160;CP;Extorsão indireta
+3,423;3,415;161, caput;CP;Alteração de limites
+3,424;3,415;161, I;CP;Usurpação de águas
+3,425;3,415;161, II e art. 9º;CP e Lei n. 5.741/71;Esbulho possessório
+3,426;3,415;163;CP;Dano
+3,427;3,415;164;CP;Introdução ou abandono de animais em propriedade alheia
+3,428;3,415;165;CP;Dano em coisa de valor artístico, arqueológico ou histórico
+3,429;3,415;166;CP;Alteração de local especialmente protegido
+3,43;3,415;art. 168-A;CP e Lei 8.212/91;Apropriação indébita Previdenciária
+3,431;3,415;171;CP;Estelionato
+3,432;3,415;171, 3º;CP;Estelionato Majorado
+3,433;3,415;176;CP;Outras fraudes
+3,434;3,415;179;CP;Fraude à execução
+3,435;3,415;180, caput;CP;Receptação
+3,436;3,415;168, caput;CP;Apropriação indébita
+3,437;3,415;169;CP;Apropriação de Coisa Havida por Erro, Caso Fortuito ou Força da Natureza
+3,443;3,442;art. 184 e art 12;CP e Lei 9.609/98;Violação de direito autoral
+3,446;3,445;197;CP;Atentado contra a liberdade de trabalho
+3,447;3,445;198;CP;Atentado contra a liberdade de contrato de trabalho e boicotagem violenta
+3,448;3,445;199;CP;Atentado contra a liberdade de associação
+3,449;3,445;200;CP;Paralisação de trabalho, seguida de violência ou perturbação da ordem
+3,45;3,445;201;CP;Paralisação de trabalho de interesse coletivo
+3,451;3,445;202;CP;Invasão de estabelecimento industrial, comercial ou agrícola. Sabotagem
+3,452;3,445;203;CP;Frustração de direitos assegurados por lei trabalhista
+3,453;3,445;205;CP;Exercício de atividade com infração de decisão administrativa
+3,454;3,445;206;CP;Aliciamento para fins de emigração
+3,455;3,445;207;CP;Aliciamento de trabalhadores de um local para outro do território nacional
+3,456;3,445;204;CP;Frustração de lei sobre a nacionalização do trabalho
+3,458;3,457;211;CP;Destruição / Subração / Ocultação de Cadáver
+3,459;3,457;209;CP;Impedimento ou Perturbação de Cerimônia Funerária
+3,46;3,457;212;CP;Vilipêndio a Cadáver
+3,461;3,457;210;CP;Violação a Sepultura
+3,462;3,457;208;CP;Ultraje / Impedimento ou Perturbação de Culto Religioso
+3,465;3,463;213;CP;Estupro
+3,466;3,463;214;CP;Atentado Violento ao Pudor
+3,467;3,463;Art. 216;CP;Atentado ao Pudor Mediante Fraude
+3,468;3,463;Art. 218;CP;Corrupção de Menores
+3,469;3,463;233 e 234;CP;Ultraje Público ao Pudor (Ato/Escrito Obsceno)
+3,471;3,463;227;CP;Mediação para Servir a Lascívia de Outrem
+3,474;3,473;244;CP;Abandono Material
+3,475;3,473;246 e 247;CP;Abandono Intelectual
+3,476;3,473;245;CP;Entrega de Filho Menor a Pessoa Inidônea
+3,479;3,477;235;CP;Bigamia
+3,48;3,477;237;CP;Conhecimento Prévio de Impedimento
+3,481;3,477;236;CP;Induzimento a erro essencial e ocultação de impedimento
+3,482;3,477;239;CP;Simulação de Casamento
+3,483;3,477;238;CP;Simulação de Autoridade para Celebração de Casamento
+3,485;3,484;242;CP;Parto Suposto
+3,486;3,484;241;CP;Registro de Nascimento Inexistente
+3,487;3,484;241;CP;Sonegação do Estado de Filiação
+3,489;3,488;248;CP;Induzimento a Fuga, Entrega Arbitrária ou Sonegação de Incapazes
+3,49;3,488;249;CP;Subtração de Incapazes
+3,492;3,491;250;CP;Incêndio
+3,493;3,491;251;CP;Explosão
+3,494;3,491;252;CP;Uso de gás tóxico ou asfixiante
+3,495;3,491;254 e 255;CP;Inundação / Perigo de Inundação
+3,496;3,491;256;CP;Desabamento ou desmoronamento
+3,497;3,491;257;CP;Subtração, ocultação ou inutilização de material de salvamento
+3,498;3,491;259;CP;Difusão de doença ou praga
+3,5;3,491;260;CP;Desastre ferroviário / Perigo de Desastre Ferroviário
+3,501;3,491;261, 262 e 263;CP;Atentado contra a segurança de transporte público
+3,502;3,491;264;CP;Arremesso de projétil
+3,503;3,491;265;CP;Atentado contra a segurança de serviços de utilidade pública
+3,504;3,491;266;CP;Interrupção /perturbação de serviços telegráficos/telefônicos
+3,505;3,491;267;CP;Epidemia
+3,506;3,491;274;CP;Emprego de Processo Proibido/Substância não permitida
+3,507;3,491;275;CP;Invólucro ou recipiente com falsa indicação
+3,508;3,491;273;CP;Falsificação / Corrupção / Adulteração / Alteração de produto destinado a fins terapêuticos ou medicinais
+3,509;3,491;282;CP;Exercício Ilegal da Medicina, Arte Dentária ou Farmacêutica
+3,51;3,491;283;CP;Charlatanismo
+3,511;3,491;271;CP;Corrupção ou Poluição de Água Potável
+3,512;3,491;284;CP;Curandeirismo
+3,513;3,491;270;CP;Envenenamento de Água Potável / Substância Alimentícia ou Medicinal
+3,514;3,491;272;CP;Falsificação / Corrupção / Adulteração / Alteração de Substância ou Produtos Alimentícios
+3,515;3,491;268;CP;Infração de Medida Sanitária Preventiva
+3,516;3,491;269;CP;Omissão de Notificação de Doença
+3,517;3,491;278;CP;Outras Substâncias Nocivas a Saúde Pública
+3,519;3,491;277;CP;Substância Destinada à Falsificação
+3,521;3,52;288;CP;Quadrilha ou Bando
+3,523;287;287;CP;Crimes contra a Fé Pública
+3,524;3,523;289 e parágrafos e 290;CP;Moeda Falsa / Assimilados
+3,527;3,523;291;CP;Petrechos para falsificação de moeda
+3,528;3,523;292;CP;Emissão de título ao portador sem permissão legal
+3,529;3,523;293;CP;Falsificação de papéis públicos
+3,53;3,523;296;CP;Falsificação do selo ou sinal público
+3,531;3,523;297;CP;Falsificação de documento público
+3,532;3,523;298;CP;Falsificação de documento particular
+3,533;3,523;299;CP;Falsidade ideológica
+3,534;3,523;300;CP;Falso reconhecimento de firma ou letra
+3,535;3,523;301, caput;CP;Certidão ou atestado ideologicamente falso
+3,536;3,523;art. 301, § 1º;CP;Falsidade material de atestado ou certidão
+3,537;3,523;302;CP;Falsidade de atestado médico
+3,538;3,523;303;CP;Reprodução ou adulteração de selo ou peça filatélica
+3,539;3,523;304;CP;Uso de documento falso
+3,54;3,523;305;CP;Supressão de documento
+3,541;3,523;306;CP;Falsificação do sinal empregado no contraste de metal precioso ou na fiscalização alfandegária, ou para outros fins
+3,542;3,523;307 e 308;CP;Falsa identidade
+3,543;3,523;309 e 310;CP;Fraude de lei sobre estrangeiros
+3,545;3,523;294 e 295;CP;Petrechos de Falsificação de Papéis Públicos
+3,546;3,523;311;CP;Adulteração de Sinal Identificador de Veículo Automotor
+3,548;3,547;art. 312, caput e § 1º;CP;Peculato
+3,55;3,547;313;CP;Peculato mediante erro de outrem
+3,551;3,547;314;CP;Extravio, sonegação ou inutilização de livro ou documento
+3,552;3,547;315;CP;Emprego irregular de verbas ou rendas públicas
+3,553;3,547;art. 316, caput;CP;Concussão
+3,554;3,547;316, §§ 1º e 2º;CP;Excesso de exação
+3,555;3,547;317, caput e § 2º;CP;Corrupção passiva
+3,556;3,547;318;CP;Facilitação de contrabando ou descaminho
+3,557;3,547;319 e 319-A;CP;Prevaricação
+3,558;3,547;320;CP;Condescendência criminosa
+3,559;3,547;321;CP;Advocacia administrativa
+3,56;3,547;322;CP;Violência arbitrária
+3,561;3,547;323;CP;Abandono de função
+3,562;3,547;324;CP;Exercício funcional ilegalmente antecipado ou prolongado
+3,563;3,547;325;CP;Violação do sigilo funcional
+3,564;3,547;326;CP;Violação do sigilo de proposta de concorrência
+3,565;5,872;art 328;CP;Usurpação de função pública
+3,566;5,872;art. 329;CP;Resistência
+3,567;5,872;332;CP;Tráfico de influência
+3,568;5,872;333;CP;Corrupção ativa
+3,569;5,872;335;CP;Impedimento, perturbação ou fraude de concorrência
+3,57;5,872;336;CP;Inutilização de edital ou de sinal
+3,571;5,872;337, caput;CP;Subtração ou inutilização de livro ou documento
+3,572;5,872;330;CP;Desobediência
+3,573;5,872;331;CP;Desacato
+3,574;5,872;334;CP;Contrabando ou descaminho
+3,575;5,874;338;CP;Reingresso de estrangeiro expulso
+3,576;5,874;339;CP;Denunciação caluniosa
+3,577;5,874;340;CP;Comunicação falsa de crime ou de contravenção
+3,578;5,874;341;CP;Auto-acusação falsa
+3,579;5,874;342 e 343;CP;Falso testemunho ou falsa perícia
+3,58;5,874;344;CP;Coação no curso do processo
+3,581;5,874;345 e 346;CP;Exercício arbitrário das próprias razões
+3,582;5,874;347;CP;Fraude processual
+3,583;5,874;348;CP;Favorecimento pessoal
+3,584;5,874;349;CP;Favorecimento real
+3,585;5,874;350;CP;Exercício arbitrário ou abuso de poder
+3,586;5,874;351;CP;Fuga de pessoa presa ou submetida a medida de segurança
+3,587;5,874;352;CP;Evasão mediante violência contra a pessoa
+3,588;5,874;353;CP;Arrebatamento de preso
+3,589;5,874;354;CP;Motim de presos
+3,59;5,874;355, caput;CP;Patrocínio infiel
+3,591;5,874;355, § único;CP;Patrocínio simultâneo ou tergiversação
+3,592;5,874;356;CP;Sonegação de papel ou objeto de valor probatório
+3,593;5,874;357;CP;Exploração de prestígio
+3,594;5,874;358;CP;Violência ou fraude em arrematação judicial
+3,595;5,874;359;CP;Desobediência a decisão judicial sobre perda ou suspensão de direitos
+3,596;3,547;313-A;CP;Inserção de dados falsos em sistema de informações
+3,597;3,547;313-B;CP;Modificação ou alteração não autorizada de sistema de informações
+3,598;5,872;337-A;CP e Lei 8.212/91;Sonegação de contribuição previdenciária
+3,604;3,603;art. 1º;DL 201/67 e Lei 1.079/50;Crimes de Responsabilidade
+3,605;3,603;art. 2º;Lei 1.521/51;Crimes contra a Economia Popular
+3,606;3,603;arts. 3º e 4º;Lei 4.898/65;Crimes de Abuso de Autoridade
+3,608;3,607;Art. 33, caput e § 1º;Lei 11.343/06;Tráfico de Drogas e Condutas Afins
+3,61;3,603;Arts. 36 a 46;Lei 6.538/78;Crimes contra o Serviço Postal e o Serviço de Telegrama
+3,611;3,603;Arts. 8º a 29;Lei 7.170/83;Crimes contra a Segurança Nacional, a Ordem Política e Social
+3,612;3,603;Arts. 2º a 23;Lei 7.492/86;Crimes contra o Sistema Financeiro Nacional
+3,613;3,603;Arts. 2º a 20;Lei 7.716/89;Crimes Resultante de Preconceito de Raça ou de Cor
+3,614;3,603;Arts. 1º a 2º;Lei 8.137;Crimes contra a Ordem Tributária
+3,615;3,603;Art. 4º ao 6 e arts. 1º e 2º;Lei 8.137/90 e Lei 8.176/91;Crimes contra a Ordem Econômica
+3,616;3,603;Art. 7º e arts.61 a 80;Lei 8.137/90 e Lei 8.078/90;Crimes contra as Relações de Consumo
+3,617;3,603;Art. 19;Lei 8.429-92;Representação caluniosa
+3,618;3,603;Arts. 29 a 69A;Lei 9.605/98;Crimes contra o Meio Ambiente e o Patrimônio Genético
+3,619;3,618;art. 1º;Lei 5.197/67;Crimes contra a Fauna
+3,62;3,618;Art. 38 a 52;Lei 9.605/98;Crimes contra a Flora
+3,621;3,618;Art. 54 a 61;Lei 9.605/98;Da Poluição
+3,622;3,618;ART. 56;Lei 9605;Agrotóxicos
+3,624;3,618;art. 29;Lei 6.453/77;Caça
+3,626;3,618;Art. 27;Lei nº 11.105/2005;Liberação ou Descarte de OGM (Organismo Geneticamente Modificado)
+3,627;3,618;Lei 5197, art. 27, §3º;Lei nº 5.197/67, Lei nº 7.643/87, Lei 7.679/88, DL 221/67;Pesca
+3,628;3,603;Art. 1º;Lei 9.613/98;"Crimes de &quot;Lavagem&quot; ou Ocultação de Bens, Direitos ou Valores"
+3,629;3,603;Art. 183;Lei 9.472/97;Crimes contra as Telecomunicações
+3,63;3,603;Art. 125;Lei 6.815/80;Crimes Previstos na Lei de Estrangeiros
+3,631;3,603;art. 1º;Lei 9.455/97;Crimes de Tortura
+3,632;3,603;art.302 a 312;Lei 9.503/97;Crimes de Trânsito
+3,633;3,603;Arts. 12 a 18;Lei 10.826/03;Crimes do Sistema Nacional de Armas
+3,634;3,603;Arts. 12 a 22;Lei 5.250/67;Crimes de Imprensa
+3,637;3,603;Arts. 228 a 244-B;Lei 8.069/90;Crimes Previstos no Estatuto da criança e do adolescente
+3,638;3,603;Arts.73 a 74;Lei 4.728/65;Crimes contra o mercado de capitais
+3,64;3,603;Arts. 1º a 3º;Lei 2.889/56;Crimes de genocídio
+3,641;3,603;Art. 10;Lei 9.296/96;Sigilo Telefônico
+3,642;3,603;Arts. 89 a 98;Lei 8.666/93;Crimes da Lei de licitações
+3,643;3,603;Arts. 14 a 20;Lei 9.434/97;Crimes da Lei de remoção de órgãos e tecidos
+3,647;3,603;Art. 58;Lei 6.001/73;Crimes praticados contra os índios e a cultura indígena
+3,65;3,603;Art. 10;Lei 7.347/85;Recusa, retardamento ou omissão de dados técnicos indispensáveis à propositura de Ação Civil Pública
+3,651;3,603;Art. 19 e 20;Lei 4.947/66;Crimes Agrários
+3,653;3,603;Art. 4º;Lei 1.579/52;Crimes relacionados à Comissão Parlamentar de Inquérito
+3,654;3,603;Arts. 289 a 354;Lei 4.737/65;Crimes Eleitorais
+3,655;3,603;Art. 10º;LC 105/01;Crime de Quebra de Sigilo Financeiro
+3,656;3,603;Arts. 56, 70, 72;Lei 4.117/62;Crimes do Código Brasileiro de Telecomunicações
+3,659;3,603;Arts. 96 a 108;Lei 10.741/03;Crimes Previstos no Estatuto do Idoso
+3,66;3,603;Arts. 50 a 52;Lei 6.766/79;Parcelamento do solo urbano
+3,661;3,603;arts. 168 a 178;Lei 11.101/05;Crimes Falimentares
+3,664;3,603;arts. 136 a 408;CPM (Lei 1.101/69);Crimes Militares
+3,692;287;arts. 18 a 70;DL 3688/41;Contravenções Penais
+4,291;1,209;Arts. 69 a 91;CPP;Jurisdição e Competência
+4,31;1,209;322;cpp;Fiança
+4,355;1,209;"311; 254";"CPP; CPPM";Prisão Preventiva
+4,37;4,368;"396; 79, 396, 492";"CPP; CPPM";Recebimento
+4,371;4,368;"395; 78";"CPP; CPPM";Rejeição
+4,656;4,654;art. 1º e segs.;Lei 9610/98;Direito Autoral
+4,66;4,654;arts. 2º, I, 229 a 237;Lei 9279/96;Patente
+4,67;4,654;arts. 2º, II, 94 A 237;Lei 9279/96;Desenho Industrial
+4,68;4,654;arts. 2º, III, 122 a 216;Lei 9279/96;Marca
+4,701;7,947;arts. 104 a 184;Lei 10406/02;Ato / Negócio Jurídico
+4,703;4,701;Arts. 138 a 184;Lei 10406/02;Defeito, nulidade ou anulação
+4,706;4,701;arts. 441 a 457;Lei 10406/02;Evicção ou Vicio Redibitório
+4,718;7,688;- arts. 286 a 298;Lei nº 10.406/02 (Código Civil);Cessão de Crédito
+4,728;9,58;Resolução BACEN nº 3265, art. 1º;"Resoluções Bacen nºs 3265/2005 e 3266/2005;";Câmbio
+4,794;9,58;"arts. 92 a 94, 96;";Lei Federal nº 4504/64 (Estatuto da Terra),;Parceria Agrícola e/ou pecuária
+4,813;9,58;art. 1º;"Lei Federal nº 4886/65;";Representação comercial
+4,829;4,862;14;Lei n. 8.078/90 (C.D.C.);Atraso de vôo
+4,83;4,862;14;Lei n. 8.078/90 (C.D.C.);Cancelamento de vôo
+4,831;4,862;14;Lei n. 8.078/90 (C.D.C.);Overbooking
+4,832;4,862;14;Lei n. 8.078/90 (C.D.C.);Extravio de bagagem
+4,839;9,58;"arts. 8º a 44;";Lei Federal nº 4380/64,;Sistema Financeiro da Habitação
+4,84;4,839;art. 19;Lei Federal nº 10.150, de 2000;Equivalência salarial
+4,841;4,839;art. 320;Lei nº 10.406/02 (Código Civil) -;Quitação
+4,842;4,839;art. 1º;"Lei Federal nº 8100/90; Lei Federal nº 8177/91Lei Federal nº 8692/93";Reajuste de Prestações
+4,843;4,839;art. 1º;"Lei Federal nº 8004/90,Lei Federal nº 8692/93, Lei Federal nº 10150/2000;";Transferência de Financiamento (contrato de gaveta)
+4,846;4,839;Art. 37;Decreto Lei 70/66;Sustação/Alteração de Leilão
+4,847;4,839;"- art. 757;";"Lei nº 10.406/02 (Código Civil) Circular SUSEP nº 111/99;";Seguro
+4,854;4,839;art. 15;Lei 8.692, de 28 de julho de 1993;Revisão do Saldo Devedor
+4,897;9,981;artigos 44, inciso I e 53 à 61;Lei nº 10.406/02 (Código Civil) -;Associação
+4,899;4,897;arts. 59 e 60;Lei nº 10.406/02 (Código Civil) %u2013;Assembléia
+4,902;4,897;Artigo 67 e 68;Lei nº 10.406/02 (Código Civil) -;Eleição
+4,904;4,897;arts 54, inciso VI e 61.;Lei nº 10.406/02 (Código Civil) -;Extinção
+4,905;9,981;Artigos: 62 a 69;Lei nº 10.406/02 (Código Civil) -;Fundação de Direito Privado
+4,907;4,905;Art. 67;Lei 10406/02;Assembléia
+4,909;4,905;Art. 59, pár. Único;Lei 10406/02;Eleição
+4,91;4,905;Art. 69;Lei 10406/02;Extinção
+4,933;5,724;Art. 1.031;Lei nº 10.406/02;Apuração de haveres
+4,934;5,724;Arts. 997 a 1.000;Lei nº 10.406/02 (Código Civil) - .;Constituição
+4,935;5,724;Arts. 1.033 a 1.038;Lei nº 10.406/02 (Código Civil) - .;Dissolução
+4,939;5,724;- Art. 50.;Lei nº 10.406/02 (Código Civil);Desconsideração da Personalidade Jurídica
+4,94;5,724;Art. 1.057 e 1.028 a 1.032. e 1.004.;Lei nº 10.406/02 (Código Civil) -;Ingresso e Exclusão dos Sócios na Sociedade
+4,942;5,724;Art. 1.022 a 1.027.;Lei nº 10.406/02 (Código Civil) -;Responsabilidade dos sócios e administradores
+4,943;5,724;Art. 997 e 999.;Lei nº 10.406/02 (Código Civil) -;Transferência de cotas
+4,949;7,681;arts. 887 a 926;Lei 10.406/02 (Código Civil);Títulos de Crédito
+4,951;4,949;arts. 907 a 913;"Lei nº 10.406/02 (Código Civil) - ;";Anulação
+4,957;4,949;"- art. 889;";Lei nº 10.406/02 (Código Civil);Requisitos
+4,96;7,717;art. 1º;"Medida Provisória nº 2160-25, de 13.08.2001;";Cédula de Crédito Bancário
+4,961;7,717;art. 1º;"Lei Federal nº 6313/75;";Cédula de Crédito à Exportação
+4,962;7,717;art. 1º;"Lei Federal nº 6840/80;";Cédula de Crédito Comercial
+4,963;7,717;"arts. 9º a 14 e 19 a 52;";Decreto-Lei nº 413/69 (TCI),;Cédula de Crédito Industrial
+4,964;7,717;"arts. 9º a 41;";Decreto-Lei nº 167/67,;Cédula de Crédito Rural
+4,968;7,717;art. 1º;"Lei Federal nº 8929/94;";Cédula de Produto Rural
+4,969;7,717;Lei nº 10.406/02 (Código Civil) - art. 1486;Lei nº 10.406/02 (Código Civil) - art. 1486;Cédula Hipotecária
+4,97;7,717;arts. 1º a 62;"Lei Federal nº 7357/85 (Lei do Cheque);";Cheque
+4,971;7,717;art. 52;"Lei Federal nº 6404/76, art. 72;";Debêntures
+4,972;7,717;art. 1º;"Lei Federal nº 5474/68;";Duplicata
+4,973;7,717;"arts. 1º a 53;";Decreto nº 2044/1908,;Letra de Câmbio
+4,974;7,717;art. 1º e 5º;"Lei nº 6840/80;";Nota de Crédito Comercial
+4,975;7,717;arts. 15 a 18;"Decreto-Lei nº 413/69 (TCI), arts, 15 a 18;";Nota de Crédito Industrial
+4,976;7,717;arts. 27 a 29;"Decreto-lei nº 167/67, ;";Nota de Crédito Rural
+4,98;7,717;arts. 54 a 57;"Decreto nº 2044/1908, arts. 54 a 57;";Nota Promissória
+4,981;7,717;"Decreto 1102, art. 15; Lei 11076, art. 1º";"Decreto nº 1102/1903 , Lei Federal nº 9973/2000,Lei Federal nº 11076/2004;";Warrant
+4,994;4,993;Arts. 161 a 167;Lei: 11.101/05;Recuperação extrajudicial
+4,998;4,993;Arts. 105 a 107;Lei: 11.101/05;Autofalência
+5;4,993;artigos 83 e 84 115;Lei: 11.101/05;Concurso de Credores
+5,001;4,993;Arts 139 a 153;Lei: 11.101/05 -;Liquidação
+5,003;4,993;arts. 130;Lei: 11.101/05;Revogação de atos praticados em prejuízo de credores e da massa
+5,01;5,009;Lei 4728, art. 5º;Lei: 4.728/65, Decreto-Lei: 1.401/76, Resolução CMN: 1.289/87, Lei: 10.303/01;Bolsa de Valores
+5,193;7,783;art. 2º, II;Lei 9537;Engajamento e Profissionais Marítimos
+5,194;7,783;Arts. 666 a 730;Ccom;Seguros Marítimos
+5,196;7,783;Arts. 566 a 574;Ccom;Aluguel de Embarcações (Fretamento E Carta Partida)
+5,356;1,937;Art. 2º, § 2º;CLT;Grupo Econômico
+5,555;287;14, II;CP;Crime Tentado
+5,556;3,385;129, § 1º;CP;Grave
+5,557;3,385;129, § 2º;CP;Gravíssima
+5,558;3,385;129, § 4º;CP;Privilegiada
+5,56;3,385;129, § 9º e 11;CP;Decorrente de Violência Doméstica
+5,564;3,415;155, § 2º;CP;Furto Privilegiado
+5,565;3,415;155, § 5º;CP;Furto de Veículo Automotor a ser Transportado para outro Estado ou Exterior
+5,566;3,415;157, § 2º;CP;Roubo Majorado
+5,567;3,415;157, § 3º, 2ª parte;CP;Latrocínio
+5,568;3,415;159, § 3º;CP;Extorsão mediante Seqüestro Seguida de Morte
+5,569;3,415;159, § 2º;CP;Extorsão mediante Sequestro Seguida de Lesão Corporal Grave
+5,57;3,415;162;CP;Supressão ou Alteração de Marca em Animais
+5,571;3,415;163, parágrafo único;CP;Dano Qualificado
+5,572;3,415;169;I;Apropriação de Tesouro
+5,573;3,415;169, Parágrafo Único, II.;CP;Apropriação de Coisa Achada
+5,575;7,784;753 a 760;CCom;Abandono
+5,577;7,784;arts. 731 a 752;Ccom;Acidentes da Navegação
+5,585;1,146;15 a 21;L 9.537 (art. 2º, 19) e Lei 7652;Registro / Cadastro do Armador
+5,589;7,784;479 a 483, 607 a 609;"CCom; D 15.788/1922; D 351/1935";Arresto de Embarcação
+5,591;7,784;art. 1º;Lei 7203/84;Assistência / Salvamento
+5,592;7,784;Arts. 761 a 796;Ccom;Avaria
+5,595;1,146;496 a 537;CCom;Responsabilidade do Comandante ou Capitão
+5,603;1,146;1º, 2º, 3º, § ún. 4º e 5º, § ún.;Lei 7652 de 1988;Inscrição / Registro da Embarcação
+5,609;7,783;12, 13, 14 e 23;Lei 7652 de 1988;Hipoteca Marítima
+5,612;7,783;"477;";"CCom; L 7.652/1988";Créditos / Privilégios Marítimos
+5,621;1,146;457 483;CCom;Serviços Auxiliares da Navegação
+5,632;7,947;arts. 189 a 211;Lei 10406/02;Prescrição e Decadência
+5,68;9,58;"arts. 53 a 67;";Lei Federal nº 9610/98 (Lei de Direitos Autorais),;Edição
+5,754;899;Título I, Capítulo I;Lei 10.406/02 (CCB);Pessoas naturais
+5,787;5,779;1.699;Lei 10406/02;Exoneração
+5,788;5,779;1.699;Lei 10406/02;Revisão
+5,801;10,577;839;Lei 5.869;Busca e Apreensão de Menores
+5,802;10,577;1.583 a 1.586, 1.590 e 1.724;Lei 10406/02;Guarda
+5,804;10,577;1.601, 1.606 e 1.615;Lei 10406/02;Investigação de Paternidade
+5,805;10,577;1.589 e 1.590;Lei 10406/02;Regulamentação de Visitas
+5,813;5,808;1.548 e 1.550;Lei 10406/02;Nulidade / Anulação
+5,825;7,673;"185; 166; 167";Lei 10406/02;Nulidade e Anulação de Testamento
+5,829;7,673;"2.027 (CC); 1.029 (CPC)";Lei 10406/02 e CPC;Nulidade e Anulação de Partilha e Adjudicação de Herança
+5,831;7,673;"CC, art. 1911, parágrafo único; CPC, art. 1112, II";Lei 10406/02 (Código Civil e Lei 5869/73 (Código de Processo Civil);Sub-rogação de Vinculo
+5,832;7,673;1815;Lei 10406/02;Exclusão de herdeiro ou legatário
+5,833;7,673;1824;Lei 10406/02;Petição de Herança
+5,834;7,673;1965;Lei 10406/02;Deserdação
+5,835;3,415;171, § 2º, I;CP;Disposição de coisa alheia como própria
+5,836;3,415;171, § 2º, II;CP;Alienação ou Oneração Fraudulenta de Coisa Própria
+5,837;3,415;171, § 2º, III;CP;Defraudação de Penhor
+5,838;3,415;171, § 2º, IV;CP;Fraude na Entrega de Coisa
+5,839;3,415;171, § 2º, V;CP;Fraude para Recebimento de Indenização ou Valor de Seguro
+5,84;3,415;171, § 2º, VI;CP;Fraude no Pagamento por Meio de Cheque
+5,841;3,415;172;CP;Duplicata Simulada
+5,842;3,415;173;CP;Abuso de Incapazes
+5,843;3,415;174;CP;Induzimento à Especulação
+5,844;3,415;175;CP;Fraude no Comércio
+5,845;3,415;177;CP;Fraudes e Abusos na Fundação ou Administração de Sociedade por Ações
+5,846;3,415;178;CP;"Emissão Irregular de Conhecimento de Depósito ou &quot;Warrant&quot;"
+5,847;3,415;180, § 2º;CP;Receptação Qualificada
+5,85;3,463;215;CP;Posse Sexual Mediante Fraude
+5,851;3,463;216-A;CP;Assédio Sexual
+5,852;3,463;228;CP;Favorecimento da Prostituição
+5,853;3,463;229;CP;Casa de Prostituição
+5,854;3,463;230;CP;Rufianismo
+5,855;3,463;231;CP;Tráfico Internacional de Pessoas
+5,856;3,463;231-A;CP;Tráfico Interno de Pessoas
+5,862;3,491;253;CP;Fabrico / Fornecimento / Aquisição / Posse ou Transporte de Explosivos ou Gás Tóxico ou Asfixiante
+5,865;287;art. 18, II;CP;Crime Culposo
+5,866;3,491;276;CP;Venda de Produtos ou Substância nas Condições dos Artigos 274 e 275
+5,867;3,491;280;CP;Medicamento em Desacordo com Receita Médica
+5,869;3,52;286;CP;Incitação ao Crime
+5,87;3,52;287;CP;Apologia de Crime ou Criminoso
+5,872;287;1°;Lei 6.453/77;Crimes Praticados por Particular Contra a Administração em Geral
+5,873;287;arts. 337-B a 337-D;CP;Crimes Praticados por Particular Contra a Administração Pública Estrangeira
+5,875;287;359-A a 359-H;CP;Crimes Contra as Finanças Públicas
+5,876;5,873;337-B;CP;Corrupção Ativa em Transação Comercial Internacional
+5,877;5,873;337-C;CP;Tráfico de Influência em Transação Comercial Internacional
+5,878;3,438;art. 183 a 186;Lei 9.279/96;Crimes contra Patente de Invenção
+5,879;3,438;art 187 a 188;Lei 9.279/96;Crimes contra os Desenhos Industriais
+5,88;3,438;Art 189 a 190;Lei 9.279/96;Crimes contra as Marcas
+5,881;3,438;Art 191;Lei 9.279/96;Crimes Cometidos por Meio de Marca, Título de Estabelecimento e Sinal de Propaganda
+5,882;3,438;Arts. 192 a 194;Lei 9.279/96;Crimes contra Indicações Geeográficas e Demais Indicações
+5,883;3,438;Art. 195;Lei 9.279/96;Crimes de Concorrência Desleal
+5,885;3,607;Art 28;Lei 11.343/06;Posse de Drogas para Consumo Pessoal
+5,893;3,603;22;Lei 5478/68;Crime Contra a Administração da Justiça - Lei da Ação de Alimentos
+5,894;3,607;34;Lei 11.343/06;Fabricação de Objeto Destinado a Produção de Drogas e Condutas Afins
+5,895;3,607;33, § 2º;Lei 11343/06;Indução, Instigação ou Auxílio ao Uso de Drogas
+5,896;3,607;33, § 3º;Lei 11343/06;Oferecimento de Drogas para Consumo Conjunto
+5,897;3,607;35;Lei 11.343/06;Associação para a Produção e Tráfico e Condutas Afins
+5,898;3,607;36;Lei 11414/06;Financiamento ou Custeio de Produção ou Tráfico de Drogas
+5,899;3,607;37;Lei 11343/06;Colaboração com Grupo, Organização ou Associação Destinados à Produção ou Tráfico de Drogas
+5,9;3,607;38;Lei 11343/06;Prescrição Culposa de Drogas
+5,901;3,607;39;Lei 11343/06;Condução de Embarcação ou Aeronave sob Efeito de Drogas
+5,903;5,875;359-A;CP;Contratação de Operação de Crédito
+5,904;5,875;359-B;CP;Inscrição de Despesas Não Empenhadas
+5,905;5,875;359-C;CP;Assunção de Obrigação no Último Ano do Mandato ou Legislatura
+5,906;5,875;359-D;CP;Ordenação de Despesa Não Autorizada
+5,907;5,875;359-E;CP;Prestação de Garantia Graciosa
+5,908;5,875;359-F;CP;Não Cancelamento de Restos a Pagar
+5,909;5,875;359-G;CP;Aumento de Despesa com Pessoal no Último Ano do Mandato ou Legislatura
+5,91;5,875;359-H;CP;Oferta Pública ou Colocação de Títulos no Mercado
+5,911;3,388;130;CP;Perigo de Contágio Venéreo
+5,913;14;150;CF1988;Limitações ao Poder de Tributar
+5,914;5,913;150, VI;CF1988;Imunidade
+5,915;5,913;"150, § 6º; 176 -179";"CF1988; L 5.172/66 (CTN)";Isenção
+5,916;14;"145, I e 154 ; 16 a 76";"CF 1988 ; CTN";Impostos
+5,917;5,916;153, III;"CF 1988 ; L 7.713/1988; L 9.250/1995; L 9.532/1997; L 10.451/2002; L 10.828/2003; D 3000/1999";IRPF/Imposto de Renda de Pessoa Física
+5,918;5,917;6º, V;"L 7.713/1988 ; Sum 215 STJ";Incidência sobre PDV
+5,919;5,917;6º, XIV e XV;"L 7.713/1988 ; L 11.052/2004";Incidência sobre Aposentadoria
+5,92;5,917;43;"L 7.713/1988 ; MP 2.189-49/2001; IN 118/2000 SRF";Incidência sobre Aplicações Financeiras
+5,921;5,917;6º, V;"L 7.713/1988 ; Sum 136 do STJ";Incidência sobre Licença-Prêmio/Abono/Indenização
+5,922;5,917;7º, e 47;L 7.713/1988;Retido na fonte
+5,925;5,917;35;L 7.713/1988;Incidência sobre Participação nos Lucros
+5,926;5,917;18 à 22;L 7.713/1988;Incidência sobre Lucro Imobiliário
+5,927;5,917;43, II;D 3000/1999.;Incidência sobre 1/3 de férias (art. 7º, XVII da CF)
+5,928;5,917;"26 ; 638";"L 7.713/1988; D 3000/1999";Incidência sobre 13° Salário
+5,929;5,917;43, IV;D 3000/1999.;Incidência sobre Função Comissionada
+5,93;5,917;43;D 3000/1999;Incidência sobre Hora Extra
+5,933;5,916;153, III;"CF 1988; L 9.249/1995; Dec 3000/1999";IRPJ/Imposto de Renda de Pessoa Jurídica
+5,934;5,933;"51 ; 11, I.";"L 7.713/1988 ; L 7.256/1984; Sum. 184 STJ";Microempresa
+5,935;5,933;"4º ; 2º e segs. ; 1º; 185";"L 9.249/1995 ; L 7.799/1989 ; L 8.200/1991 ; L 6.404/1976";Demonstrações Financeiras (DCTF)
+5,936;5,933;"20 e segs. ; 36 e 37";"L 8.383/1991 ; L 8.541/1992";Incidência sobre Aplicações Financeiras
+5,937;5,933;"36 e 37 ; 9º, § 3º ; 5º";"L 8.541/1992 ; L 9.249/1995 ; L 9.779/1999 ; Sum 262 STJ";Retido na fonte
+5,939;5,933;146, III, c;"CF 1988 ; Sum 262 STJ";Cooperativa
+5,94;5,933;"42 ; 15";"L 8.981/1995 ; L 9.065/95 ; MP 812/9";Compensação de Prejuízos
+5,941;5,916;"153, I ; 19 a 22.";"CF 1988 ; CTN ; DL 37/1966 ;Sum 84 STF";II/ Imposto sobre Importação
+5,943;5,941;78;DL 37/1966;Drawback
+5,944;5,916;"153, II ; 23 a 28.";"CF 1988; CTN ; DL 1.578/1977.";IE/ Imposto sobre Exportação
+5,945;5,916;"153, IV ; 46 a 51.";"CF 1988; CTN.";IPI/ Imposto sobre Produtos Industrializados
+5,946;5,916;155, II;"CF 1988; LC 87/1996";ICMS/ Imposto sobre Circulação de Mercadorias
+5,948;5,916;153, V;"CF 1988; L 8.894/1994";IOC/IOF Imposto sobre operações de crédito, câmbio e seguro, ou relativas a títulos ou valores mobiliários
+5,949;5,948;1º, IV;L 8.033/1990;Incidência sobre Ações de Companhias Abertas
+5,95;5,916;"153, IV ; 29 a 31.";"CF 1988 ; CTN ; L 9.393/1996 ; D 4.382/2002.";ITR/ Imposto Territorial Rural
+5,951;5,916;156, III;"CF 1988; LC 116/2003; Sum 588 STF; Sum 138 STJ ; Sum 156 STJ ; Sum 167 STJ ; Sum 274.";ISS/ Imposto sobre Serviços
+5,952;5,916;"156, I ; 32 a 34.";"CF 1988; CTN; Sum 589 STF; Sum 668 STF; Sum 724 STF; Sum 166 STJ.";IPTU/ Imposto Predial e Territorial Urbano
+5,953;5,916;155, III;CF 1988;IPVA - Imposto Sobre Propriedade de Veículos Automotores
+5,954;5,916;156, II;"CF 1988 ; Sum 656 STF.";ITBI - Imposto de Transmissão Intervivos de Bens Móveis e Imóveis
+5,955;5,916;155, I;"CF 1988 ; Sum 112 STF ; Sum 113 ; Sum 114 STF ; Sum 115 STF ; Sum 331 STF ; Sum 435 STF ; Sum 590 STF.";ITCD - Imposto de Transmissão Causa Mortis
+5,956;14;"145, II e § 2º ; 77 a 80";"CF 1988 ; CTN";Taxas
+5,958;5,957;20, I;DL 227/1967;Taxa Anual por Hectare
+5,959;5,957;D 80.145, art. 56;"DL 3.982/1941 ; DL 5.369/1943 ; DL 8.439/1945 ; L 5.033/1966 ; D 80.145/1977.";Taxa de Armazenamento
+5,96;5,957;Lei 2145/53, art. 10;"L 2.145/1953 ; Res 11/2005 SF ; Sum 22 TRF4.";Taxa de Despacho Aduaneiro
+5,961;5,957;40, Parágrafo único;DL 227/1967;Taxa de Exploração Mineral
+5,962;5,957;17-B e ss;"L 6.938/1981; L 9.960/2000 ; L 10.165/2000.";Taxa de Fiscalização Ambiental
+5,963;5,957;10;"L 2.145/1953 ; Res 11/2005 SF ; Sum 22 TRF4";Taxa de Guia de Importação
+5,964;5,957;10;"L 2.145/1953 ; Res 11/2005 SF ; Sum 22 TRF4";Taxa de Licença de Importação
+5,965;5,957;Lei 3421, art. 2º, a;"L 3.421/1958; DL 8.311/1945; DL 2.185/1984; Sum 220 TFR.";Taxa de Melhoramento de Portos
+5,966;5,957;"D 80.145, art. 56, IV; DL 5369, 2º.";"DL 3.982/1941 ; DL 5.369/1943 ; DL 8.439/1945 ; L 5.033/1966 ; D 80.145/1977.";Taxa de Permanência
+5,967;5,957;20, I e II;Lei 9.961/2000.;Taxa de Saúde Suplementar
+5,968;5,957;"1º e segs. ; 52.";"L 7.940/1989 ; L 11.076/2004.";Taxa de Fiscalização da Comissão de Valores Mobiliários
+5,969;5,957;arts. 1º a 14;L 9.289/1996;Taxa Judiciária
+5,97;5,957;7, B;L 5.966/1973.;Taxa de Aferição de Equipamentos de Metrologia
+5,971;5,956;"CF, art. 145, II; CTN, art. 77";"CF; CTN";Estaduais
+5,973;14;148;CF 1988.;Empréstimos Compulsórios
+5,974;5,973;10 e segs.;"DL 2.288/1986 ; Sum 1 TRF4.";Aquisição de veículos automotores
+5,975;5,973;10 e segs.;"DL 2.288/1986 ; Sum 1 TRF4.";Aquisição de combustíveis
+5,977;5,973;ADCT 1988 34, § 12;"L 4.156/1962 ; L 5.073/1966; L 7.181/1983; ADCT 1988";Energia Elétrica
+5,978;14;113;CTN;Obrigação Tributária
+5,979;5,978;128 a 138;CTN;Responsabilidade tributária
+5,98;5,979;135, III e 137, III, c;CTN;Responsabilidade Tributária do Sócio-Gerente / Diretor / Representante
+5,981;5,979;150, § 7º;CF 1988;Substituição Tributária
+5,982;5,978;"IN 304 SRF, art. 3º e 4º;";"IN 304/2003 SRF; IN 316/2003 da SRF.";DIMOB/Declaração de Informações sobre Atividades Imobilíárias
+5,983;5,978;arts. 14, 19 e 31;IN 748/2007 RFB;CNPJ/Cadastro Nacional de Pessoas Jurídicas
+5,984;5,978;arts. 18, 20 e 39;IN 461/1964 SRF;CPF/Cadastro de Pessoas Físicas
+5,985;5,978;113, § 2º;CTN;Obrigação Acessória
+5,986;14;139 e segs, especialmente 183 a 193.;CTN;Crédito Tributário
+5,987;5,986;156 e segs.;CTN;Suspensão da Exigibilidade
+5,988;5,987;art. 151, II;CTN;Carta de fiança
+5,989;5,987;art. 151, VI;CTN;Parcelamento
+5,99;5,986;156 e segs.;CTN;Extinção do Crédito Tributário
+5,992;5,99;174;CTN;Prescrição
+5,993;5,99;173;CTN;Decadência
+5,994;5,99;"170-A ; 74";"CTN ; L 9.430/1996";Compensação
+5,995;5,99;11;"CTN ; L 6.830/1980";TDA/Títulos da Dívida Agrária
+5,996;5,986;175 II e 180 e 182;CTN;Anistia
+5,997;5,986;138;CTN;Denúncia espontânea
+5,998;5,986;142 a 150;CTN;Lançamento
+5,999;5,986;205 a 208;CTN;CND/Certidão Negativa de Débito
+6;5,999;205;CTN;Expedição de CND
+6,001;5,999;206;CTN;Expedição de Certidão Positiva de Débito com Efeito de Negativa
+6,002;5,999;"7º, V ; 27";L 8.036/1990;Certificado de Regularidade - FGTS
+6,003;5,986;"arts. 43, §2º, 151, I, 155, XII, g, 156, §3º, III, 195, §3º, 227, §3º, VI; ADCT, art. 40.";CF;Incentivos fiscais
+6,004;5,986;art. 38;Lei 6830/80;Anulação de Débito Fiscal
+6,005;5,986;"161, § 1º e 167, parágrafo único ; 14, III , 16 e 39 § 4º";"CTN ; L 9.250/1995";Juros/Correção Monetária
+6,006;5,986;"160 ; 30";"CTN ; L 8.212/1991";Prazo de Recolhimento
+6,007;5,986;165 a 169;CTN;Repetição de indébito
+6,008;5,986;"145, § 2 º, 150, § º, § 6º, 154, I, 155, § 2º, XI e XII ; 20, 24 25 33 44 47 64 e 77";"CF 1988 ; CTN";Base de Cálculo
+6,01;5,986;155, § 2º, II;"CF 1988 ; L 9.363/1996 ; MP 1.508-20/1997 ; Lei 9.493/1997 ; 10.276/2001";Crédito Presumido
+6,011;5,986;114 a 118;CTN;Fato Gerador/Incidência
+6,012;5,986;149, § 1º, § 2º, III, 153, § 1º, § 5º, 155, § 2º, IV a VIII, § 4º, IV, § 6º;CF 1988;Alíquota
+6,013;6,012;art. 153, §1º, 155, §2º, V, VI, VII, VIII, IX, X e XI;CF;Alíquota Zero
+6,014;6,012;arts. 153, I, II, IV, V, 155, I, 156, I;CF;Alíquota Progressiva
+6,015;6,012;art. 48;CTN;Índice da Alíquota
+6,016;5,986;art. 153, §3º, II, 154, I, 155, §2º, I;CF;Creditamento
+6,017;14;"131, § 3º ; 201";"CF 1988 ; CTN ; L 6.830/1980";Dívida Ativa
+6,018;14;5, LV;"CF 1988 ; D 70.352/1972 ; L 9.784/1999 ; L 9.430/1996";Processo Administrativo Fiscal
+6,019;6,018;"5º, LV ; 32 ; 126, § 1° e § 2°";"CF 1988 ; D 70.352/1972 ; L 8.213/1991 ; L 9.639/1998 ; L 10.522/2002";Depósito Prévio ao Recurso Administrativo
+6,02;6,018;"5, LV ; 32, § 2º ; 37, § 2º ; 64 e 64-A";"CF 1988 ; D 70.352/1972 ; L 8.212/1991 ; L 9.532/1997";Arrolamento de Bens
+6,022;6,021;198;"CTN ; IN 580/2001 SRF";Sigilo Fiscal
+6,023;6,022;11, §3;"L 9.311/1996 ; 10.174/2001";Utilização de Dados Relativos à CPMF para Fins de Fiscalização
+6,024;6,021;"DL 1455, art. 23, §4º, 26; SUM 323, STF";"DL 1.455/1976 ; D 4.543/2002; Sum 323 STF";Liberação de mercadorias
+6,025;6,021;"151, II c/c 156, VI ; 1º, §3º e §4º ; 2º, I";"CTN ; L 9.703/1998 ; D 2.850/1998";Levantamento de depósito
+6,026;6,021;art. 2º;L 10.522/2002;Cadastro de Inadimplentes - CADIN
+6,027;6,021;"Sum 70 STF ; Sum 547 STF";"Sum 70 STF ; Sum 547 STF";Autorização para Impressão de Documentos Fiscais - AIDF
+6,028;6,021;"104, V c/c 105 ,IX a XI ; 604, I";"DL 37/1966 ; D 4.543/2002";Liberação de Veículo Apreendido
+6,029;6,021;"104, V e 105 ,IX a XI ; 604";"DL 37/1966 ; D 4.543/2002";Perdimento de Bens
+6,031;14;149;CF 1988;Contribuições
+6,032;6,031;"145, III ; 81 e 82";"CF 1988 ; CTN ; DL 195/1967";Contribuições de Melhoria
+6,033;6,031;"149 ; 195 § 4º";CF 1988;Contribuições Sociais
+6,034;6,033;195, I , b e ADCT 56;"CF 1988 ; DL 1.940/1982";Finsocial
+6,035;6,033;195, I , b;"CF 1988 ; LC 70/1991; L 9.718/1998 ; 10.833/2003";Cofins
+6,036;6,033;"195, I,c; 28 a 30 ; 37";"CF 1988 ; L 7.689/1988 ; L 9.249/1995 ; L 9.316/1996; L 9.430/1996 ; L 10.637/2002";Contribuição Social sobre o Lucro Líquido
+6,037;6,033;"212, § 5° ; ; 15 ;";"CF 1988 ; L 10.832/2003 ; L 9.424/1996 ; L 9.766/1998 ; D 3.142/1999; DL 1.422/1975 ; Sum 732 STF";Salário-Educação
+6,038;6,033;"195, I, a ; 22, II e 25, II ; 3º, II ; 15 ; 53";"CF 1988 ; L 8.212/1991 ; L 7.787/1989 ; L 6.367/76 ; D 79.037/1976";Seguro Acidentes do Trabalho
+6,039;6,033;239;"CF 1988 ; LC 7/1970 ; L 9.715/1998 ; L 9.317/1998 ; 10.637/2002";PIS
+6,04;6,033;15, II;"LC 11/1971 ; LC 16/1973";Funrural
+6,041;6,033;"149 ; 6º e 7º; 1º, I ;";"CF 1988 ; L 2.613/1955 ; DL 1.110/1970 ; DL 1.146/1970";Contribuição INCRA
+6,043;6,033;"195, I, a ; 30, VI, VII e VIII e 33 § 4º";"CF 1988 ; L 8.212/1991";Construção Civil
+6,044;6,031;"149 ; 4º, § 1º";"CF 1988 ; L 1.166/1971";Contribuições Corporativas
+6,045;6,044;149;"CF 1988 ; L 2.613/1955 ; DL 4.048/1942 ; DL 8.621/1946 ; DL 9.853/1946 ; L 8.029/1990 ; L 8.154/1990 ; L 8.315/1991; D 566/1992 ; D 790/1993 ; L 8.706/1993 ; D 1.007/1993 ; D 1.092/1994";Contribuições para o SEBRAE, SESC, SENAC, SENAI e outros
+6,046;6,044;149;"CF 1988; L 2.800/1956 ; L 6.994/1982 ; L 10.795/2003 ; L 11.000/2004";Conselhos Regionais e Afins (Anuidade)
+6,047;6,044;"149 ; 579 e 580 ; 27 e 28";"CF 1988 ; CLT";Contribuição Sindical
+6,048;6,031;195, I, a e II;"CF 1988 ; L 8.212/1991";Contribuições Previdenciárias
+6,049;6,048;"40, e 149, §1º ; 231 ; 9º ; ; ; ; ; ; 4º, 5º e 6º.";"CF 1988 ; L 8.112/1990 ; L 8.162/1991 ;L 8.688/1993; MP 520/1994; MP 628/1994; L 9.630/1998; L 9.783/1999 ; L 10.887/2004";Servidores Ativos
+6,05;6,048;"40, §18 e §21 e 149, §1º ; 231 ; 9º; 5º e 6º";"CF 1988 ; L 10.887/2004";Servidores Inativos
+6,051;6,048;"195, II ; 12, I, h e j";"CF 1988 ; L 8.212/1991 ; L 9.506/1997; Res 26/2005 SF ; L 10.887/2004";Mandato Eletivo/Lei 9.506/97
+6,052;6,048;"195, II ; 12, §4º";"CF 1988 ; L 8.212/1991 ; L 9.032/1995";Aposentadoria/Retorno aoTrabalho
+6,053;6,048;"40, § 13 ; 12, I, g";"CF 1988 ; L 8.212/1991 ; L 8.647/1993";Cargo em Comissão
+6,054;6,048;"195, I, b ; 20 e 21";"CF 1988 ; L 8.212/1991";Tempo de Serviço Urbano/Contribuições não Recolhidas
+6,055;6,048;"195, I, b ; 20 e 21";"CF 1988 ; L 8.212/1991";Tempo de Serviço Rural/Contribuições não Recolhidas
+6,056;6,048;"195, I, b ; 1º ; 22, 28, § 7º ; ; 7º, § 2º ; 37 § 7º ; 1º e 6º.";"CF 1988 ; L 7.789/1989 ; L 8.212/1991 ; D 612/1992 ; Lei 8.620/1993 ; D 3.048/1999 ; L 9.783/1999 ; Sum 207 STF";Gratificação Natalina/13º Salário
+6,057;6,048;"154, I e 195, § 4º e § 8º ; 25 e 25-A";"CF 1988 ; L 8.212/1991 ; L 8.213/1991 ; L 8.540/1992 ; L 8.870/1994 ; L 10.256/2001";Produção Agropecuária
+6,058;6,048;195,I, b;"CF 1988 ; L 8.212/1991";Indenização Trabalhista
+6,059;6,048;"§ 1º ; ; 28,§ 9º, e, 9, s";"CLT ; D 22919/1987 ; L 8.212/1991 ; L 9.528/1997 ; Port 3.296/1986 MT 389";Reembolso auxílio-creche
+6,06;6,048;"195, I, a ; 22, I";"CF 1988 ; Lei 8.212/91";Contribuição sobre a folha de salários
+6,062;6,048;28, I e § 9º, e, 6.;8.212/1991;1/3 de férias
+6,063;6,048;28, I e § 9º, c;L 8.212/1991;Auxílio-Alimentação
+6,064;6,048;28, I e § 9º, q;L 8.212/1991;Custeio de Assistência Médica
+6,065;6,048;28, I;L 8.212/1991;Hora Extra
+6,066;6,048;51, Parágrafo Único;"L 8.212/1991 ; Sum 417 STF";Massa Falida- Recolhimento
+6,067;6,048;22, IV;L 8.212/1991;Nota Fiscal ou Fatura
+6,068;6,048;28, § 9º, a;L 8.212/1991;Salário-Maternidade
+6,069;6,048;31;L 8.212/1991;Contribuição sobre Nota Fiscal de Execução de Serviços
+6,07;6,048;"3º, I ; 22, I";"L 7.787/1989 ; L 8.212/1991 ; LC 84/1996";Contribuição de Autônomos, Empresários (Pró-labore) e Facultativos
+6,072;6,071;Lei 4117/62, art. 51;"L 6.127/1974 ; L 6.093/1974 ; DL 2.186/1984";FNT/Fundo Nacional de Telecomunicações
+6,073;6,071;Lei 7700, art. 1º;"L 7.700/1988 ; L 9.309/1996; Sum 50 STJ";ATP/Adicional de Tarifa Portuária
+6,074;6,071;Lei 8630, art. 61;"L 8.630/1993 ; D 1.035/1993";AITP/Adicional de Indenização do Trabalhador Portuário Avulso
+6,075;6,071;art. 1º;L 7.920/1989;Adicional de Tarifa Aeroportuária
+6,076;6,071;Lei 10893, art. 1º;"DL 2.404/1987 ; DL 2.414/1988 ; L 10.893/2004";AFRMM/Adicional ao Frete para Renovação da Marinha Mercante
+6,077;6,071;art. 1º;"L 9.424/1996 ; EC 14/1996";FUNDEF/Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério
+6,078;6,071;arts. 1º e 2º;L 10.438/2002;Seguro Apagão (Lei 10.438/02)
+6,079;6,071;art. 2º;L 10.168/2000;Contribuição sobre licença de uso ou transferência de tecnologia
+6,08;6,071;"149 ; 177, § 4º";"CF 1988 ; Lei 10.336/2001";Contribuição de Intervenção no Domínio Econômico (CIDE)
+6,081;6,071;art. 6º;DL 1.437/1975;FUNDAF/Fundo Especial de Desenvolvimento e Aperfeiçoamento das Atividades de Fiscalização
+6,082;6,071;"81§ 1º ; 11, II, a e 14, I e II ; 75, II ; ;";"L 5.787/1972 ; D 92.512/1986 ; L 8.237/1991 ; MP 2.131/2000";FUSEX/FUNSA/FUSMA/Fundo de Saúde das Forças Armadas
+6,083;6,071;149-A;CF 1988;Contribuição de Iluminação Pública
+6,084;6,071;art. 1º;Lei 4156/62;IUEE/Imposto Único sobre Energia Elétrica
+6,085;6,071;Lei 8036, art. 1º;"L 8.036/1990 ; LC 110/2001; Sum 210 STJ";FGTS/Fundo de Garantia Por Tempo de Serviço
+6,086;6,071;"36-B ; 3º";"L 4.870/1965 ; DL 308/1967";Contribuição sobre Açúcar e Álcool
+6,087;6,071;art. 1º;L 9.539/1997;CPMF/Contribuição Provisória sobre Movimentação Financeira
+6,088;14;1º;Mercosul Tr Assunção;Discriminação Tributária MERCOSUL
+6,091;6,089;art. 1º;L 10.684/2003;PAES/Parcelamento Especial
+6,092;6,089;Lei 9317, arts. 2º e 3º;"L 9.317/1996 ; L 9.779/1999 ; L 10.034/0000; L 10.684/2003";SIMPLES
+6,093;6,089;LC 123, art. 3º, §11;"LC 123/2006 ; LC 127/2007";Super SIMPLES
+6,095;6,094;"Arts. 42/47 e 55 inc. II e 101 e 151; Art. 6º § 2º; Art. 26 II";"Lei 8.213/91; LC 16/73; Dec. 83.080/79; Lei 9.032/95";Aposentadoria por Invalidez
+6,096;6,094;"Arts. 48/51;";"Lei 8.213/91; EC 20/98";Aposentadoria por Idade (Art. 48/51)
+6,097;6,096;"art. 11, inc. I, alínea ""a"", e incs. III, IV, alíneas ""a"" e ""b"", V, alíneas ""f"", ""g"" e ""h"" e VI e 142";Lei 8.213/91;Urbana (Art. 48/51)
+6,098;6,096;"Arts. 11, I, ""a"", e III, IV, V, ""f"" e ""g"", VI e VII, 39, 48,106, 142 e 143";Lei 8.213/91;Rural (Art. 48/51)
+6,099;6,094;"Arts. 52/56; ;";"L 8.213/1991; 9.032/95; EC 20/98";Aposentadoria por Tempo de Serviço (Art. 52/4)
+6,1;6,094;Arts. 57/58, , , , , , ,;Lei 8.213/91, Dec. 53.831/64, Dec. 83.080/79, Lei 2.172/97, MP 1.663/98, 9.711/98, Lei 9.528/97 e Lei 9.032/95;Aposentadoria Especial (Art. 57/8)
+6,101;6,094;"Arts. 59/64 e 26; Art. 24";"Lei 8.213/91; Lei 3.807/60";Auxílio-Doença Previdenciário
+6,102;6,094;Arts. 65/70, Art. 3º, , ,;Leis 8.213/91, 7.789/89, 4.266/63, Dec. 53.153/63;Salário-Família (Art. 65/70)
+6,103;6,094;"Arts.25 III, 26 VI, 39 § único, 71/73; ; ;";"Leis 8.213/91; 8.861/94; 9.876/99";Salário-Maternidade (Art. 71/73)
+6,104;6,094;Arts. 74/79;Lei 8.213/91;Pensão por Morte (Art. 74/9)
+6,105;6,094;"Arts. 74 e 80; Arts. 13 e 201; Arts. 116 a 119";"Lei 8213/91; EC 20/98; Dec 3.048/99";Auxílio-Reclusão (Art. 80)
+6,106;6,094;"Arts. 81/85, revogados pelas Leis 8.870/94 e 9.129/95 e 9.032/95, Arts. 11, § 3º e 18, §2º; ; art. 244,245,246;art. 55";"Lei 8.213/91; MP 381/93; Lei 8.212/91; Decreto 83.080/79; dec. 89.312/84";Pecúlios (Art. 81/5)
+6,107;6,094;"Art. 86; ;";"Leis 8.213/91; Lei 9.032/95; Lei 9.528/97";Auxílio-Acidente (Art. 86)
+6,108;6,107;"art. 6º; Art. 86 inciso I";"Lei 6.367/76; Lei 8.213/91";Incapacidade Laborativa Parcial
+6,109;6,107;"art. 6º; art. 86 inciso II";"6.367/76; Lei 8.213/91";Incapacidade Laborativa Permanente
+6,11;6,107;"art. 6; Art. 86 inciso III";"Lei 6.367/76; Lei 8.213/91";Incapacidade Laborativa Temporária
+6,111;6,107;"Art. 20 e 86; anexo II";"Lei 8.213/91; Decreto 3048/99";Movimentos Repetitivos/Tenossinovite/LER/DORT
+6,112;6,107;art. 104, §5º, anexo V;Decreto 3048/99;Redução da Capacidade Auditiva
+6,113;6,094;"Art. 87, revogado pela Lei 8.870/94 e Arts. 11, § 3º e 18, §2º; art. 41 inciso V; art. 34";"Lei 8.213/91; Dec. 83080/79; Dec. 89.312/84";Abono de Permanência em Serviço (Art. 87)
+6,114;12,734;"Arts. 20 e 21; ;";"Lei 8.742/93; Dec. 1.744/95; Lei 9.720/98";Benefício Assistencial (Art. 203,V CF/88)
+6,115;6,094;"; ; art. 186; ;";"Dec-Lei 956/69; Lei 8.186/91; Decreto 83.080/79; Lei 10.478/2002";Ferroviário
+6,116;6,094;"Arts. 178 e 197, ""c""; Art. 53; ; ; ; ; ; ; ;";"CF/88; ADCT/88; Leis 288/48; 1.756/52; 4.29763; 5.315/67; CF/67; 5.698/71; Lei 8059/90";Ex-combatentes
+6,117;6,094;"Arts. 63 e 70; art. 40; Art. 15; Art. 139; ;";"CLPS; 8.742/93; Lei 9.528/97; Lei 8.213/91; Leis 6.179/13; 6.174/74";Renda Mensal Vitalícia
+6,118;6,094;"Art. 1; art. 6º";"E.C. 20/98; Lei 9.876/99";Aposentadoria por Tempo de Contribuição (Art. 55/6)
+6,121;6,12;Art. 202;CF/88;RMI pelo art. 202 CF/88 (média dos 36 últimos salários-de-contribuição)
+6,122;6,12;art. 1º;Lei 6.423/77;RMI pelo art. 1º da Lei 6.423/77 - índices de atualização dos 24 1ºs salários-de-contribuição, anteriores aos 12 últimos)
+6,123;6,12;"art. 29-B; art. 33";"Lei 8.213/91; Decreto 3048/99";RMI pela equivalência entre Salário-de-Benefício e Salário-de-Contribuição
+6,124;6,12;Art. 21, Art. 201, §2º, Arts. 29, §2º, 31 e 33 Arts. 28 e 29;Lei 3807/60 (LOPS), Dec-Lei 66/66, Leis 5.890/73, 7.787/89, 8.870/94, (8.880/94), (CF/88), EC 20/98, (Lei 8.213/91), (Lei 8.212/91), EC 32/01, Lei 10.699/03;RMI sem incidência de Teto Limitador
+6,125;6,12;"art. 53 do inciso II, III e par. único; ;";"ADCT; CF/88";RMI da pensão de dependente de ex-combatente
+6,126;6,12;"Art. 201, §2º; art. 28 §5º; Arts. 29, §2º e 33; ; ; ;";"CF/88; 8.212/91; 8.213/91; Lei 3.807/60 (LOPS), Dec-Lei 66/66; Leis 5.890/73; 7.787/89; 8.870/94; 8.880/94";Benefício mínimo a partir da CF/88 (art. 201, § 2º CF/88)
+6,127;6,12;(Art. 21), (Art. 201, §2º), (Arts. 29, §2º, 31 e 33) (Arts. 28 e 29);Lei 3.807/60 (LOPS), Dec-Lei 66/66, Leis 5.890/73, 7.787/89, 8.870/94, (8.880/94), (CF/88), EC 20/98, Leis (8.213/91), (8.212/91), EC 32/01, Lei 10.699/03;Parcelas e índices de correção do salário-de-contribuição
+6,128;6,12;(Arts. 29, §2º, 31 e 33) (Arts. 28 e 29);Lei 8.870/94, (8.880/94), (CF/88), EC 20/98, Leis (8.213/91), (8.212/91), EC 32/01, Lei 10.699/03;Limitação do salário-de-benefício e da renda mensal inicial
+6,129;6,12;"art. 5º, inc. II e III, redação original e art. 3º, § 7º, redação dada pela Lei 6210/75; art. 40; art. 23; art. 14; Arts. 23 e 33; art. 1º, § 3º";"Lei 5890/73; Decreto 83.080/79; Decreto 89.312/84; Lei 6.708/79; CLPS; Lei 6.205/75";RMI cuja salário-de-benefício supera menor valor teto
+6,13;6,12;"art. 13; art. 6º; art. 43 e 53 §2º; art. 233; art. 29";"Lei 5890/73; Lei 6332/76; Decreto 83.081/79; Decreto 90.817/86; Decreto 72.771/73 ; Lei 8.212";Escala de Salário-Base
+6,131;6,12;"art.13; art. 6o, art. 43 e 53 §2º; ; art. 233; art. 29";"Lei 5890/73; Lei 6332/76;Decreto 83.081/79; Decreto 90.817/86; Decreto 72.771/73; Lei 8.212; Súmula 50 TRF4ªR.";Contribuição sobre vinte salários mínimos
+6,132;6,12;art. 6ª;Lei 9876/99;Cálculo do Benefício de acordo com a Sistemática anterior à Lei 9.876/99
+6,133;6,12;art. 1º e 2º;Lei 10.999/2004;IRSM de Fevereiro de 1994(39,67%)
+6,134;6,12;"art. 75;";"Leis 8.213/1991; L 9.032/1995";Alteração do coeficiente de cálculo de pensão
+6,135;6,12;"art. 44, art. 57§1º;";"Leis 8.213/1991; 9.032/1995";Alteração do coeficiente de cálculo do benefício
+6,136;6,12;art. 29, § 6º;Lei 8.213/91;Cálculo do benefício de segurado especial de acordo com a Lei 9.876/99
+6,137;6,12;"art. 29 inc. I;";"Lei 8.213/91; Lei 9.876/99";Cálculo do fator previdenciário - Lei 9.876/99
+6,139;6,138;";art. 2º; art. 2º";"Lei 6708/79; Dec-Lei 2171/84; Lei 7.604/87";Reajuste pela Súmula 260 do TFR
+6,14;6,138;"; art.58";"CF/88; ADCT";Art. 58 ADCT da CF/88
+6,141;6,138;art. 2º;Dec-Lei 2.351/87;Utilização do PNS no Reajuste de Benefícios
+6,142;6,138;art. 41-A;"Lei 8213/91; Medida Provisória nº 316/2006; Lei 11.430/2006";Manutenção do Benefício pela equivalência salarial
+6,143;6,138;art. 1º;Lei 6.899/81;Expurgos inflacionários sobre os benefícios
+6,144;6,138;art. 1º;Lei 7789/89;Salário Mínimo de Ncz$ 120,00 para junho/89
+6,145;6,138;art. 276;Decreto 357/91;Reajuste de 147%
+6,146;6,138;"Art. 41 §9º;";"Lei 8213/91; MP 1.415/96";Reajustamento pelo IGP-DI
+6,147;6,138;art.29B;Lei 8213/91;Aplicação de coeficiente de cálculo diverso do fixado na Lei n.º 8.213/91
+6,148;6,138;"art. 41 inciso II; ; ; ; ; ; ; ; ; ;";"Lei 8.213/91; MPs 637/94; 679/94; 728/94; 782/94; 848/95; 908/95; 951/95; 976/95; 1002/95; Lei 9.063/95";Reajuste aplicado ao salário mínimo em setembro/94
+6,149;6,138;Art. 20, inc. I;Lei 8.880/94;Sistemática de conversão dos benefícios previdenciários em URVs
+6,15;6,138;art. 8º §3º;MP 1.415/96;Reajustamento pelo INPC
+6,151;6,138;art. 144;Lei 8.213/91;Art. 144 da Lei 8.213/91 e/ou diferenças decorrentes
+6,152;6,138;"art. 201 § 6º; art. 5º";"CF/88; Lei 8.114/90";Gratificação Natalina a partir da CF/88 (Art. 201, § 6º CF/88)
+6,153;6,138;"art. 146; alínea b do § 6° do art. 9°";"Lei 8213/91; Lei 8178/91";Abono da Lei 8.178/91
+6,154;6,138;art. 10, II;Lei 8222/91;Índice de 4,02% da Lei 8.222/91
+6,155;6,138;"art. 2º ; ;";"Dec-Lei 1910/81; Lei 6439/77; Lei 7.485/86";Desconto do DL 1.910/81
+6,156;6,138;"art. 115; art. 154, II, § 3º; art. 227, II, § 3º";"Lei 8213/91; Dec. 3.048/99; Dec. 2.172/97";Descontos dos benefícios
+6,159;6,138;"art. 201 §5º ; art. 1º";"CF 88; Portaria 714/93";Reajuste conforme Portaria MPAS 714/1993
+6,161;6,16;"art. 89 a 93; art. 212";"Lei 8213/91; Dec-357/91";Habilitação e Reabilitação Profissional
+6,162;6,16;"art. 103A; ; ;";"Lei 8213/91;MPR-1523-9/97 convertida na Lei-9528/97; MPR-1663-15 convertida na Lei-9711/98";Decadência/Prescrição
+6,164;6,16;art. 78;Lei 8.213/91;Declaração de Ausência
+6,165;6,16;"Art. 39; art. 21; art. 32; Art. 34 e 98; artigo 11 §2º, art.32 I, II III, 96 III";"Dec. 83.080/79; Dec. 89.312/84; Decreto 611/92; Decreto 3.04899; Lei 8.213 /91";Atividade concomitante
+6,166;6,16;"art. 11, §3º e 18, §2º;";"Lei 8213/91; Lei 9032/95.";Renúncia ao benefício
+6,167;6,16;"art. 116; art. 155";"Lei 8.213/91; Decreto 3048";Demonstrativo das importâncias pagas
+6,168;6,16;"art. 24 e 142;";"Lei 8.213/91; Lei 10.666/2003";Períodos de Carência
+6,169;6,16;"art.48; ; art. 9º";"Lei 8.213/91; Lei 10.666/03; E.C. 20/98";Limite Mínimo de Idade
+6,17;6,16;"art. 15; art. 13;";"Lei 8.213/91; Decreto 3048/99; Lei 10.666/03";Perda da qualidade de segurado
+6,171;6,16;"art. 16; art. 22";"Lei 8.213/91; Decreto 3048/99";Inclusão de Dependente
+6,172;6,16;art. 9º §1º e inciso II;E.C. 20/98;"Regra de Transição para Aposentadoria - &quot;Pedágio&quot;"
+6,174;6,173;art. 49, 54, 57 §2º, 60, 74;Lei 8.213/91;Data de Início de Benefício (DIB)
+6,175;6,173;"art. 86 §2º, art. 124 inciso I, II, III, IV, V e VI, § único, art. 124;";"Lei 8.213/91; Lei 9032/95";Cumulação
+6,176;6,173;art. 103 e 112;Lei 8.213/91;Parcelas de benefício não pagas
+6,177;6,173;arts. 24 a 86;Lei 8213/91;Concessão
+6,178;6,173;art. 77, II, §2º;Lei 8213/91;Restabelecimento
+6,179;6,173;arts. 16, 26, 74;Lei 8213/91;Conversão
+6,182;6,181;"art. 57 e 58; art. 70-A e art.193; ; ;";"Lei 8.213/91; Decreto 3.048/99; Lei 9032/95 ; Lei 9.711/98; Decreto 4.827/2003";Averbação/Cômputo/Conversão de tempo de serviço especial
+6,183;6,181;"art. 11 §1º, 55 §2º,106 e 143; art. 55, 106 e 143; art. 25; art. 9º inciso VI §5º; art. 195 § 8º";"Lei 8213/91; Lei 9.063/95; Lei 8.212/91; Decreto 3048/99; CF/88";Averbação/Cômputo de tempo de serviço de segurado especial (regime de economia familiar)
+6,184;6,181;"art. 11 §1º, art. 55 e 106; art.12 inciso V; art. 61, 128 §3º, art. 348 §1º";"Lei 8213/91; Lei 9.876/99; Lei 8.212/91; Decreto 3048/99";Averbação/Cômputo de tempo de serviço rural (empregado/empregador)
+6,185;6,181;"Art. 58; art. 58;";"Decreto 611/92; Decreto 2.172/97; Decreto 4.073/42";Averbação/Cômputo do tempo de serviço como aluno aprendiz
+6,186;6,181;"art. 55 inc. I; art. 60 inc.IV";"Lei 8.213/91; Decreto 3048/99";Averbação/Cômputo do tempo de serviço militar
+6,187;6,181;"; ; art. 55 §1º; - Art. 30 Inciso I (com a redação do Dec. 3265/99) e art. 60 inc. I";"Lei 5.859/72; Decreto 71.885/73; Lei 8.213/91; Decreto 3048/99";Averbação/Cômputo de tempo de serviço de empregado doméstico
+6,188;6,181;"art.55; art. 60 inciso I";"Lei 8.213/91; Decreto 3048/99";Averbação/Cômputo de tempo de serviço urbano
+6,189;6,181;"art. 130;";"Decreto 3048/99; Decreto 3668/2000";Certidão de Tempo de Serviço
+6,19;6,181;"art. 94; ; ; ; ; ; ; art. 125";"Lei 8213/91; Lei 6.226/75; Leis 6.864/80; 8.870/94 Decretos nºs 76.326/75; 83.080/79; 357/91; 611/92; 2.172/97; 3.048/99";Contagem Recíproca de Tempo de Serviço
+6,192;6,191;"12;";"CF1988; L 818/1949";Nacionalidade
+6,193;6,192;"12, I; 1º";"CF1988; L 818/1949";Aquisição
+6,194;6,192;"12, § 4º, II; 22 a 34";"CF1988; L 818/1949";Perda
+6,195;6,192;"12, II; 7º a 21; 111 a 124";"CF1988; L 818/1949; L 6.815/1980";Concessão de Naturalização
+6,196;6,192;"5º, LI, 12, § 4º, I; 22, III, 24 e segs.";"CF1988; L 818/1949";Cancelamento de Naturalização
+6,197;6,191;"22, XIII, 109, X;";"CF1988; L 6.815/1980";Estrangeiro
+6,198;6,197;1º a 94;"L 6.815/1980; L 7.685/1988; D 86.715/1981";Admissão / Entrada / Permanência / Saída
+6,199;6,197;28 e 29;"L 6.815/1980; L 9.474/1997; D 70.946/1972";Asilo
+6,201;6,197;4º;Declaração Sociolaboral do MERCOSUL;Trabalhador Migrante ou Fronteiriço do MERCOSUL
+6,202;6,191;art. 109, V-A e § 5º;CF1988;Proteção Internacional a Direitos Humanos
+6,207;6,203;"109, X; 202, 210";"CF1988; CPC";Mercosul
+6,212;6,191;109, III;Constituição Federal;Tratado Internacional
+6,213;6,191;109, III;Constituição Federal;Normas do Mercosul
+6,214;6,191;7;LICCvB (DL 4.657/1942);Casamento e Divórcio
+6,215;6,191;"10; 89";"LICCvB (DL 4.657/1942); CPC";Sucessão de Bens de Estrangeiro
+6,216;6,191;"7º;";"LICCvB (DL 4.657/1942); D 56.826/1965; D 2.428/1997";Prestação de Alimentos
+6,217;6,191;"1.134 a 1.141; 11, § 1º";"CCvB2002; LICCvB (DL 4.657/1942)";Funcionamento de Empresa Estrangeira
+6,218;6,191;11;LICCvB (DL 4.657/1942);Pessoa Jurídica Estrangeira
+6,219;6,191;9;LICCvB (DL 4.657/1942);Contratos Internacionais
+6,226;7,779;6º, VI, e 43;Lei 8.078/1990 (C.D.C.);Inclusão Indevida em Cadastro de Inadimplentes
+6,233;7,771;Artigo 54, do C.D.C.;Lei n. 9.656/99 e Lei n. 8.078/90 (C.D.C.);Planos de Saúde
+6,238;5,779;24;Lei 5478/68;Oferta
+6,239;5,779;1.694;Lei 10406/02;Fixação
+7,618;7,771;18, 19 e 20;Lei n. 8.078/90 (C.D.C.);Turismo
+7,619;7,771;53,§2º;Lei n. 8.078/90 (C.D.C.);Consórcio
+7,62;7,771;arts. 1º a 9º;Lei n. 9.870/99;Estabelecimentos de Ensino
+7,621;7,771;Artigo 54, do C.D.C., e 757 e 802, do C.C.;Código Civil e Lei n. 8.078/90 (C.D.C.);Seguro
+7,626;7,617;6º, III, e 22, C.D.C.;Lei n. 9.472/97 e Lei n. 8.078/90 (C.D.C.);Assinatura Básica Mensal
+7,627;7,617;6º, III, e 22;Lei n. 8.078/90 (C.D.C.);Pulsos Excedentes
+7,656;5,626;1723 a 1727;Lei 10406/02;União Estável ou Concubinato
+7,657;5,626;"1728 e 1767; 36 a 38";"Lei 10406/02; Lei 8.069/90 (ECA)";Tutela e Curatela
+7,659;5,626;1.639;Lei 10406/02;Regime de Bens Entre os Cônjuges
+7,66;5,626;1689;Lei 10406/02;Usufruto e Administração dos Bens de Filhos Menores
+7,661;5,626;1711;Lei 10406/02;Bem de Família
+7,664;5,808;1571, III e IV, 1.572, caput e §§ 1o e 2o, 1.574 e 1.580;Lei 10406/02;Dissolução
+7,667;10,577;1608 e 1.615;Lei 10406/02;Investigação de Maternidade
+7,671;10,577;1.623;Lei 10406/02;Adoção de Maior
+7,672;7,656;Arts. 1º a 5º;IN 25/2000 (INSS);União Homoafetiva
+7,676;7,673;"1.791; 1.797; 1.991";Lei 10406/02;Administração de herança
+7,677;7,656;1723;Lei 10406/02;Reconhecimento / Dissolução
+7,687;7,673;1796 (CC), 983 (CPC) e 1o (Lei 6858);Lei 10406/02, Lei 5869/73 e Lei 6858/80;Inventário e Partilha
+7,689;7,688;299 a 303;Lei nº 10.406/02 (Código Civil;Assunção de Dívida
+7,694;7,681;"854 a 886;";"Lei nº 10.406/02 (Código Civil) - arts. 854 a 886;";Atos Unilaterais
+7,696;7,681;"- arts. 955 a 965;";Lei nº 10.406/02 (Código Civil);Preferências e Privilégios Creditórios
+7,697;7,691;Súmula 54 do STJ;Súmula 54 do STJ;Correção Monetária
+7,698;7,691;arts. 402 a 405;Lei nº 10.406/02 (Código Civil);Perdas e Danos
+7,7;7,691;"- arts. 408 a 416;";Lei nº 10.406/02 (Código Civil);Cláusula Penal
+7,701;7,691;"- arts. 417 a 420;";Lei nº 10.406/02 (Código Civil);Arras ou Sinal
+7,703;7,69;arts. 304 a 388;Lei nº 10.406/02 (Código Civil);Pagamento
+7,704;7,69;arts. 334 a 345;Lei nº 10.406/02 (Código Civil);Pagamento em Consignação
+7,705;7,69;arts. 346 a 351;Lei nº 10.406/02 (Código Civil);Pagamento com Sub-rogação
+7,706;7,69;"arts. 352 a 355;";Lei nº 10.406/02 (Código Civil);Imputação do Pagamento
+7,707;7,69;arts. 356 a 359;Lei nº 10.406/02 (Código Civil);Dação em Pagamento
+7,708;7,69;arts. 360 a 367;Lei nº 10.406/02 (Código Civil);Novação
+7,709;7,69;368 a 380;Lei 10406/02;Compensação
+7,71;7,69;-arts. 381 a 384;Lei nº 10.406/02 (Código Civil);Confusão
+7,711;7,69;arts. 385 a 388;Lei nº 10.406/02 (Código Civil);Remissão das Dívidas
+7,712;7,694;arts. 854 a 860;Lei nº 10.406/02 (Código Civil);Promessa de Recompensa
+7,713;7,694;arts. 861 a 875;Lei nº 10.406/02 (Código Civil);Gestão de Negócios
+7,714;7,694;art. 876 a 883;Lei nº 10.406/02 (Código Civil);Pagamento Indevido
+7,715;7,694;arts. 884 a 886;Lei nº 10.406/02 (Código Civil) -;Enriquecimento sem Causa
+7,717;7,681;- arts. 921 a 926;Lei nº 10.406/02 (Código Civil);Espécies de Títulos de Crédito
+7,732;7,725;46;Lei 6.015/1973;Registro de nascimento após prazo legal
+7,735;7,725;109;6.015/1973;Retificação de Nome
+7,737;7,729;26, §3º;9492;Cancelamento de Protesto
+7,748;4,862;14;Lei n. 8.078/90 (C.D.C.);Acidente Aéreo
+7,752;7,771;52 e 53;Lei n. 8.078/90 (C.D.C.);Bancários
+7,757;6,094;"art. 61; art. 250/269; art. 161/172";"Lei 8.213/91; Decreto 83080/79; Decreto 89.312/84";Auxílio-Doença Acidentário
+7,76;7,771;22;Lei n. 8.078/90 (C.D.C.);Fornecimento de Energia Elétrica
+7,761;7,771;52;Lei n. 8.078/90 (C.D.C.);Fornecimento de Água
+7,767;6,22;18, § 1º, I, e 19, III;Lei n. 8.078/90 (C.D.C.);Substituição do Produto
+7,768;6,22;art. 18, § 1º, II, 19, IV, e 20, II;Lei n. 8.078/90 (C.D.C.);Rescisão do contrato e devolução do dinheiro
+7,769;6,22;18, §1º, I, 19, I, e 20, I;Lei n. 8.078/90 (C.D.C.);Abatimento proporcional do preço
+7,77;6,22;6º, V, e 47;Lei n. 8.078/90 (C.D.C.);Interpretação / Revisão de Contrato
+7,772;7,771;52;Lei n. 8.078/90 (C.D.C.);Cartão de Crédito
+7,773;7,771;52;Lei n. 8.078/90 (C.D.C.);Financiamento de Produto
+7,774;7,771;14, §4º;Lei n. 8.078/90 (C.D.C.);Serviços Profissionais
+7,775;7,771;14 e 20;Lei n. 8.078/90 (C.D.C.);Serviços Hospitalares
+7,776;7,771;14;Lei n. 8.078/90 (C.D.C.);Transporte Terrestre
+7,78;6,22;12, 14, 18, §1º, II, 19, IV, e 20, II;Lei n. 8.078/90 (C.D.C.);Indenização por Dano Material
+7,781;7,779;6º, VI;Lei n. 8.078/90 (C.D.C.);Protesto Indevido de Título
+7,785;7,79;43;cp;Prestação Pecuniária
+7,786;7,79;43;cp;Perda de Bens e Valores
+7,787;7,79;43;cp;Prestação de Serviços à Comunidade
+7,788;7,79;art. 43;cp;Interdição Temporária de Direitos
+7,789;7,79;Art 43;cp;Limitação de Fim de Semana
+7,791;7,942;Art. 33 a 42;CP;Pena Privativa de Liberdade
+7,792;7,942;49;CP;Pena de Multa
+7,794;7,793;97;CP;Tratamento Ambulatorial
+7,795;7,793;"97; 112, § 1.º; 659 e ss";"CP; CPM; CPPM";Internação
+7,797;7,783;arts. 457 a 483;Ccom;Quanto à Embarcação
+7,798;7,783;art. 8º, II, 10, IV;Lei 9537;Quanto à Carga
+7,799;7,784;arts. 29 e 30, §§ 1º e 2º;DL 2538/40;Clandestinos
+7,834;7,725;109;Lei 6.015;Retificação de Data de Nascimento
+7,835;7,725;art. 3º;Dec. 678/1992;Retificação de Sexo
+7,897;7,895;277;Lei 6.015;Inscrição na Matrícula de Registro Torrens
+7,898;7,895;260;Lei 6.015;Instituição de Bem de Família
+7,899;7,895;214, § 3º;L 6.015/1973;Bloqueio de Matrícula
+7,911;7,896;266;Lei 6.015;Por Remição
+7,912;7,896;253;6.015;Por Terceiro Prejudicado
+7,925;7,725;83;6015/73;Registro de Óbito após prazo legal
+7,926;7,725;32, § 2º;Lei 6.015/1973;Registro de Nascimento de Filho de Brasileiro Nascido no Exterior
+7,928;1,209;"310; 270";"CPP; CPPM";Liberdade Provisória
+7,929;1,209;"301; 243";"CPP; CPPM";Prisão em flagrante
+7,935;4,263;60;CPP;Perempção
+7,937;1,209;439 e 440;CPP;Inclusão/exclusão de Jurado
+7,94;4,305;"581; 576";"CPP; CPPM";Deserção
+7,941;4,305;"581; 516, ""q""";"CPP; CPPM";Denegação
+7,945;1,209;"581, XVIII; 163";"CPP; CPPM";Falsidade
+7,947;899;arts. 104 a 232;Lei 10406/02;Fatos Jurídicos
+7,949;5,754;art. 20, parágrafo único;Lei 10406/02;Direitos da Personalidade
+7,952;9,981;Artigos: Art. 44, IV, § 1º e 2.031, parágrafo único.;Lei nº 10.406/02 (Código Civil) -;Organizações Religiosas
+7,953;9,981;artigo 44, inciso V e § 3º;Lei nº 10.406/02 (Código Civil) -;Partido Político
+8,805;1,937;artigo 10 e 448;CLT;Sucessão de Empregadores
+8,806;1,937;455;CLT;Subempreitada
+8,809;8,808;"CF, Art. 7º, XXVIII; Lei 10406/02, arts. 186, 932; Lei 8213/91, art. 19.";"CF; Lei 10406/02";Acidente de Trabalho
+8,829;8,828;Arts. 86 a 124;CPC;Competência
+8,838;8,828;Artigo único;Decreto legislativo nº 4/1948;Imunidade de Jurisdição
+8,843;8,842;98 a 102;CPC;Assistência Judiciária Gratuita
+8,859;8,842;119 a 138;CPC;Intervenção de Terceiros
+8,865;8,842;79 a 81;CPC;Litigância de Má-Fé
+8,866;8,842;113 a 118;CPC;Litisconsórcio
+8,867;8,842;108 a 112;CPC;Sucessão Processual
+8,868;8,842;104 e 105;CPC;Procuração
+8,873;8,842;75;CPC;Representação em Juízo
+8,875;8,826;176 a 181;CPC;Ministério Público
+8,888;8,883;149 a 175;CPC;Dos Auxiliares da Justiça
+8,919;8,893;276 a 283;CPC;Nulidade
+8,928;8,893;218 a 235;CPC;Prazo
+8,934;8,893;291 a 293;CPC;Valor da Causa
+8,939;8,938;313 a 315;CPC;Suspensão do Processo
+8,941;8,938;329;CPC;Modificação ou Alteração do Pedido
+8,942;8,938;267;CPC;Extinção do Processo Sem Resolução de Mérito
+8,961;8,96;273 e 461;CPC;Antecipação de Tutela / Tutela Específica
+8,986;8,96;283;CPC;Erro de Procedimento
+9,024;8,96;344 a 346;CPC;Revelia
+9,026;8,96;489 a 495;CPC;Vícios Formais da Sentença
+9,047;9,045;"987, caput e § 1º; 1.012; 1.019, I; 1.026, caput; 1.029, § 5º (CPC); 584, caput; 597; 598, caput; 637; 646 (CPP); 893, § 2º; 896, § 1º ; 899, caput (CLT); 257, caput e § 2º (Código Eleitoral); 65, § 2º, 106, §§1º e 2º;194,par. único e outros (CPPM)";CPC, CPP, CLT, Código Eleitoral, CPPM, Lei n. 9.099/1955;Efeitos
+9,05;9,045;"99, §§ 5º e 7º; 1.007; 1.023, caput (CPC); 14, II (Lei 9.289/1996); 806, § 2º (CPP); 896, § 14; 899 (CLT); 275, § 2º (Código Eleitoral); 712 (CPPM); 42; 54, parágrafo único (Lei n. 9.099/1995)";CPC, Lei n. 9.289/1996, CPP, CLT, Código Eleitoral, CPPM, Lei n. 9.099/1995;Preparo / Deserção
+9,06;9,045;Arts. 506 a 508;CPC;Prazo
+9,098;9,045;"102, II e III; 105, II e III (CF); 994; 1.009; 1.015; 1.021, caput; 1.022; 1.027; 1.030, I, III, V e §§ 1º e 2º; 1.035, caput e §§ 1º a 3º, 6º e 7º; 1.036, §§ 2º e 3º; 1.037, §§ 9º e 13; 1.042, caput ; 1.043 (CPC); 581; 593 , I a III; 619; 639 (CPP)";Constituição Federal, CPC, CPP, CLT, Código Eleitoral, CPPM e Lei n. 9.099/1995;Cabimento
+9,16;9,148;"520, IV; 526, caput e § 1º; 537, § 3º; 904 a 906; 908; 916, caput e § 2º";CPC;Levantamento de Valor
+9,163;9,148;831 a 875;CPC;Penhora / Depósito/ Avaliação
+9,166;9,148;"523, caput e § 1º; 526, § 2º; 702, §§ 10 e 11; 895, caput e § 4º; 915, § 5º, II";CPC;Multa de 10%
+9,178;9,148;"525, §1º, III; 535, III, § 5º; 803,I; 917, I";CPC;Inexequibilidade do Título / Inexigibilidade da Obrigação
+9,18;9,148;876 a 903;CPC;Expropriação de Bens
+9,189;9,148;826;CPC;Remição
+9,196;9,192;300, § 2º;CPC;Liminar
+9,258;8,842;95;CPC;Honorários Periciais
+9,414;9,148;924 e 925;CPC;Extinção da Execução
+9,418;9,148;797, parágrafo único;CPC;Concurso de Credores
+9,419;9,148;114, VIII;CF;Execução Previdenciária
+9,45;9,148;"792; 828, § 4º; 855, § 3º";CPC;Fraude à Execução
+9,453;9,148;22º, 3;DL 48.295/1968 (Convenção de Viena);Imunidade de Execução
+9,484;9,148;790, I;CPC;Sucessão
+9,493;8,842;70 a 76;CPC;Capacidade Processual
+9,494;8,842;41 a 43;CPC;Substituição da Parte
+9,517;9,148;525, § 1º, VII;CPC;Causas Supervenientes à Sentença
+9,518;9,148;525 a 920;CPC;Efeito Suspensivo / Impugnação / Embargos à Execução
+9,519;9,148;794 e 795;CPC;Benefício de Ordem
+9,52;9,148;774 e 903, § 6º;CPC;Ato Atentatório à Dignidade da Justiça
+9,524;9,192;302;CPC;Indenização do Prejuízo
+9,532;9,192;"83; 300, § 1º; 337, XII; 520, IV; 521; 525, §§ 6º e 10; 559; 641, § 2º; 678, parágrafo único; 704, IV; 708, § 3º; 840, III; 917, § 6º";CPC;Caução
+9,533;5,724;Arts. 1.097 a 1.122;Lei nº 10.406/02 (Código Civil) -;Coligação
+9,534;5,724;Arts. 1.113 a 1.115.;Lei nº 10.406/02 (Código Civil) -;Transformação
+9,535;5,724;Arts. 1.116 a 1.118;Lei nº 10.406/02 (Código Civil) -;Incorporação
+9,536;5,724;Arts. 1.033 a 1.038;Lei nº 10.406/02 (Código Civil) - .;Fusão
+9,537;5,724;Art. 1.122.;Lei nº 10.406/02 (Código Civil) -;Cisão
+9,538;5,724;Arts. 1.102 a 1.112.;Lei nº 10.406/02 (Código Civil) -;Liquidação
+9,539;5,724;Art: 1.081 a 1.084;Lei nº 10.406/02 (Código Civil) -: .;Alteração de capital
+9,541;5,754;1553;Lei 10406/02;Capacidade
+9,542;5,754;arts. 22 a 25;Lei 10406/02;Curadoria dos bens do ausente
+9,543;5,754;"7º; 26 a 36";Lei 10406/02;Sucessão Provisória
+9,545;4,897;Art. 54, II;Lei 10406/02;Inclusão de associado
+9,546;4,897;artigo 54, inciso II;Lei nº 10.406/02 (Código Civil) -;Exclusão de associado
+9,547;4,905;"Artigo 65, in fine parágrafo único; e artigo 66";Lei nº 10.406/02 (Código Civil) -;Fiscalização
+9,549;7,953;"artigos 15, II; 21; 22 e 25";Lei 9.096/95 %u2013;Exclusão de filiado
+9,55;7,953;"artigos 2º; 27; 29, § 1º e seus incisos I e II, § 4º e § 6º";Lei nº 9.096/95 %u2013;Fusão
+9,551;7,953;"arts 45; 47; § 1º e incisos, §§ 6º, 8º e 9º,arts 8º; 9º, § 1º, 11, 12, 18, §§ 1º e 2º e 19 ao 28; Lei 9.096/95 %u2013 artigo 8º, § 3º";Eleições - Resolução nº 19.406 do TSE -;Eleições - Diretórios
+9,555;4,993;Art. 129 a 138;Lei: 11.101/05;Ineficácia de atos em relação à massa
+9,556;4,993;Art. 73 e 74.;Lei: 11.101/05;Convolação de recuperação judicial em falência
+9,558;4,993;"Arts. 21 a 34; 64 e 65";Lei: 11.101/05;Administração judicial
+9,559;4,993;Arts. 83 e 84;Lei: 11.101/05;Classificação de créditos
+9,565;6,191;art. 9;LICCvB (DL 4.657/1942);Laudo Arbitral Internacional
+9,575;4,949;arts. 16 a 18;Lei Federal nº 9492/97;Sustação de Protesto
+9,581;9,58;"arts. 710 a 721;";Lei nº 10.406/02 (Código Civil) -;Agêncie e Distribuição
+9,582;9,58;Lei 9514, art. 22;"Decreto-Lei nº 911/69 e Lei Federal nº 9514/97;";Alienação Fiduciária
+9,583;9,58;"arts. 95 e 95-A;";Lei Federal nº 4504/64 (Estatuto da Terra),;Arrendamento Rural
+9,584;9,58;Lei 6099, art. 1º;Lei Federal nº 6099/74, Resolução BACEN nº 2309/96;Arrendamento Mercantil
+9,585;9,58;"CDC, art. 39, III, 52; Lei 4594, art. 4º, VI, 10, VI; Decreto 22626, art. 1º";CDC, Lei 4595/64, Decreto 22626/33;Cartão de Crédito
+9,586;9,58;- arts. 693 a 709;Lei nº 10.406/02 (Código Civil);Comissão
+9,587;9,58;arts. 481 a 532;Lei nº 10.406/02 (Código Civil) -;Compra e Venda
+9,588;9,58;art. 722;Lei nº 10.406/02 (Código Civil);Corretagem
+9,589;9,58;"- arts. 627 a 652;";Lei nº 10.406/02 (Código Civil);Depósito
+9,59;9,58;"- arts. 538 a 564;";Lei nº 10.406/02 (Código Civil);Doação
+9,591;9,58;"- arts. 610 a 626;";Lei nº 10.406/02 (Código Civil);Empreitada
+9,592;9,58;"- arts. 818 a 839;";Lei nº 10.406/02 (Código Civil);Fiança
+9,594;9,58;- arts. 653 a 692;"Lei nº 10.406/02 (Código Civil) ;";Mandato
+9,595;9,58;"- art. 533;";Lei nº 10.406/02 (Código Civil);Troca ou Permuta
+9,596;9,58;"- arts. 593 a 609;";Lei nº 10.406/02 (Código Civil);Prestação de Serviços
+9,597;9,58;"- arts. 757 a 802;";Lei nº 10.406/02 (Código Civil);Seguro
+9,598;9,58;- arts. 840 a 850;Lei nº 10.406/02 (Código Civil);Transação
+9,599;9,58;"arts. 743 a 756;";Lei nº 10.406/02 (Código Civil) -;Transporte de Coisas
+9,6;9,58;"- arts. 734 a 742;";Lei nº 10.406/02 (Código Civil);Transporte de Pessoas
+9,601;9,58;"- arts. 534 a 537;";Lei nº 10.406/02 (Código Civil);Estimatório
+9,602;9,58;"- arts. 579 a 585;";Lei nº 10.406/02 (Código Civil);Comodato
+9,603;9,58;arts. 586 a 592;"LEI Nº 10.406/02 (CÓDIGO CIVIL) ;";Mútuo
+9,604;9,58;"arts. 803 a 813;";LEI Nº 10.406/02 (CÓDIGO CIVIL);Constituição de Renda
+9,605;9,58;arts. 814 a 817;"LEI Nº 10.406/02 (CÓDIGO CIVIL) - , ;";Jogo e Aposta
+9,606;9,58;"arts. 851 a 853;";LEI Nº 10.406/02 (CÓDIGO CIVIL) - ,;Compromisso
+9,607;9,58;Resolução BACEN nº 2898, art. 1º;"Resolução BACEN nº 2878/2001 e nº 2892/2001 ;";Contratos Bancários
+9,608;9,58;art. 2º;"Lei Federal nº 8955/94;";Franquia
+9,609;9,58;"arts. 565 a 578;";LEI Nº 10.406/02 (CÓDIGO CIVIL) - ,;Locação de Móvel
+9,61;9,593;"arts. 47, III e 61;";Lei Federal nº 8245/91,;Despejo para Uso Próprio
+9,611;9,593;"arts. 47, III e 61;";Lei Federal nº 8245/91,;Despejo para Uso de Ascendentes e Descendentes
+9,612;9,593;"arts. 46, 56, 78, 7º e 8º;";Lei Federal nº 8245/91,;Despejo por Denúncia Vazia
+9,614;9,593;"arts. 35 e 36;";Lei Federal nº 8245/91,;Benfeitorias
+9,615;9,593;"arts. 27 a 34;";Lei Federal nº 8245/91,;Direito de Preferência
+9,618;9,617;Arts. 991 a 996.;Lei nº 10.406/02 (Código Civil) -;Conta de Participação
+9,619;9,617;Arts. 997 a 1.038.;Lei nº 10.406/02 (Código Civil) -;Simples
+9,62;9,617;Arts. 1.039 a 1.044.;Lei nº 10.406/02 (Código Civil) -;Nome Coletivo
+9,621;9,617;Arts. 1.045 a 1.051.;Lei nº 10.406/02 (Código Civil) -;Comandita Simples
+9,622;9,617;Arts. 1.052 a 1.087.;Lei nº 10.406/02 (Código Civil) -;Limitada
+9,623;9,617;Arts. 1.088 a 1.092.;Lei nº 10.406/02 (Código Civil) -;Anônima
+9,624;9,617;Arts. 1.090 a 1.092.;Lei nº 10.406/02 (Código Civil) -;Comandita por Ações
+9,625;9,617;Arts. 1.093 a 1.096.;Lei nº 10.406/02 (Código Civil) -;Cooperativa
+9,626;9,617;Arts. 1.097 a 1.101.;Lei nº 10.406/02 (Código Civil) -;Coligadas
+9,627;9,617;1226;CCB;Dependente de Autorização
+9,629;9,617;Arts. 1.134 a 1.141.;Lei nº 10.406/02 (Código Civil) -;Estrangeira
+9,635;9,634;121, § 1º;CP;Contra a vida
+9,636;9,635;121, caput;CP;Homicídio Simples
+9,637;9,635;121, § 1º;CP;Homicídio Privilegiado
+9,638;9,635;121, § 2º;CP;Homicídio Qualificado
+9,639;9,635;122;CP;Induzimento, Instigação ou Auxílio a Suicídio
+9,64;9,635;123;CP;Infanticídio
+9,642;9,641;129, caput;CP;Leve
+9,643;9,641;129, § 3º;CP;Seguida de Morte
+9,644;9,641;129, § 1º;CP;Grave
+9,645;9,641;129, § 2º;CP;Gravíssima
+9,646;9,641;129, § 4º;CP;Privilegiada
+9,647;9,641;129, § 9º e 11;CP;Decorrente de Violência Doméstica
+9,649;9,648;131;CP;Perigo de contágio de moléstia grave
+9,65;9,648;132;CP;Perigo para a vida ou saúde de outrem (art. 132)
+9,651;9,648;133;CP;Abandono de incapaz (art. 133)
+9,652;9,648;135;CP;Omissão de socorro (art. 135)
+9,653;9,648;137;CP;Rixa (art. 137)
+9,654;9,648;130;CP;Perigo de Contágio Venéreo
+9,656;9,655;138;CP;Calúnia
+9,657;9,655;139;CP;Difamação
+9,658;9,655;140;CP;Injúria
+9,66;9,659;146;CP;Constrangimento ilegal (art. 146)
+9,661;9,659;147;CP;Ameaça (art. 147)
+9,662;9,659;148;CP;Seqüestro e cárcere privado (art. 148)
+9,663;9,659;149;CP;Redução a condição análoga à de escravo (art. 149)
+9,665;9,664;150;CP;Violação de domicílio (art. 150)
+9,667;9,666;151;CP;Violação de correspondência (art. 151, caput)
+9,668;9,666;151, § 1º, I;CP;Sonegação ou destruição de correspondência (art. 151, § 1º, I)
+9,669;9,666;151, § 1º, II, III e IV;CP;Violação de comunicação telegráfica, radioelétrica ou telefônica (art. 151, § 1º, II, III e IV)
+9,67;9,666;152;CP;Violação de Correspondência comercial (art. 152)
+9,673;9,671;154;CP;Violação do segredo profissional (art. 154)
+9,674;9,634;Art. 180, §3º;CP;Contra o Patrimônio
+9,675;9,674;155;CP;Furto (art. 155)
+9,676;9,674;155;CP;Furto Qualificado (Art. 155, § 4o.)
+9,677;9,674;156;CP;Furto de coisa comum (art. 156)
+9,678;9,674;157, caput;CP;Roubo (art. 157)
+9,679;9,674;158;CP;Extorsão (art. 158)
+9,68;9,674;159;CP;Extorsão mediante seqüestro (art. 159)
+9,681;9,674;160;CP;Extorsão indireta (art. 160)
+9,682;9,674;161;CP;Alteração de limites (art. 161, caput)
+9,683;9,674;161, § 1º, I;CP;Usurpação de águas (art. 161, § 1º, I)
+9,684;9,674;CP 161, § 1º, II e art. 9º da Lei n. 5.741/71;CP e Lei 5.741/71;Esbulho possessório (art. 161, § 1º, II)
+9,685;9,674;163;CP;Dano (art. 163)
+9,686;9,674;164;CP;Introdução ou abandono de animais em propriedade alheia (art. 164)
+9,687;9,674;165;CP;Dano em coisa de valor artístico, arqueológico ou histórico (art. 165)
+9,688;9,674;166;CP;Alteração de local especialmente protegido (art. 166)
+9,689;9,674;Art. 168-A;CP;Apropriação indébita Previdenciária (art. 168-A e Lei 8.212/91)
+9,69;9,674;171;CP;Estelionato
+9,691;9,674;171, 3º;CP;Estelionato Majorado (art. 171, § 3º)
+9,692;9,674;176;CP;Outras fraudes
+9,693;9,674;179;CP;Fraude à execução (art. 179)
+9,694;9,674;180, caput;CP;Receptação
+9,695;9,674;168, caput;CP;Apropriação indébita (art. 168, caput)
+9,696;9,674;169;CP;Apropriação de Coisa Havida por Erro, Caso Fortuito ou Força da Natureza (art.169)
+9,697;9,674;155, § 2º;CP;Furto Privilegiado
+9,698;9,674;155, § 5º;CP;Furto de Veículo Automotor a ser Transportado para outro Estado ou Exterior
+9,699;9,674;157, § 2º;CP;Roubo Majorado
+9,7;9,674;157, § 3º;CP;Latrocínio
+9,701;9,674;159, § 3º;CP;Extorsão mediante Seqüestro Seguida de Morte
+9,702;9,674;159, § 2º;CP;Extorsão mediante Sequestro Seguida de Lesão Corporal Grave
+9,703;9,674;162;CP;Supressão ou Alteração de Marca em Animais
+9,704;9,674;163, parágrafo único;CP;Dano Qualificado
+9,705;9,674;Art. 169, pár. Único, I;CP;Apropriação de Tesouro
+9,706;9,674;169, Parágrafo Único, II.;CP;Apropriação de Coisa Achada
+9,707;9,674;171, § 2º, I;CP;Disposição de coisa alheia como própria
+9,708;9,674;171, § 2º, II;CP;Alienação ou Oneração Fraudulenta de Coisa Própria
+9,709;9,674;171, § 2º, III;CP;Defraudação de Penhor
+9,71;9,674;171, § 2º, IV;CP;Fraude na Entrega de Coisa
+9,711;9,674;171, § 2º, V;CP;Fraude para Recebimento de Indenização ou Valor de Seguro
+9,712;9,674;171, § 2º, VI;CP;Fraude no Pagamento por Meio de Cheque
+9,713;9,674;172;CP;Duplicata Simulada
+9,714;9,674;173;CP;Abuso de Incapazes
+9,715;9,674;174;CP;Induzimento à Especulação
+9,716;9,674;175;CP;Fraude no Comércio
+9,717;9,674;177;CP;Fraudes e Abusos na Fundação ou Administração de Sociedade por Ações
+9,718;9,674;178;CP;"Emissão Irregular de Conhecimento de Depósito ou &quot;Warrant&quot;"
+9,719;9,674;180, § 2º;CP;Receptação Qualificada
+9,721;9,72;art. 184 e art 12;CP e Lei 9.609/98;Violação de direito autoral
+9,723;9,722;197;CP;Atentado contra a liberdade de trabalho (art. 197)
+9,724;9,722;198;CP;Atentado contra a liberdade de contrato de trabalho e boicotagem violenta (art. 198)
+9,725;9,722;199;CP;Atentado contra a liberdade de associação (art. 199)
+9,726;9,722;200;CP;Paralisação de trabalho, seguida de violência ou perturbação da ordem (art. 200)
+9,727;9,722;201;CP;Paralisação de trabalho de interesse coletivo (art. 201)
+9,728;9,722;202;CP;Invasão de estabelecimento industrial, comercial ou agrícola. Sabotagem (art. 202)
+9,729;9,722;203;CP;Frustração de direitos assegurados por lei trabalhista (art. 203)
+9,73;9,722;205;CP;Exercício de atividade com infração de decisão administrativa (art. 205)
+9,731;9,722;206;CP;Aliciamento para fins de emigração (art. 206)
+9,732;9,722;207;CP;Aliciamento de trabalhadores de um local para outro do território nacional (art. 207)
+9,733;9,722;204;CP;Frustração de lei sobre a nacionalização do trabalho (art. 204)
+9,735;9,734;215;CP;Destruição / Subração / Ocultação de Cadáver
+9,736;9,734;209;CP;Impedimento ou Perturbação de Cerimônia Funerária (Art. 209)
+9,737;9,734;212;CP;Vilipêndio a Cadáver
+9,738;9,734;210;CP;Violação a Sepultura (Art. 210)
+9,739;9,734;208;CP;Ultraje / Impedimento ou Perturbação de Culto Religioso
+9,741;9,74;231;CP;Tráfico Internacional de Pessoa para Fim de Exploração Sexual
+9,742;9,74;213;CP;Estupro
+9,743;9,74;214;CP;Atentado Violento ao Pudor
+9,744;9,74;216;CP;Atentado ao Pudor Mediante Fraude
+9,745;9,74;CP 218;CP;Corrupção de Menores
+9,746;9,74;233 e 234;CP;Ultraje Público ao Pudor (Ato/Escrito Obsceno)
+9,747;9,74;227;CP;Mediação para Servir a Lascívia de Outrem
+9,748;9,74;215;CP;Posse Sexual Mediante Fraude
+9,749;9,74;216-A;CP;Assédio Sexual
+9,75;9,74;228;CP;Favorecimento da Prostituição
+9,751;9,74;229;CP;Casa de Prostituição
+9,752;9,74;230;CP;Rufianismo
+9,753;9,74;231;CP;Tráfico Internacional de Pessoas
+9,754;9,74;231-A;CP;Tráfico Interno de Pessoas
+9,757;9,756;244;CP;Abandono Material
+9,758;9,756;246;CP;Abandono Intelectual
+9,759;9,756;245;CP;Entrega de Filho Menor a Pessoa Inidônea
+9,761;9,76;235;CP;Bigamia
+9,762;9,76;237;CP;Conhecimento Prévio de Impedimento
+9,763;9,76;236;CP;Induzimento a erro essencial e ocultação de impedimento
+9,764;9,76;239;CP;Simulação de Casamento
+9,765;9,76;238;CP;Simulação de Autoridade para Celebração de Casamento
+9,767;9,766;242;CP;Parto Suposto (Art. 242)
+9,768;9,766;241;CP;Registro de Nascimento Inexistente (Art. 241)
+9,769;9,766;243;CP;Sonegação do Estado de Filiação (Art. 243)
+9,771;9,77;art. 248;CP;Induzimento a Fuga, Entrega Arbitrária ou Sonegação de Incapazes (Art. 248)
+9,772;9,77;249;CP;Subtração de Incapazes (Art. 249)
+9,774;9,773;250;CP;Incêndio
+9,775;9,773;251;CP;Explosão
+9,776;9,773;252;CP;Uso de gás tóxico ou asfixiante
+9,777;9,773;254 e 255;CP;Inundação / Perigo de Inundação
+9,778;9,773;256;CP;Desabamento ou desmoronamento (art. 256)
+9,779;9,773;257;CP;Subtração, ocultação ou inutilização de material de salvamento (art. 257)
+9,78;9,773;259;CP;Difusão de doença ou praga (art. 259)
+9,781;9,773;260 e 260, §§ 1º a 3º;CP;Desastre ferroviário / Perigo de Desastre Ferroviário
+9,782;9,773;261, 262 e 263;CP;Atentado contra a segurança de transporte público
+9,783;9,773;264;CP;Arremesso de projétil
+9,784;9,773;265;CP;Atentado contra a segurança de serviços de utilidade pública (art. 265)
+9,785;9,773;266;CP;Interrupção /perturbação de serviços telegráficos/telefônicos (art. 266)
+9,786;9,773;267;CP;Epidemia (art. 267)
+9,787;9,773;274;CP;Emprego de Processo Proibido/Substância não permitida
+9,788;9,773;275;CP;Invólucro ou recipiente com falsa indicação (art. 275)
+9,789;9,773;273;CP;Falsificação / Corrupção / Adulteração / Alteração de produto destinado a fins terapêuticos ou medicinais
+9,79;9,773;282;CP;Exercício Ilegal da Medicina, Arte Dentária ou Farmacêutica (art. 282)
+9,791;9,773;283;CP;Charlatanismo (Art. 283)
+9,792;9,773;271;CP;Corrupção ou Poluição de Água Potável (Art. 271)
+9,793;9,773;284;CP;Curandeirismo (Art. 284)
+9,794;9,773;270;CP;Envenenamento de Água Potável / Substância Alimentícia ou Medicinal (Art. 270)
+9,795;9,773;272;CP;Falsificação / Corrupção / Adulteração / Alteração de Substância ou Produtos Alimentícios
+9,796;9,773;268;CP;Infração de Medida Sanitária Preventiva (Art. 268)
+9,797;9,773;269;CP;Omissão de Notificação de Doença (Art. 269)
+9,798;9,773;278;CP;Outras Substâncias Nocivas a Saúde Pública (Art. 278)
+9,799;9,773;277;CP;Substância Destinada à Falsificação (Art. 277)
+9,8;9,773;253;CP;Fabrico / Fornecimento / Aquisição / Posse ou Transporte de Explosivos ou Gás Tóxico ou Asfixiante
+9,801;9,773;276;CP;Venda de Produtos ou Substância nas Condições dos Artigos 274 e 275
+9,802;9,773;280;CP;Medicamento em Desacordo com Receita Médica
+9,804;9,803;288;CP;Quadrilha ou Bando (art. 288)
+9,805;9,803;286;CP;Incitação ao Crime
+9,806;9,803;287;CP;Apologia de Crime ou Criminoso
+9,808;9,807;289 e parágrafos e 290;CP;Moeda Falsa / Assimilados
+9,809;9,807;291;CP;Petrechos para falsificação de moeda (art. 291)
+9,81;9,807;Art. 292;CP;Emissão de título ao portador sem permissão legal (art. 292)
+9,811;9,807;Art. 293;CP;Falsificação de papéis públicos (art. 293)
+9,812;9,807;Art. 296;CP;Falsificação do selo ou sinal público (art. 296)
+9,813;9,807;297;CP;Falsificação de documento público
+9,814;9,807;Art. 298;CP;Falsificação de documento particular (art. 298)
+9,815;9,807;Art. 299;CP;Falsidade ideológica (art. 299)
+9,816;9,807;Art. 300;CP;Falso reconhecimento de firma ou letra (art. 300)
+9,817;9,807;Art. 301;CP;Certidão ou atestado ideologicamente falso (art. 301, caput)
+9,818;9,807;Art. 301, § 1º;CP;Falsidade material de atestado ou certidão (art. 301, § 1º)
+9,819;9,807;Art. 302;CP;Falsidade de atestado médico (art. 302)
+9,82;9,807;303;CP;Reprodução ou adulteração de selo ou peça filatélica (art. 303)
+9,821;9,807;304;CP;Uso de documento falso (art. 304)
+9,822;9,807;305;CP;Supressão de documento (art. 305)
+9,823;9,807;Art. 306;CP;Falsificação do sinal empregado no contraste de metal precioso ou na fiscalização alfandegária, ou para outros fins (art. 306)
+9,824;9,807;307 e 308;CP;Falsa identidade
+9,825;9,807;309 e 310;CP;Fraude de lei sobre estrangeiros
+9,826;9,807;294 e 295;CP;Petrechos de Falsificação de Papéis Públicos
+9,827;9,807;311;CP;Adulteração de Sinal Identificador de Veículo Automotor
+9,829;9,828;312, caput e § 1º;CP;Peculato (art. 312, caput e § 1º)
+9,83;9,828;313;CP;Peculato mediante erro de outrem (art. 313)
+9,831;9,828;314;CP;Extravio, sonegação ou inutilização de livro ou documento (art. 314)
+9,832;9,828;315;CP;Emprego irregular de verbas ou rendas públicas (art. 315)
+9,833;9,828;316, caput;CP;Concussão (art. 316, caput)
+9,834;9,828;Art. 316, §§ 1º e 2º;CP;Excesso de exação (art. 316, §§ 1º e 2º)
+9,835;9,828;317, caput e § 2º;CP;Corrupção passiva (art. 317)
+9,836;9,828;318;CP;Facilitação de contrabando ou descaminho (art. 318)
+9,837;9,828;319 e 319-A;CP;Prevaricação
+9,838;9,828;320;CP;Condescendência criminosa (art. 320)
+9,839;9,828;321;CP;Advocacia administrativa (art. 321)
+9,84;9,828;322;CP;Violência arbitrária (art. 322)
+9,841;9,828;323;CP;Abandono de função (art. 323)
+9,842;9,828;324;CP;Exercício funcional ilegalmente antecipado ou prolongado (art. 324)
+9,843;9,828;325;CP;Violação do sigilo funcional (art. 325)
+9,844;9,828;326;CP;Violação do sigilo de proposta de concorrência (art. 326)
+9,845;9,828;313-A;CP;Inserção de dados falsos em sistema de informações (art. 313-A)
+9,846;9,828;313-B;CP;Modificação ou alteração não autorizada de sistema de informações (art. 313-B)
+9,849;9,848;art. 183 a 186;Lei 9.279/96;Contra Patente de Invenção
+9,85;9,848;art 187 a 188;Lei 9.279/96;Contra os Desenhos Industriais
+9,851;9,848;Art 189 a 190;Lei 9.279/96;Contra as Marcas
+9,852;9,848;Art 191;Lei 9.279/96;Cometidos por Meio de Marca, Título de Estabelecimento e Sinal de Propaganda
+9,853;9,848;Arts. 192 a 194;Lei 9.279/96;Contra Indicações Geográficas e Demais Indicações
+9,854;9,848;Art. 195;Lei 9.279/96;De Concorrência Desleal
+9,855;9,847;art. 1º;DL 201/67 e Lei 1.079/50;de Responsabilidade
+9,856;9,847;Arts. 1º a 30;Lei 1.521/51;Contra a Economia Popular
+9,857;9,847;Arts. 3º a 28;Lei 4.898/65;de Abuso de Autoridade
+9,859;9,858;Art. 33, caput e § 1º;Lei 11.343/06;Tráfico de Drogas e Condutas Afins
+9,86;9,858;Art 28;Lei 11.343/06;Posse de Drogas para Consumo Pessoal
+9,861;9,858;34;Lei 11.343/06;Fabricação de Objeto Destinado a Produção de Drogas e Condutas Afins
+9,862;9,858;33, § 2º;Lei 11,343/06;Indução, Instigação ou Auxílio ao Uso de Drogas
+9,863;9,858;33, § 3º;Lei 11,343/06;Oferecimento de Drogas para Consumo Conjunto
+9,864;9,858;35;Lei 11.343/06;Associação para a Produção e Tráfico e Condutas Afins
+9,865;9,858;36;Lei 11414/06;Financiamento ou Custeio de Produção ou Tráfico de Drogas
+9,866;9,858;37;Lei 11343/06;Colaboração com Grupo, Organização ou Associação Destinados à Produção ou Tráfico de Drogas
+9,867;9,858;38;Lei 11343/06;Prescrição Culposa de Drogas
+9,868;9,858;39;Lei 11343/06;Condução de Embarcação ou Aeronave sob Efeito de Drogas
+9,869;9,847;Arts. 19 a 27;Lei 6.453/77;Responsabilidade Criminal por Danos Nucleares
+9,87;9,847;Arts. 36 a 46;Lei 6.538/78;Contra o Serviço Postal e o Serviço de Telegrama
+9,871;9,847;Arts. 8º a 29;Lei 7.170/83;Contra a Segurança Nacional, a Ordem Política e Social
+9,872;9,847;Arts. 2º a 23;Lei 7.492/86;Contra o Sistema Financeiro Nacional
+9,873;9,847;Arts. 2º a 20;Lei 7.716/89;Resultante de Preconceito de Raça ou de Cor
+9,874;9,847;Art. 1º a 3º e art 1º;Lei 8.137-90 e Lei 4.729-65;Contra a Ordem Tributária
+9,875;9,847;Art. 4º ao 6 e arts. 1º e 2º;Lei 8.137/90 e Lei 8.176/91;Contra a Ordem Econômica
+9,876;9,847;Art. 7º e arts.61 a 80;Lei 8.137/90 e Lei 8.078/90;Contra as Relações de Consumo
+9,877;9,847;Art. 19;Lei 8.429-92;Representação caluniosa
+9,878;9,847;Arts. 29 a 69A;Lei 9.605/98;Contra o Meio Ambiente
+9,879;9,878;Arts. 29 a 37;Lei 9605/98;Contra a Fauna
+9,88;9,878;Arts. 38 a 53;Lei 9605/98;Contra a Flora
+9,881;9,878;Arts. 54 a 61;Lei 9605/98;Da Poluição
+9,882;9,878;Arts. 13 a 18;Lei 7802/89;Agrotóxicos (Lei 7.802/89)
+9,883;9,878;Arts. 19 a 27;Lei 6.453/77;Atividades Nucleares (Lei 6.453/77)
+9,884;9,878;Arts. 1º a 34;Lei nº 5.197/67;Caça (Lei nº 5.197/67)
+9,887;9,878;Lei 5197, art. 27, §3º;"Lei 5197/67; Lei nº 7.643/87, Lei 7.679/88, DL 221/67";Pesca (Lei nº 5.197/67, Lei nº 7.643/87, Lei 7.679/88, DL 221/67)
+9,888;9,847;Art. 1º;Lei 9.613/98;"De &quot;Lavagem&quot; ou Ocultação de Bens, Direitos ou Valores"
+9,889;9,847;Art. 183;Lei 9.472/97;Contra as Telecomunicações
+9,89;9,847;Art. 125;Lei 6.815/80;Previstos na Lei de Estrangeiros
+9,891;9,847;art. 1º;Lei 9.455/97;De Tortura
+9,892;9,847;art.302 a 312;Lei 9.503/97;De Trânsito
+9,893;9,847;Arts. 12 a 18;Lei 10.826/03;Do Sistema Nacional de Armas
+9,894;9,847;Arts. 12 a 22;Lei 5.250/67;De Imprensa
+9,895;9,847;Arts. 228 a 244-A;Lei 8.069/90;Estatuto da criança e do adolescente
+9,896;9,847;Arts.73 a 74;Lei 4.728/65;Contra o mercado de capitais
+9,897;9,847;Arts. 1º a 3º;Lei 2.889/56;De genocídio
+9,898;9,847;Art. 10;Lei 9.296/96;Sigilo Telefônico
+9,899;9,847;Arts. 89 a 98;Lei 8.666/93;Da Lei de licitações
+9,9;9,847;Arts. 14 a 20;Lei 9.434/97;Da Lei de remoção de órgãos e tecidos
+9,901;9,847;Art. 58;Lei 6.001/73;Praticados contra os índios e a cultura indígena
+9,903;9,847;Art. 10;Lei 7.347/85;Recusa, retardamento ou omissão de dados técnicos indispensáveis à propositura de Ação Civil Pública
+9,904;9,847;Art. 19 e 20;Lei 4.947/69;Agrários
+9,905;9,847;Art. 4º;Lei 1.579/52;Relacionados à Comissão Parlamentar de Inquérito
+9,906;9,847;Arts. 289 a 354;Lei 4.737/65;Eleitorais
+9,907;9,847;Art. 10º;LC 105/01;De Quebra de Sigilo Financeiro
+9,908;9,847;Arts. 56, 70, 72;Lei 4.117/62;Do Código Brasileiro de Telecomunicações
+9,909;9,847;Arts. 96 a 108;Lei 10.741/03;Estatuto do Idoso
+9,91;9,847;Arts. 50 a 52;Lei 6.766/79;Parcelamento do solo urbano
+9,911;9,847;Arts. 168 a 188;Lei 11.101/05;Falimentares
+9,912;9,847;Arts. 136 a 408;CPM (DL 1001/69);Militares
+9,913;9,847;22;Lei 5478/68;Contra a Administração da Justiça - Lei da Ação de Alimentos
+9,914;9,634;arts. 18 a 70;DL 3688/41;Contravenções Penais
+9,915;9,634;14, II;CP;Análogo a Crime Tentado
+9,916;9,634;art. 18, II;CP;Análogo a Crime Culposo
+9,918;9,917;328;CP;Usurpação de função pública (art. 328)
+9,919;9,917;329;CP;Resistência (art. 329)
+9,92;9,917;332;CP;Tráfico de influência (art. 332)
+9,921;9,917;333;CP;Corrupção ativa (art. 333)
+9,922;9,917;335;CP;Impedimento, perturbação ou fraude de concorrência (art. 335)
+9,923;9,917;336;CP;Inutilização de edital ou de sinal (art. 336)
+9,924;9,917;337;CP;Subtração ou inutilização de livro ou documento (art. 337, caput)
+9,925;9,917;330;CP;Desobediência (art. 330)
+9,926;9,917;331;CP;Desacato (art. 331)
+9,927;9,917;334;CP;Contrabando ou descaminho (art. 334)
+9,928;9,917;337-A;CP;Sonegação de contribuição previdenciária (art. 337-A e Lei 8.212/91)
+9,93;9,929;337-B;CP;Corrupção Ativa em Transação Comercial Internacional
+9,931;9,929;337-C;CP;Tráfico de Influência em Transação Comercial Internacional
+9,933;9,932;338;CP;Reingresso de estrangeiro expulso
+9,934;9,932;339;CP;Denunciação caluniosa
+9,935;9,932;340;CP;Comunicação falsa de crime ou de contravenção
+9,936;9,932;341;CP;Auto-acusação falsa
+9,937;9,932;"342; 343";CP;Falso testemunho ou falsa perícia
+9,938;9,932;344;CP;Coação no curso do processo
+9,939;9,932;345;CP;Exercício arbitrário das próprias razões
+9,94;9,932;347;CP;Fraude processual
+9,941;9,932;348;CP;Favorecimento pessoal
+9,942;9,932;349;CP;Favorecimento real
+9,943;9,932;350;CP;Exercício arbitrário ou abuso de poder
+9,944;9,932;351;CP;Fuga de pessoa presa ou submetida a medida de segurança
+9,945;9,932;352;CP;Evasão mediante violência contra a pessoa
+9,946;9,932;353;CP;Arrebatamento de preso
+9,947;9,932;354;CP;Motim de presos
+9,948;9,932;355,CAPUT;CP;Patrocínio infiel
+9,949;9,932;355, PARÁGRAFO ÚNICO;CP;Patrocínio simultâneo ou tergiversação
+9,95;9,932;356;CP;Sonegação de papel ou objeto de valor probatório
+9,951;9,932;357;CP;Exploração de prestígio
+9,952;9,932;358;CP;Violência ou fraude em arrematação judicial
+9,953;9,932;359;CP;Desobediência a decisão judicial sobre perda ou suspensão de direitos
+9,955;9,634;359-A a 359-H;CP;Contra as Finanças Públicas
+9,956;9,955;359-A;CP;Contratação de Operação de Crédito
+9,957;9,955;359-B;CP;Inscrição de Despesas Não Empenhadas
+9,958;9,955;359-C;CP;Assunção de Obrigação no Último Ano do Mandato ou Legislatura
+9,959;9,955;359-D;CP;Ordenação de Despesa Não Autorizada
+9,96;9,955;359-E;CP;Prestação de Garantia Graciosa
+9,961;9,955;359-F;CP;Não Cancelamento de Restos a Pagar
+9,962;9,955;359-G;CP;Aumento de Despesa com Pessoal no Último Ano do Mandato ou Legislatura
+9,963;9,955;359-H;CP;Oferta Pública ou Colocação de Títulos no Mercado
+9,965;9,964;22 e 24 do ECA e 1.638, II, do CC;ECA e CC;Abandono Material
+9,966;9,964;22 e 24 do ECA e 1.638, II, do CC;ECA e CC;Abandono Intelectual
+9,967;9,964;1.638, I;CC;Maus Tratos
+9,968;9,964;22 e 24 do ECA e 1.638, III, do ECA;ECA e CC;Abuso Sexual
+9,969;9,964;60 e seguintes;ECA;Exploração do Trabalho Infantil
+9,97;9,964;23;ECA;Pobreza
+9,971;9,964;19;ECA;Uso ou Tráfico de Drogas
+9,972;9,964;52 do ECA e 1.629 do CC;ECA e CC;Adoção Internacional
+9,973;9,964;39 e seguintes do ECA e 1.618 e seguintes do CC;ECA e CC;Adoção Nacional
+9,974;9,964;39 e seguintes do ECA e 1.618 e seguintes do CC;ECA e CC;Adoção de Criança
+9,975;9,964;39 e seguintes do ECA e 1.618 e seguintes do CC;ECA e CC;Adoção de Adolescente
+9,977;9,964;149;ECA;Entrada e Permanência de Menores
+9,978;9,964;83 e seguintes;ECA;Viagem ao Exterior
+9,979;9,964;60 e seguintes;ECA;Trabalho do adolescente
+9,981;899;Arts. 40 a 69.;Lei nº 10.406/02 (Código Civil) -;Pessoas Jurídicas
+9,984;9,617;986;CCB;Em comum / De fato
+9,99;9,986;34;CF;Intervenção em Estado / Município
+9,992;9,991;art. 5º, V, X;CF;Indenização por Dano Moral
+9,994;9,991;CF, art. 37, § 6º, Lei 6938/81, art. 14, § 1º;"CF; Lei 6938/81";Indenização por Dano Ambiental
+9,995;9,992;art. 5º, V, X;CF;Erro Médico
+9,996;9,992;art. 5º, V, X;CF;Acidente de Trânsito
+10;9,998;5º, inciso I;IN SRF 248/2002;Declaração de Trânsito Aduaneiro
+10,008;9,998;4º;Decreto 63.662/68;Registro de Aeronave
+10,01;9,997;"Lei 7347, art. 1º; Lei 4717, art. 1º";"Leis 4717/65; 7347/85";Ato Lesivo ao Patrimônio Artístico, Estético, Histórico ou Turístico
+10,012;10,011;10;L 8.429/1992;Dano ao Erário
+10,013;10,011;9º;L 8.429/1992;Enriquecimento ilícito
+10,014;10,011;11;L 8.429/1992;Violação aos Princípios Administrativos
+10,029;10,028;art. 207;CF;Ensino Superior
+10,051;10,028;art. 208, I, II;CF;Ensino Fundamental e Médio
+10,064;10,028;art. 196 a 200;CF;Saúde
+10,069;10,064;Art. 196;CF;Tratamento Médico-Hospitalar e/ou Fornecimento de Medicamentos
+10,074;10,073;art. 1º a 40;Lei 8974/95;Fornecimento de Gás
+10,075;10,073;art. 1º a 40;Lei 8987/95;Energia Elétrica
+10,076;10,073;arts. 1º a 64;Decreto 1832/96;Transporte Terrestre
+10,08;10,073;"Lei 91/97, arts. 1º a 22; Lei 29/2002, arts 1º a 3º";"Lei 91/97; Lei 29/2002";Telefonia
+10,081;10,073;"CF, art. 21, XII, a; Lei 9432/97, arts. 1º a 15";"CF; Lei 9432/97";Transporte Aquaviário
+10,083;10,073;art. 3º;Lei 8935/94;Tabelionatos, Registros, Cartórios
+10,086;10,073;arts. 1º a 53;Lei 11.445/07;Recolhimento e Tratamento de Lixo
+10,087;10,028;CF, art. 133 a 135;"CF; LC 80/94; Lei 9020/95";Defensoria Pública
+10,09;10,089;64;Dl 9.760/1946;Locação / Permissão / Concessão / Autorização / Cessão de Uso
+10,092;10,089;art. 7º;Lei 9636/98;Taxa de Ocupação
+10,095;10,089;art. 1º e segs.;Lei 9433/97;Águas Públicas
+10,096;10,089;art. 461, § 5º;CPC;Bloqueio de Valores de Contas Públicas
+10,103;10,102;20, XI;CR1988;Terreno Aldeado
+10,108;10,088;216;CF;Patrimônio Histórico / Tombamento
+10,109;10,088;39;L 10.257/2001;Ordenação da Cidade / Plano Diretor
+10,111;10,11;art. 9º e segs.;Lei 6938/81;Revogação/Concessão de Licença Ambiental
+10,112;10,11;72;Lei 9605/98;Revogação/Anulação de multa ambiental
+10,114;10,11;art. 1º e segs.;Lei 5197/67;Fauna
+10,115;10,11;art. 1º e segs.;Lei 11105/2005.;Transgênicos
+10,116;10,11;art. 1º e segs.;Lei 7802/89;Agrotóxicos
+10,118;10,11;art. 1º e segs.;L 9.985/2000;Unidade de Conservação da Natureza
+10,121;10,12;art. 5º, XXIV;CF;Desapropriação
+10,122;10,12;art. 1º, 2º, 5º;DL 3365/41;Desapropriação por Utilidade Pública / DL 3.365/1941
+10,123;10,12;art. 1º e segs.;Lei 4132/62;Desapropriação por Interesse Social Comum / L 4.132/1962
+10,124;10,12;184;"CF1988; LC 76/1993";Desapropriação por Interesse Social para Reforma Agrária
+10,125;10,12;10;DL 3365/41;Desapropriação Indireta
+10,126;10,12;Art. 519;Lei 10406/02;Retrocessão
+10,127;10,12;art. 7º;DL 3365/41;Vistoria
+10,128;10,12;art. 40;DL 3365/41;Servidão Administrativa
+10,129;10,12;35;DL 3365/41;Ocupação Temporária
+10,13;10,12;170, III;CF;Limitação Administrativa
+10,131;10,088;art. 1º e segs.;"Lei 9491/97; leis estaduais";Privatização
+10,133;10,12;25 a 27;L 10.257/2001 Estatuto das Cidades;Direito de Preempção
+10,134;10,12;8º e segs.;L 10.251/2001;Desapropriação de Imóvel Urbano
+10,135;10,12;5º, XXV;CF1988;Requisição de Bem Particular
+10,151;10,146;54;L 8.884/1994;Atos de Concentração
+10,183;10,182;art. 1º a 11;DL 263/67;Apólices da Dívida Pública
+10,184;10,182;Arts. 29, II, 34, 36, pár. Único, 39, §4º, 43, § 2º, I;LC 101/2000;Títulos da Dívida Pública
+10,188;10,187;"CF, art. 37, XI e art. 93, V; LC 35, art. 61 a 65.";CF, LC 35;Remuneração
+10,189;10,187;art. 29;LC 35;Afastamento
+10,19;10,187;art. 42;LC 35;Processo Disciplinar / Sindicância
+10,191;10,187;art. 50;LC 35;Aposentadoria
+10,192;10,187;"CF, art. 93, II, III, IV; LC 35, art.80";CF, LC 35;Promoção
+10,193;10,187;"CF, art. 93, VIII-A; LC 35, art. 81";"CF; LC 35";Remoção
+10,195;10,194;"CF, art. 37, XI , 39, § 4º; Lei 8625/93, art. 45 a 50.";CF, Lei 8625/93;Remuneração
+10,196;10,194;art. 20, parágrafo único.;Lei 8429/92;Afastamento
+10,197;10,194;art. 130-A, § 2º, II, III, IV.;CF;Processo Disciplinar / Sindicância
+10,198;10,194;"Art. 129, § 4º; Art. 54 e 55";"CF; Lei 8.625/93";Aposentadoria
+10,2;10,194;Art. 61;Lei 8625/93;Remoção
+10,202;10,201;20, parágrafo único;L 8.429/1992;Afastamento do Cargo
+10,203;10,201;art. 37, X a XV;CF;Remuneração
+10,204;10,201;4º, 5º e 6º;Dl 201/1967;Recondução
+10,205;10,201;art. 1º, VI, VII;DL 201/67;Prestação de Contas
+10,206;10,201;art. 7º;Lei 8429/92;Indisponibilidade de Bens
+10,208;10,207;art. 20, parágrafo único;Lei 8429/92;Afastamento do Cargo
+10,21;10,207;art. 29;Lei 8112/90;Recondução
+10,211;10,207;"CF, art. 34, VII, d; LC 101, art. 25, IV, a, 48, 49, 56, 67, III; Lei 4320, art. 78";CF, Lei 4320, LC 101;Prestação de Contas
+10,212;10,207;art. 7º;Lei 8429/92;Indisponibilidade de Bens
+10,214;10,213;art. 37, X a XV;CF;Remuneração
+10,215;10,213;art. 20, par. único;Lei 8429/92;Afastamento do Cargo
+10,217;10,213;"CF, art. 34, VII, d; LC 101, art. 25, IV, a, 48, 49, 56, 67, III; Lei 4320, art. 78";CF, Lei 4320, LC 101;Prestação de Contas
+10,218;10,213;art. 7º;Lei 8429/92;Indisponibilidade de Bens
+10,22;10,219;39;CF;Regime Estatutário
+10,221;10,288;Art. 37, XIII;CF;Isonomia/Equivalência Salarial
+10,222;10,22;41;CF;Estabilidade
+10,223;10,22;243;Lei 8.112/90;Enquadramento
+10,224;10,22;29;L 8.112/1990;Recondução
+10,225;10,22;"CF, art. 37, XVI; Lei 8.112/90, art. 118 a 120";"CF; Lei 8.112/90";Acumulação de Cargos
+10,226;10,22;28;L 8.112/1990;Reintegração
+10,227;10,22;37, VII;CF;Direito de Greve
+10,228;10,22;arts. 8º, VI, 25, 27;Lei 8112/90;Transferência
+10,229;10,22;36;Lei 8.112/90;Remoção
+10,23;10,22;"CF, art. 40; Lei 8112/90, art. 183 e segs.";"CF; Lei 8.112/90";Regime Previdenciário
+10,231;10,22;1º;Lei 8.878/94;Anistia Administrativa
+10,232;10,22;25 a 27;L 8.112/1990;Reversão
+10,233;10,22;37;L 8.112/1990;Redistribuição
+10,234;10,22;41;CF;Disponibilidade / Aproveitamento
+10,235;10,22;"arts. 20, § 3º; 37, § 1º; 93, §7º";Lei 8112/90;Lotação
+10,236;10,22;art. 17;Lei 8112/90;Promoção / Ascensão
+10,237;10,22;24;Lei 8.112/90;Readaptação
+10,238;10,22;41;CF;Estágio Probatório
+10,239;10,22;"37, II; 9º (lei 8.112/90)";"CF ; Lei 8.112/90";Nomeação
+10,24;10,22;art. 13 a 20;Lei 8112/90;Posse e Exercício
+10,241;10,22;"33 I,; 15 § 2º; 34";L 8.112/1990;Exoneração
+10,243;10,288;art. 1º a 6º;Lei 8186/91;Complementação de Benefício/Ferroviário
+10,244;10,288;230;L 8.112/1990;Assistência à Saúde
+10,245;10,288;"54, IV; 1º segs.";"L 8.069/1990; D 977/1993";Assistência Pré-escolar
+10,246;10,288;"185, I, b; 196";L 8.112/1990;Auxílio-Natalidade
+10,247;10,288;185 II c, 229;L 8.112/1990;Auxílio-Reclusão
+10,248;10,288;185 II b, 226 a 228;L 8.112/1990;Auxílio-Funeral
+10,249;10,288;185 I c, 197 a 201;L 8.112/1990;Salário-Família
+10,251;10,25;221;L 8.112/1990;Provisória
+10,252;10,25;art. 215;Lei 8112/90;Concessão
+10,253;10,25;arts. 215 a 225;Lei 8112/90;Restabelecimento
+10,254;10,219;40;CF1988;Aposentadoria
+10,255;10,254;186, I e § 1º.;L 8.112/1990;Invalidez Permanente
+10,256;10,254;186 II e 187;L 8.112/1990;Compulsória
+10,257;10,254;186 III;L 8.112/1990;Voluntária
+10,259;10,258;102 VII c;L 8.112/1990;Dirigente Sindical
+10,26;10,258;"81, V; 87";L 8.112/190;Licença Capacitação (Aperfeiçoamento Profissional)
+10,261;10,258;81 V (revogado);L 8.112/1990;Licença-Prêmio
+10,262;10,258;"81, I; 83";L 8.112/1990;Doença em Pessoa da Família
+10,263;10,258;102, VIII, b;L 8.112/1990;Tratamento da Própria Saúde
+10,264;10,258;102 VIII a;L 8.112/1990;Gestante / Adotante / Paternidade
+10,265;10,258;"81, VI; 91";L 8.112/1990;Interesse Particular
+10,266;10,258;81, III;L 8.112/1990;Serviço Militar
+10,267;10,258;81 IV;L 8.112/1990;Atividade Política
+10,268;10,258;97 III a;L 8.112/1990;Casamento
+10,269;10,258;97, III, b;L 8.112/1990;Luto
+10,27;10,258;209;L 8.112/1990;Amamentação
+10,271;10,258;97 I;L 8.112/1990;Doação de Sangue
+10,272;10,258;97 II;L 8.112/1990;Alistamento / Serviço Eleitoral
+10,273;10,258;84;L 8.112/1990;Acompanhamento de Cônjuge ou Companheiro
+10,274;10,258;18;L 8.112/1990;Exercício em Outro Município
+10,275;10,258;"185, I, f; 211 a 214";L 8.112/1990;Licença por Acidente em Serviço
+10,277;10,276;Arts. 55 e 57;Lei 8213/91;Averbação / Contagem de Tempo Especial
+10,278;10,276;Art. 201, § 9º;CF;Averbação / Contagem Recíproca
+10,28;10,279;33 II;L 8.112/1990;Demissão ou Exoneração
+10,281;10,279;Art. 127, I, 129;Lei 8112/90;Advertência
+10,282;10,279;Art. 127, II, 130;Lei 8112/90;Suspensão
+10,283;10,279;Art. 37, § 6º;CF;Responsabilidade Civil do Servidor Público / Indenização ao Erário
+10,286;10,219;arts. 1º a 14;Lei 9468/97;Programa de Desligamento Voluntário (PDV)
+10,287;10,219;19;Lei 8112/90;Jornada de Trabalho
+10,289;10,288;Art. 61;Lei 8112/90;Gratificações da Lei 8.112/1990
+10,29;10,288;arts. 1º a 8º;Lei 10.187/01;Gratificação de Incentivo
+10,291;10,288;"Arts. 61, IV; 68 e 69";Lei 8.112/90;Adicional de Insalubridade
+10,292;10,288;"Arts. 61, IV; 68 e 69";Lei 8.112/90;Adicional de Periculosidade
+10,293;10,288;71;Lei 8112/90;Adicional de Fronteira
+10,294;10,288;Art. 78;Lei 8112/90;Abono Pecuniário (Art. 78 Lei 8.112/1990)
+10,295;10,288;"Lei 8112/90, art. 62, §§ 2º e 5º; Lei 9624/98, arts. 2º e 3º";"Lei 8112/90; Lei 9624/98";Gratificação Incorporada / Quintos e Décimos / VPNI
+10,296;10,288;arts. 45 e 46;Lei 8112/90;Descontos Indevidos
+10,297;10,288;42;L 8.112/1990;Teto Salarial
+10,298;10,288;51;L 8.112/1990;Diárias e Outras Indenizações
+10,299;10,288;arts. 1º a 15;Lei 5645/1970;Plano de Classificação de Cargos
+10,3;10,288;arts. 1º a 15;Lei 7238/84;Data Base
+10,301;10,288;art. 77;Lei 8112/90;Férias
+10,302;10,288;61 III, 67 § único;L 8.112/1990;Adicional por Tempo de Serviço
+10,303;10,288;"Art. 61, V; 73 e 74";Lei 8.112/90;Adicional de Horas Extras
+10,304;10,288;art. 61, VIII;Lei 8112/90;Auxílio-Alimentação
+10,305;10,288;art. 2º;Lei 8911/94;Gratificações de Atividade
+10,306;10,288;arts. 51, III, 60;Lei 8112/90;Auxílio-transporte
+10,307;10,288;art. 37, X;CF;Revisão Geral Anual (Mora do Executivo - inciso X, art. 37, CF 1988)
+10,308;10,288;61,VI e 75;Lei 8.112/90;Adicional de Serviço Noturno
+10,31;10,288;arts. 61, II, 63 a 66.;Lei 8112/90;Gratificação Natalina/13º salário
+10,311;10,288;art. 37, XV;CF;Irredutibilidade de Vencimentos
+10,312;10,288;"Lei 11.494/07, art. 41; Lei 11.738/08, arts. 1º a 6º";"Lei 11.494/07; Lei 11.738/08";Piso Salarial
+10,313;10,219;art. 37, X;CF;Reajustes de Remuneração, Proventos ou Pensão
+10,323;10,288;art. 197;Lei 8112/90;Inclusão de Dependente
+10,326;10,325;10 a 13;L 6.880/1980;Ingresso e Concurso
+10,327;10,325;art. 114;Lei 6880/80;Curso de Formação
+10,328;10,325;"art. 112; art 125, §4º";"Lei 6880/80; CF";Reintegração
+10,329;10,325;50, IV, a;Lei 6.880/80;Estabilidade
+10,331;10,325;"14, § 8º, II, 142, § 3º, III; 81 e 82";"CR1988; L 6.880/1980";Adidos, Agregados e Adjuntos
+10,332;10,325;143, § 1º e 2º;CF;Serviço Militar Obrigatório
+10,334;10,325;"50, inciso IV, alínea ""m"" ; 59 a 62";Lei 6.880/80;Promoção
+10,335;10,325;art. 4º;L 5.292/1967;Serviço Militar dos Profissionais da Saúde
+10,336;10,325;art. 10 a 13;Lei 6880/80;Corpo Feminino
+10,338;10,337;53;L 6.880/1980;Gratificações e Adicionais
+10,339;10,337;"Art. 50, inc. IV, ""o""";Lei 6.880/80;Férias
+10,34;10,337;53, I, a;L 6.880/1980;Indenizações Regulares
+10,341;10,337;Art. 39, § 1º;CF/88;Isonomia
+10,349;10,337;104 a 114;Lei 6.880/80;Reforma
+10,35;10,337;67 a 70;Lei 6.880/80;Licenças
+10,351;10,337;80 a 85;Lei 6880 de 1980;Agregação
+10,352;10,337;96 e 97;Lei 6880 de 1980;Reserva Remunerada
+10,353;10,337;96, II;Lei 6880 de 1980;Transferência ex-officio para reserva
+10,354;10,337;134 a 143;Lei 6880 de 1980;Tempo de Serviço
+10,355;10,337;96 e 97;Lei 6880 de 1980;Transferência para reserva
+10,356;10,337;"50, IV, ""e""";Lei 6880 de 1980;Assistência Médico-Hospitalar
+10,357;10,337;art. 68;Lei 6880/80;Licença Prêmio
+10,358;10,337;121 a 123;Lei 6.880/80;Licenciamento
+10,36;10,359;"Art. 7º ; Art. 71";"Lei 3.765/60; Lei 6880/80";Concessão
+10,361;10,359;art. 71;Lei 6.880/80.;Restabelecimento
+10,362;10,359;art. 1º a 24;Lei 3.765/60;Provisória
+10,364;10,363;"47, § 1º; 25 e 27";"L 6.880/1980; D 4.346/2002";Advertência / Repreensão
+10,365;10,363;"47; 26, 28, 29 e 30";"L 6.880/1980; D 4.346/2002";Impedimento / Detenção / Prisão
+10,366;10,363;"47; 32";"L 6.880/1980; D 4.346/2002";Licenciamento / Exclusão
+10,367;10,363;82, XI;Lei 6880 de 1980;Suspensão
+10,371;10,37;"CF, art. 37, VIII; Lei 8112/90, art. 5º, § 2º";CF, Lei 8112/90;Reserva de Vagas para Deficientes
+10,373;10,37;art. 5º, V;Lei 8112/90;Limite de Idade
+10,374;10,37;"Art. 93, I; 129, § 3º";CF;Exigência de Prática Forense
+10,375;10,37;37, II;CF;Prova de Títulos
+10,376;10,37;art. 5º, IVI, art. 14;Lei 8112/90;Exame de Saúde e/ou Aptidão Física
+10,377;10,37;arts. 10 a 15;Lei 8112/90;Curso de Formação
+10,379;10,37;arts. 10 a 15;8.112/90;Anulação e Correção de Provas / Questões
+10,38;10,37;art. 5º, IV;Lei 8112/90;Escolaridade
+10,381;10,37;37, IV;CF;Classificação e/ou Preterição
+10,382;10,37;arts. 10 a 15;Lei 8112/90;Anulação
+10,383;10,37;"CF, art. 37, III; Lei 8112/90, art. 12";CFCF, Lei 8112/90;Prazo de Validade
+10,384;10,37;arts. 10 a 15;Lei 8112/90;Condições Especiais para Prestação de Prova
+10,386;10,385;art. 20 a 26;Lei 8.666/93;Modalidade / Limite / Dispensa / Inexigibilidade
+10,387;10,385;art. 27 a 53;L 8.666/1993;Habilitação / Registro Cadastral / Julgamento / Homologação
+10,388;10,385;21;Lei 8.666/93;Edital
+10,389;10,385;49;Lei 8.666/93;Revogação
+10,39;10,385;art. 86 a 88;Lei 8.666/93;Sanções Administrativas
+10,391;10,385;109;Lei 8.666/93;Recursos Administrativos
+10,392;10,385;"24, XXVI; 116 e segs.";L 8.666/1993;Convênio
+10,393;10,385;art. 43, VI;Lei 8666/93;Adjudicação
+10,395;10,394;art. 39, §§ 3º e 4º;Lei 4320/64;Multas e demais Sanções
+10,401;10,394;Art. 39, § 2º;Lei 4320/64;Taxa de Ocupação / Laudêmio / Foro
+10,402;10,394;art. 286 a 298;Lei 10406/02;Cessão de créditos não-tributários
+10,409;9,985;37;CF;Empregado Público / Temporário
+10,41;10,409;arts. 1º e segs.;Lei 8745/93 e Lei 9849/99;Contrato Temporário de Mão de Obra L 8.745/1993
+10,411;10,409;37;CF;Admissão / Permanência / Despedida
+10,418;10,417;Art. 19, VII;Lei 9503/97;CNH - Carteira Nacional de Habilitação
+10,419;10,417;Art. 262;Lei 9503/97;Liberação de Veículo Apreendido
+10,42;10,417;Arts. 130 a 135;Lei 9503/97;Licenciamento de Veículo
+10,422;10,421;art. 78, XV;Lei 8.666/93;Pagamento Atrasado / Correção Monetária
+10,423;10,421;59;Lei 8.666/93;Anulação
+10,424;10,421;art. 78, XIV, XV;Lei 8.666/93;Suspensão
+10,425;10,421;art. 58, II, art.78 a 79;Lei 8.666/93;Rescisão
+10,426;10,421;art. 57, §§ 1º, 2º, 4º;Lei 8.666/93;Prorrogação
+10,427;10,421;arts. 60, 65, § 6º;Lei 8.666/93;Termo Aditivo
+10,428;10,421;arts. 80 a 83, 86 a 88.;Lei 8.666/93;Penalidades
+10,429;10,421;arts.66 a 76;Lei 8.666/93;Execução Contratual
+10,43;10,421;art. 57, § 1º, I a II, art. 58, § 2º;Lei 8.666/93;Equilíbrio Financeiro
+10,431;899;"arts. 186; e 927 à 954";Lei nº 10.406/02 (Código Civil) -;Responsabilidade Civil
+10,432;899;Arts. 1.196 a 1.510;Lei nº 10.406/02 (Código Civil) -;Coisas
+10,433;10,431;"art. 5º, X da CF e Arts. 186; 927; 944 e 953 e parágrafo único, do CC";CF e Lei nº 10.406/02 (Código Civil) -;Indenização por Dano Moral
+10,434;10,433;arts. 186 e 951;Lei 10406/02;Erro Médico
+10,435;10,433;927;Lei 10406/02;Acidente de Trânsito
+10,436;10,433;Lei 5250, art. 5º, IV e V;"Lei 5250/67; Lei 10406/02";Lei de Imprensa
+10,437;10,433;20;Lei 10406/02;Direito de Imagem
+10,438;10,431;art. 927;Lei 10406/02;Dano Ambiental
+10,439;10,431;"arts. 927; 944 a 954";Lei nº 10.406/02 (Código Civil) -;Indenização por Dano Material
+10,44;10,439;arts. 186 e 951;Lei 10406/02;Erro Médico
+10,441;10,439;927;Lei 10406/02;Acidente de Trânsito
+10,442;10,439;art. 49;Lei 10406/02 e Lei 5250/67;Lei de Imprensa
+10,443;10,439;art. 5º, inc. V e X;Constituição Federal de 1988 %u2013;Direito de Imagem
+10,444;10,432;artigos 1.196 à 1.224 C.C.;Lei nº 10.406/02 (Código Civil) -;Posse
+10,445;10,444;Arts.1210 a 1224;Lei 10.406/02;Esbulho / Turbação / Ameaça
+10,446;10,444;1228;Lei 10.406/02;Imissão
+10,447;10,444;1204 a 1209;Lei 10.406/02;Aquisição
+10,448;10,432;"artigos 1.225, I; 1.228 à 1.259 C.C.";Lei nº 10.406/02 (Código Civil) -;Propriedade
+10,449;10,448;1275 a 1276;Lei 10406/02;Perda da Propriedade
+10,45;10,448;1322 1499 VI 1483;Lei 10.406/02;Adjudicação Compulsória
+10,451;10,448;1297;Lei 10.406/02 e CPC;Divisão e Demarcação
+10,452;10,448;637 879 1228 1251 1314 1359;Lei 10406/02;Reivindicação
+10,453;10,448;212 a 213;Lei 6015/73;Retificação de Área de Imóvel
+10,454;10,448;1322;Lei 10.406/02;Alienação Judicial
+10,455;10,448;Artigos:1.238 a 1.259;Lei nº 10.406/02 (Código Civil) -;Aquisição
+10,456;10,455;1249 a 1259;Lei 10406/02;Acessão
+10,457;10,455;183 e 191;CF;Usucapião Especial (Constitucional)
+10,458;10,455;1238 e 1261;Lei 10406/02;Usucapião Extraordinária
+10,459;10,455;1242 e 1260;Lei 10406/02;Usucapião Ordinária
+10,46;10,455;10;Lei 10.257/01;Usucapião Especial Coletiva
+10,461;10,448;1277;Lei 10406/02;Direito de Vizinhança
+10,462;10,448;1314 a 1330;Lei 10.406/02;Condomínio
+10,464;10,463;1347 a 1356;Lei 10406/02;Administração
+10,465;10,463;art. 1.314, par. único;Lei 10.406/02;Alteração de Coisa Comum
+10,466;10,463;"artigos 1.334, III; 1.347, § 1º do artigo 1.348 e 1.349 à 1.355 C.C";Lei nº 10.406/02 (Código Civil) - .;Assembléia
+10,467;10,463;"Lei 10.406/02, art. 1.334; Lei 4591/64, art. 12";"Lei 10.406/02; Lei 4591/64";Despesas Condominiais
+10,468;10,463;1335 a 1337;Lei 10406/02;Direitos / Deveres do Condômino
+10,469;10,463;1338;Lei 10406/02;Vaga de garagem
+10,47;10,448;art. 1º;Lei 4.591/64;Incorporação Imobiliária
+10,48;10,448;1359 a 1360;Lei 10406/02;Propriedade Resolúvel
+10,481;10,448;1361 a 1368;Lei 10406/02;Propriedade Fiduciária
+10,482;10,432;678 694;Lei 3.071/16;Enfiteuse
+10,483;10,432;1378 a 1379;Lei 10.406/02;Servidão
+10,484;10,432;1390 a 1411;Lei 10.406/02;Usufruto
+10,485;10,432;1369 a 1377;Lei 10.406/02;Superfície
+10,486;10,432;1412 a 1413;Lei 10.406/02;Uso
+10,487;10,432;1414 a 1416;Lei 10.406/02;Habitação
+10,488;10,432;Artigos:1.431;Lei nº 10.406/02 (Código Civil) -;Penhor
+10,489;10,488;1438 a 1446;Lei 10.406/02;Rural - Agrícola/Pecuário
+10,49;10,488;1447 a 1450;Lei 10.406/02;Industrial / Mercantil
+10,491;10,488;artigos 1.451 à 1.460.;Lei nº 10.406/02 (Código Civil) -;Direitos e Títulos de Crédito
+10,492;10,488;1461 a 1466;Lei 10.406/02;Veículos
+10,493;10,488;1467 a 1472;Lei 10.406/02;Legal
+10,494;10,432;1473 a 1505;Lei 10.406/02;Hipoteca
+10,495;10,432;Art. 1506 a 1510;Lei 10.406/02;Anticrese
+10,496;10,432;1417 e 1418;Lei 10.406/02;Promessa de Compra e Venda
+10,497;10,288;art. 37, XI;CF;Subsídios
+10,499;4,654;art. 1º e segs.;Lei 9610/98;Programa de Computador
+10,5;10,455;arts. 1º a 10;L 6.969/1981;Usucapião da L 6.969/1981
+10,501;9,58;art. 2º;"Lei Federal nº 4829/65;";Crédito Rural
+10,502;9,991;Art. 37, § 6º;CF;Indenização por Dano Material
+10,503;10,502;"CF, art. 37, § 6º; Lei 10.406/02, art.927, 944, 949";"CF/88; Lei 10406/02";Erro Médico
+10,504;10,502;"CF, art. 37, § 6º; Lei 10.406/02, art.927";"CF; Lei 10406/02";Acidente de Trânsito
+10,508;3,388;136;CP;Maus Tratos
+10,509;3,388;134;CP;Exposição ou Abandono de Recém Nascido
+10,514;3,618;Art. 24;Lei nº 11.105/2005;Utilização de Embrião Humano em Desacordo com a Legislação
+10,515;3,618;Art. 25;Lei nº 11.105/2005;Prática de engenharia genética em célula germinal, zigoto ou embrião humanos
+10,516;3,618;Art. 26;Lei nº 11.105/2005;Clonagem Humana
+10,527;5,914;150, VI;CF;Livros / Jornais / Periódicos
+10,528;5,914;150, VI;CF;Entidades Sem Fins Lucrativos
+10,529;5,914;150, VI;CF;Partidos Políticos
+10,53;5,914;150, VI;CF;Imunidade Recíproca
+10,534;5,972;"CF, art. 145, II; CTN, art. 77";"CF; CTN";Taxa de Limpeza Pública
+10,535;5,972;"CF, art. 145, II; CTN, art. 77";"CF; CTN";Taxa de Iluminação Pública
+10,536;5,972;"CF, art. 145, II; CTN, art. 77";"CF; CTN";Taxa de Coleta de Lixo
+10,537;5,972;"CF, art. 145, II; CTN, art. 77";"CF; CTN";Taxa de Prevenção e Combate a Incêndio
+10,538;5,972;"CF, art. 145, II; CTN, art. 77";"CF; CTN";Taxa de Licenciamento de Estabelecimento
+10,539;5,978;art. 126;CTN;Capacidade Tributária
+10,54;5,913;arts. 153 a 156;CF;Competência Tributária
+10,543;5,987;151, II;CTN;Depósito Judicial
+10,544;5,992;Art. 4º;LC 118/05;Constitucionalidade do artigo 4º da LC 118/05
+10,545;5,992;"Lei 8212, art. 46; Súmula Vinculante nº 8.";"Lei 8212/91; Súmula Vinculante nº 8";Constitucionalidade do artigo 46 da Lei 8212/91
+10,548;5,992;art. 40, §4º;Lei 6830/80;Decretação de Ofício
+10,549;10,546;"art. 5º, parágrafo único; Súmula Vinculante nº 8";"DL 1569/77; Súmula Vinculante nº 8";Arquivamento Administrativo - Crédito de Pequeno Valor
+10,55;10,547;Artigo 8º;Lei 6830/80;Despacho de Citação
+10,551;5,993;"Lei 8212, art. 45; Súmula Vinculante nº 8.";"Lei 8212/91; Súmula Vinculante nº 8";Constitucionalidade do artigo 45 da Lei 8212/91
+10,556;6,008;"Lei 10833, art. 3º; Lei 9718, art. 3º, §2º, I";Lei 10833/03 e Lei 9718/98;Exclusão - ICMS
+10,557;6,008;art. 155, §2º, XI;CF;Exclusão - IPI
+10,558;6,008;art. 149, §2º, I;CF;Exclusão - Receitas Provenientes de Exportação
+10,559;6,008;"CF, art. 155, §2º; ADCT, art. 34, §4º.";CF;"Cálculo de ICMS &quot;por dentro&quot;"
+10,56;6,021;"CTN, art. 197; Lei 9034, art. 2º, III; Lei 8021, art. 8º; Lei 4595, art. 38, §2º";"CTN; Lei 9034/95; Lei 8021/90; Lei 4595/64";Quebra de Sigilo Bancário
+10,561;6,033;art. 1º e 45;Lei 10637;PIS - Importação
+10,562;6,033;art. 2º e 5º, §12;Lei 9718/98;COFINS - Importação
+10,563;6,036;31;Lei 9249/95;Compensação de Prejuízo
+10,565;6,044;"CF, art. 149; CLT, art. 578 a 591; DL 1166";CF, CLT e DL1166/71;Contribuição Sindical Rural
+10,567;6,094;Art. 44;Lei 8.213/91;Aposentadoria por Invalidez Acidentária
+10,582;7,691;arts. 455 e 607;Lei nº 10.406/02 (Código Civil);Rescisão / Resolução
+10,585;7,699;Art. 591;Lei 10406/02;Capitalização / Anatocismo
+10,586;7,699;"- arts. 406 a 407;";Lei nº 10.406/02 (Código Civil);Limitação de Juros
+10,588;4,839;art. 234;Lei 10406;Vícios de Construção
+10,59;4,805;art. 21, V, 42, V, 67, §5º;Lei 6435;Resgate de Contribuição
+10,591;10,337;Art. 50, § 2º, § 3º;Lei 6.680/80;Inclusão de Dependente
+10,592;7,69;arts. 1º a 7º;Lei 0820/03;Desconto em folha de pagamento
+10,595;10,463;art. 1.336, § 1º;Lei 10.406/02;Multa
+10,598;7,617;6º, III, e 22;Lei n. 8.078/90 (C.D.C.);Cobrança indevida de ligações
+10,599;4,264;564, IV;CPP;Quesitos
+10,6;4,264;"255; 500, I";"CPP; CPPM";Impedimento
+10,601;4,264;"564, I; 500, I";"CPP; CPPM";Suspeição
+10,602;4,271;89;Lei nº 9099;Condicional do processo
+10,605;10,604;24;CPP;Competência do MP
+10,607;10,604;5.º, XII;"CF; LC 105/2001";Quebra do Sigilo Bancário
+10,608;10,604;5.º, X e XII;CF;Quebra do Sigilo Fiscal
+10,609;10,604;1º;Lei 9.296/96;Quebra do Sigilo Telefônico
+10,616;10,613;25;cp;Legítima Defesa
+10,617;10,613;24;CP;Estado de Necessidade
+10,618;10,613;23, III;CP;Estrito Cumprimento do Dever Legal
+10,619;10,613;22;CP;Inexigibilidade de Conduta Diversa
+10,623;10,622;107;CP;Prescrição
+10,624;10,622;107, IX;CP;Perdão
+10,625;10,622;5º, XLIII;CF;Anistia
+10,627;10,622;Art. 34;"8137/91; 9249/95";Pagamento ou Parcelamento do Crédito Tributário
+10,63;4,263;76;9099/95;Transação
+10,632;1,209;2º;Lei 7.960/89;Prisão Temporária
+10,633;10,621;59;cp;Regime inicial
+10,636;7,791;"696; 618; 156";"CPP; CPPM; 7.210/1984";Livramento condicional
+10,638;10,288;art. 118;Lei 8112/90;Acumulação de Proventos
+10,64;4,263;"594; 527";"CPP; CPPM";Prisão Decorrente de Sentença Condenatória
+10,642;10,62;91 e 92;CP;Efeitos da Condenação
+10,643;10,642;92, I;cp;Perda da Função Pública
+10,644;10,642;45, § 3º;cp;Perda de Bens e Valores
+10,651;8,829;"3º (Lei 9.099/1995); 3º (Lei n. 10.259/2001); 2º (Lei 12.153/2009)";Lei n. 9.099/1995, Lei n. 10.259/2001 e Lei n. 12.153/2009;Competência dos Juizados Especiais
+10,652;8,829;14;Constituição Federal;Competência da Justiça do Trabalho
+10,653;8,829;108 e 109;Constituição Federal;Competência da Justiça Federal
+10,654;8,829;"102, 105, 108, 109, 114, 124 e 125, §§ 4º e 5º (CF); 22, 29, 35 (Código Eleitoral)";Constituição Federal e Código Eleitoral;Competência da Justiça Estadual
+10,655;8,874;"85, §§ 1º, 2º, 6º e 8º a 19; 86; 87 e 90 a 92";CPC;Honorários Advocatícios
+10,656;8,874;"85 a 87; 90 a 92";CPC;Honorários Advocatícios em Execução Contra a Fazenda Pública
+10,658;8,874;82 a 84 e 86 a 94;CPC;Custas
+10,659;8,884;145;CPC;Suspeição
+10,66;8,884;144;CPC;Impedimento
+10,662;10,288;Art. 40, § 19;CF;Abono de Permanência
+10,666;9,045;997, caput;CPC;Regularidade Formal
+10,667;10,288;art. 37, XIV;CF;Gratificações Estaduais Específicas
+10,668;9,06;"1.017, § 2º, IV e § 4º (CPC); 2º, caput (Lei n. 9.800/1999)";CPC e Lei n. 9.800/1999;Fac-símile
+10,669;9,06;1.017, § 2º, II;CPC;Protocolo Integrado / Descentralizado
+10,671;9,148;536 e 537;CPC;Obrigação de Fazer / Não Fazer
+10,673;9,148;100, §§ 3º e 4º;Constituição Federal;Requisição de Pequeno Valor - RPV
+10,675;10,187;"CF, art. 94; LC 35, art. 100";CF, LC 35;Quinto Constitucional
+10,676;10,67;"538, caput; 625; 806, caput e § 2º; 877, § 1º, I; 879, § 2º, I; 901, § 1º; 903, §§ 1º a 3º";CPC;Imissão na Posse
+10,677;10,67;"536, caput e §§ 1º e 2º; 538, caput; 625; 806, caput e § 2º";CPC;Busca e Apreensão
+10,678;10,672;"97, § 13; 103, caput";ADCT;Sequestro de Verbas Públicas
+10,679;10,672;100, §§ 2º e 8º;Constituição Federal;Fracionamento
+10,68;10,672;100, § 8º;Constituição Federal;Crédito Complementar
+10,683;9,148;525, § 11;CPC;Fato Superveniente ao Término do Prazo para Impugnação
+10,684;9,149;389, 406 e 407;Código Civil;Juros
+10,685;9,149;"389 (CC); 1º (Lei 6.889/1981)";Código Civil e Lei n. 6.899/1981;Correção Monetária
+10,686;9,148;"567. 806, § 1º; 814";CPC;Multa Cominatória / Astreintes
+10,687;9,149;"406 (CC); 13 (Lei 9.065/1995)";Código Civil e Lei n. 9.065/1995;Taxa SELIC
+10,688;9,633;arts. 101 e 112;ECA;Medidas Sócio-educativas
+10,69;5,916;art. 2º;LC 77/1993;IPMF - Imposto Provisório sobre Movimentação Financeira
+10,691;4,271;"92 e 93; 122 e ss.";"CPP; CPPM";Questão Prejudicial
+10,706;10,288;art. 37, XIV;CF;Gratificações Municipais Específicas
+10,732;10,214;art. 39, §4º;CF;Verba de Representação
+10,734;8,919;97;Constituição Federal;Nulidade - Não Observância da Reserva de Plenário
+10,735;8,942;330, III e 485, I e VI, §§ 3º e 7º;CPC;Ausência de Interesse Processual
+10,737;8,942;485, IV, §§ 3º e 7º;CPC;Ausência de Pressupostos de Constituição e Desenvolvimento
+10,738;9,045;528;CPPM;Sobrestamento
+10,747;3,654;art. 289;Código Eleitoral;Inscrição fraudulenta
+10,748;3,654;art. 324;Código Eleitoral;Calúnia
+10,749;3,654;art. 325;Código Eleitoral;Difamação
+10,75;3,654;art. 326;Código Eleitoral;Injúria
+10,751;3,654;"art. 299; art. 41-A";"Código Eleitoral; Lei 9.504/97";Captação ilícita de votos ou corrupção eleitoral
+10,752;3,654;art. 302;Código Eleitoral;Aliciamento eleitoral
+10,753;3,654;art. 350;Código Eleitoral;Falso eleitoral
+10,754;3,654;art. 347;Código Eleitoral;Desobediência à determinações da Justiça Eleitoral
+10,755;3,654;art. 39, § 5º;Lei 9504/97;Boca de urna
+10,756;3,654;art. 290;Código Eleitoral;Indução à inscrição indevida
+10,815;3,654;art. 296;Código Eleitoral;Desordem eleitoral
+10,816;3,654;artigo 348;Código Eleitoral;Falsificação de documento público para fins eleitorais
+10,817;3,654;art. 353;Código Eleitoral;Uso de documento falso
+10,818;3,654;art. 354;Código Eleitoral;Obtenção de documento falso
+10,819;3,654;artigo 11, III;Lei 6091/74;Aliciamento de eleitores
+10,82;3,654;artigo 33, § 4º;Lei 9504/97;Divulgação de pesquisa de fraudulenta
+10,821;3,654;art. 34, § 2º;Lei 9504/97;Impedimento à fiscalização das pesquisas
+10,822;3,654;art. 34, § 3º;Lei 9504/97;Publicação de pesquisa irregular
+10,823;3,654;art. 40;Lei 9504/97;Uso de símbolos governamentais em propaganda eleitoral
+10,824;3,654;art. 300;Código Eleitoral;Coação eleitoral
+10,825;3,654;art. 301;Código Eleitoral;Aliciamento violento de eleitores
+10,826;3,654;art. 334;Código Eleitoral;Aliciamento comercial de eleitores
+10,827;3,654;art. 339;Código Eleitoral;Ocultação de urna
+10,83;3,664;149;CPM (Lei 1.001/69);Motim
+10,831;3,664;235;CPM (Lei 1.001/69);Pederastia ou outro ato de libidinagem
+10,833;3,664;251;CPM (1.001/69);Estelionato
+10,834;3,664;268;CPM (1.001/69);Incêndio
+10,835;3,664;303;CPM (Lei 1.001/69);Peculato
+10,836;3,664;305;CPM (Lei 1.101/69);Concussão
+10,837;3,664;309;CPM (Lei 1.101/69);Corrupção ativa
+10,838;3,664;319;CPM (Lei 1.001/69);Prevaricação
+10,839;3,664;391;CPM (1.001/69);Deserção
+10,842;10,841;209, § 6º;CPM (Lei 1.001/69);Lesão levíssima
+10,843;3,664;215;CPM (1.001/69);Difamação
+10,844;3,664;216;CPM (1.001/69);Injúria
+10,845;10,84;205, § 1º;CPM (1.001/69);Homicídio simples
+10,846;10,84;205, § 2º;CPM (1.001/69);Homicídio qualificado
+10,847;10,841;209;CPM (Lei 1.001/69);Leve
+10,848;10,841;209, § 1º;CPM (Lei 1.001/69);Grave
+10,849;10,841;209, § 3º;CPM (Lei 1.001/69);Lesões qualificadas pelo resultado
+10,85;10,832;242, § 1º;CPM (Lei 1.001/69);Roubo simples
+10,851;10,832;242, § 2º;CPM (Lei 1.001/69);Roubo qualificado
+10,852;3,664;242, § 3º;CPM (1.001/69);Latrocínio
+10,859;10,573;528,§§ 3º a 8º;CPC;Alimentos
+10,862;10,146;173, § 2º;CF;Proibição de Privilégio Fiscal às Empresas Públicas e Sociedades de Economia Mista
+10,863;10,736;"129, III (CF); 5º (Lei 7.347/1985)";Constituição Federal e Lei n. 7.347/1985;Ausência de Legitimidade para propositura de Ação Civil Pública
+10,864;10,635;2º, § 2;Lei 8.072;Crimes Hediondos
+10,865;4,264;"93, IX; 500, III e IV";"CF; CPPM";Cerceamento de Defesa
+10,866;4,264;"93, IX; 792, § 1.º; 500, IV";"CF; CPP; CPPM";Ausência de Publicidade
+10,867;4,264;"93, IX; 250; 500, IV";"CF; CPC; CPPM";Ausência de Fundamentação
+10,869;10,672;"513, caput; 523, caput";CPC;Parcela Incontroversa
+10,875;10,291;Art. 12;Lei 8270/91;Base de Cálculo
+10,878;10,254;art. 40, § 4º e § 5º;CF;Especial
+10,88;9,148;"520 a 522; 527; 537, § 3º; 1.012, §§ 1º e 2º";CPC;Cumprimento Provisório de Sentença
+10,881;10,22;117;Lei 8.112/90;Nepotismo
+10,885;10,672;"100, § 20 (CF); 78 (ADCT)";Constituição Federal e ADCT;Liquidação Parcelada
+10,89;4,264;"564, III; 500, IV";"CPP; CPPM";Vício Formal do Julgamento
+10,891;1,209;"647; 466";"CPP; CPPM";Habeas Corpus - Cabimento
+10,894;9,997;5º, LXIX;CF;Abuso de Poder
+10,897;4,291;Art. 3º e Art. 43;cpp;Competência dos Juizados Especiais
+10,901;8,829;"102, I, ""b"", ""c"" e ""d""; 105, I, ""a""; 108, I, ""a""; 125, § 1º (CF)";Constituição Federal e Constituições Estaduais;Competência por Prerrogativa de Função
+10,902;4,263;"401, § 1.º; 390, 453";"CPP; CPPM";Excesso de prazo para instrução / julgamento
+10,906;7,791;"66, III, ""b""";7.210/1984;Regressão de Regime
+10,913;10,912;"125; 199 e ss";"CPP; CPPM";Indisponibilidade / Seqüestro de Bens
+10,914;10,912;"240; 170";"CPP; CPPM";Busca e Apreensão de Bens
+10,917;10,915;124;CP;Aborto provocado pela gestante ou com o seu consentimento
+10,918;10,915;125 e 126;CP;Aborto provocado por terceiro
+10,919;10,915;127;CP;Aborto qualificado
+10,921;6,203;Art. 1º e ss.;Decreto 3413/2000;Restituição de Criança, Convenção de Haia 1980
+10,924;4,993;98, parágrafo único;Lei nº 11.101/2005;Depósito Elisivo
+10,926;10,925;"5.º, LVI; 157; 295";"CF; CPP; CPPM";Prova Ilícita
+10,931;10,93;art. 18, § 4º;CF;Criação
+10,932;10,93;art. 18, § 4º;CF;Desmembramento
+10,935;4,368;"383; 78, § 1.º, 437";"CPP; CPPM";Desclassificação
+10,936;10,577;1.583 a 1.586, 1.590 e 1.724;Lei 10406/02;Guarda com genitor ou responsável no exterior
+10,938;8,893;238 a 259;CPC;Citação
+10,939;8,893;269 a 275;CPC;Intimação / Notificação
+10,94;8,99;385 a 388 e 442 a 463;CPC;Depoimento
+10,941;9,964;83 e seguintes;ECA;Viagem Nacional
+10,945;7,752;52 e 53;Lei n. 8.078/90 (C.D.C.);Expurgos Inflacionários / Planos Econômicos
+10,948;5,626;art. 7º;Lei 11.340/2006;Violência Doméstica Contra a Mulher
+10,949;287;Art. 7º;Lei 11340/06;Violência Doméstica Contra a Mulher
+10,95;287;"CP, art. 61, II, h; Lei 8069/90, art. 2º";"CP; Lei 8069/90";Crime / Contravenção contra Criança / Adolescente
+10,951;287;"CP, art. 61, II, h; Lei 10.741, art. 1º";"CP; Lei 10.741/03";Crime / Contravenção contra Idoso
+10,955;10,954;art. 165 a 169;CF;Criação de Dotação Orçamentária
+10,956;10,954;art. 168;CF;Repasse de Duodécimos
+10,957;10,954;art. 169, § 2º;CF;Repasse de Verbas Públicas
+10,958;10,954;art. 165, § 8º;CF;Crédito Suplementar
+10,982;3,547;1°;Lei 9.613/1998;"""Lavagem"" ou Ocultação de Bens, Direitos ou Valores Oriundos de Corrupção"
+10,983;5,872;1°;Lei 9613/1998;"""Lavagem"" ou Ocultação de Bens, Direitos ou Valores Oriundos de Corrupção"
+10,984;5,873;1°;Lei 9.613/1998;"""Lavagem"" ou Ocultação de Bens, Direitos ou Valores Oriundos de Corrupção"
+10,985;3,603;3° e 12;Lei 8.137/1990;Crimes contra a Ordem Tributária praticado por Funcionário Público
+10,986;3,618;66 e 67;Lei 9.605/1998;Crime contra a administração ambiental
+10,987;3,607;40;Lei 11.343/2006;Tráfico Ilícito de Drogas praticado por Funcionário Público
+10,99;5,875;1°;DL 201/1967;Má-gestão praticada por Prefeitos e Vereadores
+10,991;5,875;1°;DL 201/1967;Corrupção Praticada por Prefeitos e Vereadores
+10,992;3,523;311;Código Penal (DL 2.848/1940);Adulteração de Sinal Identificador de Veículo Automotor por Funcionário Público
+10,993;3,523;294 e 295;CP;Petrechos de Falsificação de Papéis Públicos por Funcionário Público
+10,994;3,523;294 e 295;CP;Petrechos para falsificação de moeda por Funcionário Público
+10,995;3,523;299;CP;Falsidade ideológica praticada por Funcionário Público
+10,998;3,523;297;CP;Falsificação de documento Público praticada por Funcionário Público
+10,999;9,045;527, II.;CPC;Conversão em Agravo Retido
+11,004;3,523;296;Código Penal;Falsificação do Selo ou Sinal Público Praticado por Funcionário Público
+11,005;3,523;293 e 295;Código Penal;Falsificação de Papéis Públicos Praticado por Funcionário Público
+11,006;3,523;289;Código Penal;Crime de Desvio e/ou Circulação de Moeda Não Autorizada
+11,007;3,523;289;Código Penal;Crime de Moeda Falsa Praticado por Funcionário Público
+11,047;8,829;124;Constituição Federal;Competência da Justiça Militar da União
+11,048;8,829;125, §§4º e 5º;Constituição Federal;Competência da Justiça Militar dos Estados
+11,054;11,049;263;CPPM;Menagem
+11,058;11,057;110, 115;CPM;Cassação de licença para direção de veículo motorizado
+11,059;11,057;110, 119;CPM;Confisco
+11,06;11,057;110, 116;CPM;Exílio local
+11,061;11,057;110, 118;CPM;Interdição de estabecimento ou associação
+11,062;11,057;110, 117;CPM;Proibição de frequentar determinados locais
+11,063;11,057;55;CPM;Suspensão do exercício do posto, graduação, cargo ou função
+11,064;11,051;498, b;CPPM;Representação do Corregedor
+11,065;11,051;498;CPPM;Requerimento da Parte
+11,067;11,066;"500, III, ""h""";CPPM;Irregularidade na composição do Conselho
+11,069;11,068;art. 33, inciso II;CPM;Crime Culposo
+11,071;11,068;30, inciso II;CPM;Crime Tentado
+11,085;11,08;89;CPM;Livramento Condicional
+11,087;11,08;84;CPM;Suspensão Condicional da Pena
+11,089;11,088;123, inciso III;CPM;Abolitio criminis
+11,091;11,086;102;CPM;Exclusão das Forças Armadas
+11,092;11,086;104;CPM;Inabilitação para o exercício de Função Pública
+11,093;11,086;101;CPM;Incompatibilidade para o Oficialato
+11,094;11,086;100;CPM;Indignidade para o Oficialato
+11,095;11,086;103;CPM;Perda da Função Pública
+11,096;11,086;125, § 4º;Constituição Federal;Perda da Graduação das Praças
+11,097;11,086;125,§ 4º e art. 142,§ 3º, VI e VII;Constituição Federal;Perda do Posto e da Patente
+11,098;11,086;98, inciso VII;CPM;Suspensão do pátrio poder, tutela ou curatela
+11,099;11,086;106;CPM;Suspensão dos direitos políticos
+11,1;11,084;123, inciso II;CPM;Anistia
+11,101;11,084;123, inciso II;CPM;Indulto
+11,102;11,084;123, inciso I;CPM;Morte do Agente
+11,103;11,084;123, inciso IV;CPM;Prescrição
+11,104;11,084;123, inciso V;CPM;Reabilitação
+11,105;11,084;123, inciso VI;CPM;Ressarcimento do Dano
+11,106;11,083;42, I;CPM;Estado de Necessidade
+11,107;11,083;39;CPM;Estado de Necessidade exculpante
+11,108;11,083;42, inciso III;CPM;Estrito Cumprimento do Dever Legal
+11,109;11,083;42, inciso IV;CPM;Exercício Regular do Direito
+11,11;11,083;38;CPM;Inexigibilidade de Conduta Diversa
+11,111;11,083;42,inciso II;CPM;Legítima Defesa
+11,112;11,082;109,II;CPM;Perda em favor da Fazenda Pública
+11,113;11,082;109, I;CPM;Reparação do Dano
+11,114;11,081;59;CPM;Conversão da Pena
+11,115;11,081;113;CPM;Substituição da Pena
+11,12;11,119;184;CPM;Criação ou simulação de incapacidade física
+11,121;11,119;186;CPM;Favorecimento a convocado
+11,122;11,119;183;CPM;Insubmissão
+11,123;11,119;183,§ 2º;CPM;Insubmissão privilegiada
+11,124;11,119;185;CPM;Substituição de convocado
+11,125;11,118;204;CPM;Exercício de comércio por oficial
+11,126;11,117;191;CPM;Concerto para deserção
+11,127;11,117;187;CPM;Deserção
+11,128;11,117;188;CPM;Deserção - casos assimilados
+11,129;11,117;190;CPM;Deserção especial
+11,13;11,117;192;CPM;Deserção por evasão ou fuga
+11,131;11,117;189, inciso I;CPM;Deserção privilegiada
+11,132;11,117;189, inciso II;CPM;Deserção qualificada
+11,133;11,117;193;CPM;Favorecimento a desertor
+11,134;11,117;194;CPM;Omissão de Oficial
+11,135;11,116;195;CPM;Abandono de posto
+11,136;11,116;196;CPM;Descumprimento de missão
+11,137;11,116;203;CPM;Dormir em serviço
+11,138;11,116;202;CPM;Embriaguez em serviço
+11,139;11,116;198;CPM;Omissão de eficiência da força
+11,14;11,116;199;CPM;Omissão de providências para evitar danos
+11,141;11,116;200;CPM;Omissão de providências para salvar comandados
+11,142;11,116;201;CPM;Omissão de socorro
+11,143;11,116;197;CPM;Retenção indevida
+11,152;11,151;257;CPM;Alteração de Limites
+11,153;11,151;258;CPM;Aposição, supressão ou alteração de marca
+11,154;11,15;267;CPM;Usura pecuniária
+11,155;11,149;245;CPM;Chantagem
+11,156;11,149;243;CPM;Extorsão
+11,157;11,149;246;CPM;Extorsão indireta
+11,158;11,149;244;CPM;Extorsão mediante sequestro
+11,159;11,149;242,§ 3º;CPM;Latrocínio
+11,16;11,149;242;CPM;Roubo
+11,161;11,149;242,§2º;CPM;Roubo qualificado
+11,162;11,148;254;CPM;Receptação
+11,163;11,147;240;CPM;Furto
+11,164;11,147;241;CPM;Furto de uso
+11,165;11,147;240, §4º,5º,6º;CPM;Furto qualificado
+11,166;11,146;252;CPM;Abuso de pessoa
+11,167;11,146;251;CPM;Estelionato
+11,168;11,145;260;CPM;Dano atenuado
+11,169;11,145;264;CPM;Dano em aparelhos e instalações
+11,17;11,145;263;CPM;Dano em navio de guerra ou mercante em serviço militar
+11,171;11,145;262;CPM;Dano material ou aparelhamento de guerra
+11,172;11,145;261;CPM;Dano qualificado
+11,173;11,145;259;CPM;Dano simples
+11,174;11,145;265;CPM;Desaparecimento,consunção ou extravio
+11,175;11,144;249, parágrafo único;CPM;Apropriação de coisa achada
+11,176;11,144;249;CPM;Apropriação de coisa havida acidentalmente
+11,177;11,144;248;CPM;Apropriação indébita
+11,181;11,18;271;CPM;Abuso de radiação
+11,182;11,18;274;CPM;Desabamento ou desmoronamento
+11,183;11,18;278;CPM;Difusão de epizootia ou praga vegetal
+11,184;11,18;279;CPM;Embriaguez ao volante
+11,185;11,18;270;CPM;Emprego de gás tóxico ou asfixiante
+11,186;11,18;269;CPM;Explosão
+11,187;11,18;276;CPM;Fatos que expõem a perigo aparelhamento militar
+11,188;11,18;Art. 281;CPM;Fuga após acidente de trânsito
+11,189;11,18;268;CPM;Incêndio
+11,19;11,18;272;CPM;Inundação
+11,191;11,18;273;CPM;Perigo de inundação
+11,192;11,18;280;CPM;Perigo resultante de violação de regra de trânsito
+11,193;11,18;275;CPM;Subtração, ocultação ou inutilização de material de socorro
+11,194;11,179;286;CPM;Arremesso de projétil
+11,195;11,179;287;CPM;Atentado contra serviço de utilidade militar
+11,196;11,179;283;CPM;Atentado contra transporte
+11,197;11,179;284 e 285;CPM;Atentado contra viatura ou outro meio de transporte
+11,198;11,179;288 e 289;CPM;Interrupção ou perturbação de serviço ou meio de comunicação
+11,199;11,179;282;CPM;Perigo de desastre ferroviário
+11,2;11,178;294;CPM;Corrupção ou poluição de água potável
+11,201;11,178;293;CPM;Envenenamento com perigo extensivo
+11,202;11,178;292;CPM;Epidemia
+11,203;11,178;296;CPM;Fornecimento de substância alterada
+11,204;11,178;295;CPM;Fornecimento de substancia nociva
+11,205;11,178;297;CPM;Omissão de notificação de doença
+11,206;11,178;291;CPM;Receita Ilegal
+11,207;11,178;290;CPM;Tráfico, posse ou uso de entorpecente ou substância de efeito similar
+11,208;11,076;138;CPM;Atos de jurisdição indevida
+11,209;11,076;143;CPM;Consecução de notícia, informação ou documento para fim de espionagem
+11,21;11,076;147;CPM;Desenho ou levantamento de plano ou planta de local militar
+11,211;11,076;140;CPM;Entendimento para empenhar o Brasil à neutralidade ou à guerra
+11,212;11,076;141;CPM;Entendimento para gerar conflito ou divergência com o Brasil
+11,213;11,076;"136 ""caput""";CPM;Hostilidade contra país estrangeiro
+11,214;11,076;136, § 1º;CPM;Hostilidade qualificada pelo resultado
+11,215;11,076;146;CPM;Penetração com o fim de espionagem
+11,216;11,076;137;CPM;Provocação a país estrangeiro
+11,217;11,076;144;CPM;Revelação de notícia, informação ou documento
+11,218;11,076;144;CPM;Revelação de notícia, informação ou documento, com o fim de espionagem militar
+11,219;11,076;148;CPM;Sobrevôo em local interdito
+11,22;11,076;142;CPM;Tentativa contra a soberania do Brasil
+11,221;11,076;145;CPM;Turbação de objeto ou documento
+11,222;11,076;139;CPM;Violação de território estrangeiro
+11,231;11,23;238;CPM;Ato obsceno
+11,232;11,23;239;CPM;Escrito ou objeto obsceno
+11,233;11,229;212;CPM;Abandono de pessoa
+11,234;11,229;212, §§1º,2º;CPM;Abandono de pessoa seguida de morte ou lesão grave
+11,235;11,229;213;CPM;Maus tratos
+11,236;11,229;213, §§ 1º e 2º;CPM;Maus tratos seguido de morte ou lesão grave
+11,237;11,228;209, § 1º;CPM;Lesão grave
+11,238;11,228;209;CPM;Lesão leve
+11,239;11,228;209,§ 6º;CPM;Lesão levíssima
+11,24;11,228;209,§ 4º;CPM;Lesão privilegiada
+11,241;11,228;209,§ 3º;CPM;Lesão seguida de morte
+11,242;11,228;211;CPM;Participação em rixa
+11,243;11,227;205;CPM;Homicídio
+11,244;11,227;205,§ 2º;CPM;Homicidio qualificado
+11,245;11,227;205, § 1º;CPM;Homicido privilegiado
+11,246;11,227;207;CPM;Provocação direta ou auxílio a suicídio
+11,247;11,227;207,§ 2º;CPM;Provocação indireta ao suicídio
+11,248;11,226;208;CPM;Genocídio
+11,249;11,225;233;CPM;Atentado violento ao pudor
+11,25;11,225;234;CPM;Corrupção de menores
+11,251;11,225;232;CPM;Estupro
+11,252;11,225;235;CPM;Ato Libidinoso
+11,253;11,224;223;CPM;Ameaça
+11,254;11,224;222;CPM;Constragimento ilegal
+11,255;11,224;224;CPM;Desafio para duelo
+11,256;11,224;228;CPM;Divulgação de segredo
+11,257;11,224;225;CPM;Sequestro ou cárcere privado
+11,258;11,224;227;CPM;Violação de correspondência
+11,259;11,224;226;CPM;Violação de domicílio
+11,26;11,224;229;CPM;Violação de recato
+11,261;11,224;230;CPM;Violação de segredo profissional
+11,262;11,223;214;CPM;Calúnia
+11,263;11,223;215;CPM;Difamação
+11,264;11,223;216;CPM;Injúria
+11,265;11,223;217;CPM;Injuria real
+11,266;11,223;219;CPM;Ofensa às forças armadas
+11,275;11,274;158;CPM;Violência contra militar de serviço
+11,276;11,274;Art. 157;CPM;Violência contra superior
+11,277;11,273;173;CPM;Abuso de requisição militar
+11,278;11,273;167;CPM;Assunção de comando sem ordem ou autorização
+11,279;11,273;168;CPM;Conservação ilegal de comando
+11,28;11,273;176, caput e parágrafo único;CPM;Ofensa aviltante a inferior
+11,281;11,273;169, caput e parágrafo único;CPM;Operação militar sem ordem superior
+11,282;11,273;170;CPM;Ordem arbitrária de invasão
+11,283;11,273;174;CPM;Rigor excessivo
+11,284;11,273;172;CPM;Uso indevido de uniforme, distintivo ou insígnia militar por qualquer pessoa
+11,285;11,273;171;CPM;Uso indevido por militar de uniforme, distintivo ou insígnia
+11,286;11,273;175;CPM;Violência contra inferior
+11,287;11,272;177;CPM;Resistência mediante ameaça ou violência
+11,288;11,271;152;CPM;Conspiração
+11,289;11,271;149;CPM;Motim
+11,29;11,271;151;CPM;Omissão de lealdade militar
+11,291;11,271;150;CPM;Organização de grupo para prática de violência
+11,292;11,271;149, parágrafo único;CPM;Revolta
+11,293;11,27;164;CPM;Oposição a ordem de sentinela
+11,294;11,27;166;CPM;Publicação ou crítica indevida
+11,295;11,27;163;CPM;Recusa a obediência
+11,296;11,27;165;CPM;Reunião ilícita
+11,297;11,269;182;CPM;Amotinamento
+11,298;11,269;181;CPM;Arrebatamento de preso ou internado
+11,299;11,269;180;CPM;Evasão de preso ou internado
+11,3;11,269;178, caput e parágrafos;CPM;Fuga de preso ou internado
+11,301;11,268;154;CPM;Aliciação para motim ou revolta
+11,302;11,268;156;CPM;Apologia de fato criminoso ou do seu autor
+11,303;11,268;155;CPM;Incitamento
+11,304;11,267;162, caput e parágrafo único;CPM;Despojamento desprezível
+11,305;11,267;160, parágrafo único;CPM;Desrespeito a comandante, oficial-general ou oficial de serviço
+11,306;11,267;161;CPM;Desrespeito a símbolo nacional
+11,307;11,267;160;CPM;Desrespeito a superior
+11,315;11,314;303;CPM;Peculato
+11,316;11,314;304;CPM;Peculato mediante aproveitamento ou erro de outrem
+11,317;11,314;303,§2º;CPM;Peculato-furto
+11,318;11,313;314;CPM;Certidão ou atestado ideologicamente falso
+11,319;11,313;313;CPM;Cheques sem fundos
+11,32;11,313;318;CPM;Falsa identidade
+11,321;11,313;312;CPM;Falsidade ideológica
+11,322;11,313;311;CPM;Falsificação de documento
+11,323;11,313;316;CPM;Supressão de documento
+11,324;11,313;315;CPM;Uso de documento falso
+11,325;11,313;317;CPM;Uso de documento pessoal alheio
+11,326;11,312;300;CPM;Desacato a assemelhado ou funcionário
+11,327;11,312;299;CPM;Desacato a militar
+11,328;11,312;298;CPM;Desacato a superior
+11,329;11,312;301;CPM;Desobediência
+11,33;11,312;302;CPM;Ingresso clandestino
+11,331;11,311;339;CPM;Impedimento, perturbação ou fraude de concorrencia
+11,332;11,311;338;CPM;Inutilização de edital ou de sinal oficial
+11,333;11,311;337;CPM;Subtração ou inutilização de livro, processo ou documento
+11,334;11,311;336;CPM;Tráfico de influência
+11,335;11,311;335;CPM;Usurpação de função
+11,336;11,31;330;CPM;Abandono de cargo
+11,337;11,31;332;CPM;Abuso de confiança ou boa fé
+11,338;11,31;331;CPM;Aplicação ilegal de verba ou dinheiro
+11,339;11,31;322;CPM;Condescendência criminosa
+11,34;11,31;329;CPM;Exercício funcional ilegal
+11,341;11,31;321;CPM;Extravio, sonegação ou inutilização de livro ou documento
+11,342;11,31;324;CPM;Inobservancia de lei, regulamento ou instrução
+11,343;11,31;323;CPM;Não inclusão de nome em lista
+11,344;11,31;328;CPM;Obstáculo à hasta pública, concorrência ou tomada de preços
+11,345;11,31;334;CPM;Patrocínio indébito
+11,346;11,31;319;CPM;Prevaricação
+11,347;11,31;327;CPM;Violação de sigilo de proposta de concorrência
+11,348;11,31;326;CPM;Violação de sigilo funcional
+11,349;11,31;320;CPM;Violação do dever funcional com o fim de lucro
+11,35;11,31;325;CPM;Violação ou divulgação indevida de correspondência ou comunicação
+11,351;11,31;333;CPM;Violência arbitrária
+11,352;11,309;309;CPM;Corrupção ativa
+11,353;11,309;308;CPM;Corrupção passiva
+11,354;11,309;310;CPM;Participação ilícita
+11,355;11,308;305;CPM;Concussão
+11,356;11,308;307;CPM;Desvio
+11,357;11,308;306;CPM;Excesso de exação
+11,358;11,072;345;CPM;Auto-acusação falsa
+11,359;11,072;342;CPM;Coação
+11,36;11,072;344;CPM;Comunicação falsa de crime
+11,361;11,072;347;CPM;Corrupção ativa de testemunha, perito ou intérprete
+11,362;11,072;343;CPM;Denunciação caluniosa
+11,363;11,072;341;CPM;Desacato
+11,364;11,072;349;CPM;Desobediência a decisão judicial
+11,365;11,072;354;CPM;Desobediência a decisão sobre perda ou suspensão de atividade ou direito
+11,366;11,072;353;CPM;Exploração de prestígio
+11,367;11,072;346;CPM;Falso testemunho ou falsa perícia
+11,368;11,072;350;CPM;Favorecimento pessoal
+11,369;11,072;351;CPM;Favorecimento real
+11,37;11,072;352;CPM;Inutilização,sonegação ou descaminho de material probante
+11,371;11,072;348;CPM;Publicidade opressiva
+11,372;11,072;340;CPM;Recusa de função na Justiça Militar
+11,386;10,688;"112, I; 115";8.069/90 (ECA);Advertência
+11,387;10,688;121;8.069/90 (ECA);Internação com atividades externas
+11,388;10,688;121, § 1º, parte final;8.069/90 (ECA);Internação sem atividades externas
+11,389;10,688;118;8.069/90 (ECA);Liberdade assistida
+11,39;10,688;116;8.069/90 (ECA);Obrigação de reparar o dano
+11,391;10,688;117;8.069/90 (ECA);Prestação de serviços à comunidade
+11,392;10,688;120;8.069/90 (ECA);Semiliberdade
+11,41;3,603;8º;Lei n. 7853/89;Crimes contra portadores de deficiência
+11,416;3,463;215;CP;Violação sexual mediante fraude
+11,417;3,463;217-A;CP;Estupro de vulnerável
+11,418;3,463;218-A;CP;Satisfação de lascívia mediante presença de criança ou adolescente
+11,419;3,463;218-B;CP;Favorecimento da prostituição ou outra forma de exploração sexual de vulnerável
+11,42;3,463;228;CP;Favorecimento da prostituição ou outra forma de exploração sexual
+11,421;3,463;231;CP;Tráfico internacional de pessoa para fim de exploração sexual
+11,422;3,463;231-A;CP;Tráfico interno de pessoa para fim de exploração sexual
+11,431;11,43;305;Código Eleitoral;Intervenção Indevida de Autoridade Junto à Mesa Receptora
+11,432;11,43;306;Código Eleitoral;Não Observância de Chamamento de Eleitores para Votar
+11,433;11,43;310;Código Eleitoral;Práticas Irregulares que Determinam a Anulação da Votação
+11,434;11,43;311;Código Eleitoral;Votação de Eleitor na Seção Eleitoral na qual Não Está Inscrito ou Autorizado a Votar
+11,435;11,43;318;Código Eleitoral;Contagem de Votos de Eleitores em Relação aos quais Houve Impugnação
+11,436;11,43;340;Código Eleitoral;Fabricação, Aquisição, Fornecimento, Subtração ou Guarda de Materiais de Uso da Justiça Eleitoral
+11,438;11,437;289;Código Eleitoral;Inscrição Fraudulenta
+11,439;11,437;290;Código Eleitoral;Induzimento à Inscrição de Eleitor em Infração às Normas Legais
+11,44;11,437;291;Código Eleitoral;Inscrição Fraudulenta Efetivada pelo Juiz
+11,441;11,437;292;Código Eleitoral;Negativa ou Retardamento de Inscrição sem Fundamento Legal
+11,442;11,437;293;Código Eleitoral;Perturbação ou Impedimento de Alistamento
+11,443;11,437;296;Código Eleitoral;Promoção de Desordem nos Trabalhos Eleitorais
+11,444;11,437;303;Código Eleitoral;Majoração de Preços de Utilidade e Serviços Necessários à Realização das Eleições
+11,445;11,437;304;Código Eleitoral;Ocultação, Sonegação ou Recusa de Fornecimento de Utilidades, Alimentos e Transporte no Dia da Eleição
+11,446;11,437;341;Código Eleitoral;Retardamento ou Não-Publicação de Decisões, Citações ou Intimações da Justiça Eleitoral
+11,447;11,437;342;Código Eleitoral;Não-Apresentação de Denúncia ou Não Execução de Sentença Penal Condenatória no Prazo Legal
+11,448;11,437;343;Código Eleitoral;Não Cumprimento, pela Autoridade Judiciária, do Dever de Representar Contra o Órgão do Ministério que Não Oferece Denúncia no Prazo Legal
+11,449;11,437;344;Código Eleitoral;Recusa ou Abandono do Serviço Eleitoral
+11,45;11,437;345;Código Eleitoral;Não Cumprimento dos Deveres Impostos pelo Código Eleitoral à Autoridade Judiciária e aos Funcionários da Justiça Eleitoral
+11,451;11,437;346;Código Eleitoral;Utilização de Prédios ou Serviços de Repartições Públicas para Beneficiar Partido ou Organização de Caráter Político
+11,452;11,437;347;Código Eleitoral;Desobediência a Ordens ou Instruções da Justiça Eleitoral
+11,453;11,437;3° e 11, I;Lei 6.091/74;Descumprimento do Dever de Informar o Número, Espécie e Lotação de Veículos e Embarcações
+11,454;11,437;2° e 11, II;Lei 6.091/74;Desatendimento à Requisição de Veículo ou Embarcação
+11,455;11,437;5°, 8°, 10 e 11, III;Lei 6.091/74;Descumprimento da Proibição de Fornecimento de Transporte ou Refeições a Eleitores
+11,456;9,74;217-A;CP;Estupro de Vulnerável
+11,457;9,74;228;CP;Favorecimento de Prostituição ou Outra Forma de Exploração Sexual
+11,458;9,74;218-B;CP;Favorecimento de Prostituição ou Outra Forma de Exploração Sexual de Vulnerável
+11,459;9,74;218-A;CP;Satisfação de Lascívia Mediante Presença de Criança ou Adolescente
+11,46;9,74;231-A;CP;Tráfico Interno de Pessoa para Fim de Exploração Sexual
+11,461;9,74;215;CP;Violação Sexual Mediante Fraude
+11,464;11,437;4°, 8° e 11, IV;Lei 6.091/74;Obstamento do Transporte e Fornecimento de Alimentos a Eleitores pela Justiça Eleitoral
+11,465;11,437;11, V e Parágrafo Único;Lei 6.091/74;Utilização de Veículos e Embarcações Públicas em Campanha Eleitoral
+11,466;11,437;72,III;Lei 9.504/97;Dano a Equipamento Eleitoral
+11,468;11,467;313;Código Eleitoral;Omissão na Expedição de Boletim de Apuração
+11,469;11,467;314;Código Eleitoral;Omissão no Recolhimento das Cédulas Apuradas, no Fechamento e Lacração da Urna
+11,47;11,467;315;Código Eleitoral;Alteração do Resultado de Votação nos Mapas ou Boletins de Apuração
+11,471;11,467;316;Código Eleitoral;Omissão no Recebimento e Registro de Protestos, bem como, de sua Remessa à Instância Superior
+11,472;11,467;348;Código Eleitoral;Falsificação ou Alteração de Documento Público para Fins Eleitorais
+11,473;11,467;350;Código Eleitoral;Falsidade Ideológica
+11,474;11,467;352;Código Eleitoral;Reconhecimento Indevido de Firma ou Letras para Fins Eleitorais
+11,475;11,467;353;Código Eleitoral;Uso de Documento Falso para Fins Eleitorais
+11,476;11,467;354;Código Eleitoral;Obtenção de Documento Falso para Fins Eleitorais
+11,477;11,467;68;Lei 9.504/97;Omissão da Entrega do Boletim de Urna
+11,478;11,467;72, I;Lei 9.504/97;Obtenção de Acesso a Sistema de Dados Eleitorais
+11,479;11,467;72, II;Lei N. 9.504/97;Destruição de Dados Eleitorais
+11,48;11,467;87;Lei N. 9.504/97;Cerceamento da Fiscalização Partidária
+11,481;11,467;87, caput e parágrafos 2° e 4°;Lei N. 9.504/97;Recusa de Entrega de Boletim
+11,483;11,482;323;Código Eleitoral;Divulgação de Fatos Inverídicos na Propaganda Eleitoral
+11,484;11,482;324;Código Eleitoral;Calúnia na Propaganda Eleitoral
+11,485;11,482;324;Código Eleitoral;Divulgação de Falsa Imputação
+11,486;11,482;325;Código Eleitoral;Difamação na Propaganda Eleitoral
+11,487;11,482;326;Código Eleitoral;Injúria na Propaganda Eleitoral
+11,488;11,482;326, par. 2°;Código Eleitoral;Injúria Eleitoral Violenta
+11,489;11,482;331;Código Eleitoral;Inutilização, Alteração ou Perturbação de Propaganda
+11,49;11,482;332;Código Eleitoral;Impedimento do Exercício da Propaganda
+11,491;11,482;334;Código Eleitoral;Utilização de Organização Comercial para Propaganda ou Aliciamento de Eleitores
+11,492;11,482;335;Código Eleitoral;Realização de Propaganda Eleitoral em Língua Estrangeira
+11,493;11,482;337;Código Eleitoral;Participação de Pessoa Não Detentora de Direitos Políticos em Atividades Partidárias e de Propaganda Eleitoral
+11,494;11,482;337;Código Eleitoral;Autorização de Transmissão de Pessoa Não Detentora de Direitos Políticos em Atividades Partidárias e de Propaganda Eleitoral
+11,495;11,482;33, parágrafo 4°;Lei N. 9.504/97;Pesquisa Fraudulenta
+11,496;11,482;40;Lei N. 9.504/97;Uso, na Propaganda Eleitoral, de Símbolo de Órgãos de Governo
+11,498;11,497;295;Código Eleitoral;Retenção de Título Eleitoral ou do Comprovante de Alistamento Eleitoral
+11,499;11,497;297;Código Eleitoral;Impedimento ou Embaraço ao Exercício do Sufrágio
+11,5;11,497;298;Código Eleitoral;Prisão ou Detenção do Eleitor, Membro de Mesa Receptora, Fiscal, Delegado de Partido ou Candidato, Fora das Hipóteses Legais Permitidas
+11,501;11,497;299;Código Eleitoral;Corrupção Eleitoral
+11,502;11,497;300;Código Eleitoral;Coação Visando a Obtenção de Voto ou a sua Abstenção
+11,503;11,497;301;Código Eleitoral;Violência ou Grave Ameaça Visando a Obtenção de Voto ou a sua Abstenção
+11,504;11,497;302;Código Eleitoral;Concentração de Eleitores para Embaraçar ou Fraudar o Exercício do Voto
+11,505;11,497;307;Código Eleitoral;Fornecimento ao Eleitor de Cédula Oficial Já Assinalada ou Marcada
+11,506;11,497;308;Código Eleitoral;Fornecimento de Cédula Eleitoral Rubricada a Destempo
+11,507;11,497;309;Código Eleitoral;Votação Múltipla ou Realizada em Lugar de Outrem
+11,508;11,497;312;Código Eleitoral;Violação do Sigilo do Voto
+11,509;11,497;317;Código Eleitoral;Violação do Sigilo da Urna ou dos Invólucros
+11,51;11,497;339;Código Eleitoral;Destruição, Supressão ou Ocultação de Urna Contendo Votos ou Documentos Eleitorais
+11,511;11,497;5°;Lei N. 7.021/82;Destruição de Relação de Candidatos
+11,512;11,497;39, parágrafo 5º, I;Lei 9.504/97;Uso Proibido de Alto-Falantes
+11,513;11,497;39, parágrafo 5°, II;Lei N. 9.504/97;Arregimentação de Eleitor ou Boca de Urna
+11,514;11,497;39, parágrafo 5°, III;Lei N. 9.504/97;Divulgação de Propaganda Eleitoral no Dia da Eleição
+11,515;11,497;91, parágrafo único;Lei N. 9.504/97;Retenção de Título ou Comprovante de Alistamento Eleitoral
+11,518;11,517;319;Código Eleitoral;Subscrição de Mais de Uma Ficha de Filiação Partidária
+11,519;11,517;320;Código Eleitoral;Inscrição Simultânea em Dois ou Mais Partidos
+11,52;11,517;321;Código Eleitoral;Coleta de Assinatura em Mais de Uma Ficha de Registro Partidário
+11,521;11,517;338;Código Eleitoral;Preterição à Prioridade Postal
+11,522;11,517;25;Lei Complementar N. 64/90;Arguição de Ineligibilidade Temerária ou de Má-Fé
+11,523;11,517;34, parágrafos 1° e 2°;Lei N. 9.504/97;Não-Acesso dos Partidos aos Dados Relativos às Pesquisas Eleitorais
+11,524;11,517;Art. 34, parágrafos 1°, 2° e 3°;Lei N. 9.504/97;Irregularidades dos Dados Publicados em Pesquisas Eleitorais
+11,558;11,557;73 a 78;Lei N. 9.504/97;Conduta Vedada a Agente Público
+11,559;11,557;1°;Lei N. 8.429/92;Improbidade Administrativa
+11,56;11,557;194 e 198;Código de Processo Civil;Descumprimento de Prazos Eleitorais
+11,561;11,557;102, I, l da CF/88 e 15, parágrafo único, V do RITSE;Contituição Federal e Regimento Interno do TSE (RITSE);Garantia de Autoridade de Decisão do Tribunal
+11,563;11,562;72 e 73;Lei Complementar N. 35/79;Afastamento de Magistrado
+11,564;11,562;32;Código Eleitoral;Designação de Juiz Eleitoral
+11,565;11,562;23, XI e 25, §§ 1° ao 6°;Código Eleitoral;Lista Tríplice
+11,567;11,566;11 e 12;Lei N. 8.112/90;Concurso Público
+11,568;11,566;36;Lei N. 8.112/90;Remoção de Servidor
+11,57;11,569;1°;Lei N. 6.999/82;Requisição de Servidor
+11,571;11,569;2°, § 1°;Lei N. 6.999/82;Requisição de Servidor - Renovação de Requisição de Servidor
+11,573;11,557;30, XII;Lei N. 4.737/65;Requisição de Força Federal
+11,575;11,574;71;Código Eleitoral;Alistamento Eleitoral - Cancelamento
+11,576;11,574;42, parágrafo único;Código Eleitoral;Alistamento Eleitoral - Domicílio Eleitoral
+11,577;11,574;71, III;Código Eleitoral;Alistamento Eleitoral - Duplicidade/Pluralidade
+11,578;11,574;74;Código Eleitoral;Alistamento Eleitoral - Exclusão
+11,579;11,574;42;Código Eleitoral;Alistamento Eleitoral - Inscrição Eleitoral
+11,581;11,58;45, § 7º;Código Eleitoral;Impugnação - Inscrição Eleitoral
+11,582;11,58;57;Código Eleitoral;Impugnação - Transferência de Domicílio Eleitoral
+11,586;11,585;14, §§ 1° e 2° da CF/88 e 42 do CE;Constituição Federal e Código Eleitoral;Condição de Elegibilidade - Alistamento Eleitoral
+11,587;11,585;9°;Lei N. 9.504/97;Condição de Elegibilidade - Domicílio Eleitoral na Circunscrição
+11,588;11,585;14, § 3º, VI;Constituição Federal;Condição de Elegibilidade - Idade Mínima
+11,589;11,585;9°;Lei N. 9.504/97;Condição de Elegibilidade - Filiação Partidária
+11,59;11,585;14, § 3º, I;Constituição Federal;Condição de Elegibilidade - Nacionalidade Brasileira
+11,591;11,585;14, § 3°, II;Constituição Federal;Condição de Elegibilidade - Pleno Exercício dos Direitos Políticos
+11,592;11,585;11, § 7°;Lei N. 9.504/97;Condição de Elegibilidade - Quitação Eleitoral
+11,593;11,584;58;Lei N. 9.504/97;Direito de Resposta
+11,594;11,584;15;Lei N. 9.504/97;Identificação Numérica de Candidato
+11,596;11,595;1°, I, d;Lei Complementar N. 64/90;Inelegibilidade - Abuso do Poder Econômico ou Político
+11,597;11,595;14, § 4° da CF e 1°, I, a da Lei Complementar N. 64/90;Constituição Federal e Lei Complementar N. 64/90;Inelegibilidade - Analfabetismo
+11,598;11,595;1°, I, e;Lei Complementar N. 64/90;Inelegibilidade - Condenação Criminal por órgão colegiado ou Transitada em Julgado
+11,599;11,595;1°, I, f;Lei Complementar N. 64/90;Inelegibilidade - Declaração de Indignidade ou de Incompatibilidade com o Oficialato
+11,6;11,595;1°, II a VII e §§ 1º e 2º;Lei Complementar N. 64/90;Inelegibilidade - Desincompatibilização
+11,601;11,595;"14, §§ 2º e 4º da CF/88; 5°, II do CE e 1°, I, a da Lei Complementar N. 64/90";Constituição Federal, Código Eleitoral e Lei Complementar N. 64/90;Inelegibilidade - Inalistável
+11,602;11,595;14, § 7º da CF/88 e 1°, § 3º da Lei Complementar N. 64/90;Constituição Federal e Lei Complementar N. 64/90;Inelegibilidade - Parentesco
+11,603;11,595;14, § 5º;Constituição Federal;Inelegibilidade - Reeleição
+11,604;11,595;1°, I, g;Lei Complementar N. 64/90;Inelegibilidade - Rejeição de Contas Públicas
+11,605;11,595;22, XIV;Lei Complementar N. 64/90;Inelegibilidade - Representação ou Ação de Investigação Judicial Eleitoral Jugada Procedente pela Justiça Eleitoral
+11,606;11,595;14, § 5º;Constituição Federal;Inelegibilidade - Terceiro Mandato
+11,607;11,595;14, § 9º;Constituição Federal;Inelegibilidade - Vida Pregressa
+11,608;11,595;14, § 7º;Constituição Federal;Inelegibilidade - Vínculo Afetivo
+11,609;11,595;14, § 7º da CF/88 e 1º, § 3º da Lei Complementar N. 64/90;Constituição Federal e Lei Complementar N. 64/90;Inelegibilidade - Vínculo Conjugal
+11,61;11,595;14, § 7º;Constituição Federal;Inelegibilidade - Vínculo em União Estável
+11,612;11,611;12, § 1°;Lei N. 9.504/97;Nome do Candidato - Homonímia
+11,613;11,611;12;Lei N. 9.504/97;Nome do Candidato - Variação Nominal
+11,614;11,584;20;Lei N. 9.504/97;Prestação de Contas - De Candidato
+11,616;11,615;3º;Lei Complementar N. 64/90;Impugnação ao Registro de Candidatura
+11,617;11,615;10, § 5º;Lei N. 9.504/97;Registro de Candidatura - Preenchimento de Vaga Remanescente
+11,618;11,615;11;Lei N. 9.504/97;Registro de Candidatura - RRC - Candidato
+11,619;11,615;11, § 4º;Lei N. 9.504/97;Registro de Candidatura - RRCI - Candidato Individual
+11,621;11,62;13;Lei N. 9.504/97;Registro de Candidatura - Substituição de Candidato - Por Cancelamento de Registro
+11,622;11,62;64;Resolução TSE - 22.717/2008;Registro de Candidatura - Substituição de Candidato - Por Cassação de Registro
+11,623;11,62;13 e 14;Lei N. 9.504/97;Registro de Candidatura - Substituição de Candidato - Por Expulsão Partidária
+11,624;11,62;13;Lei N. 9.504/97;Registro de Candidatura - Substituição de Candidato - Por Falecimento
+11,625;11,62;13;Lei N. 9.04/97;Registro de Candidatura - Substituição de Candidato - Por Indeferimento de Registro
+11,626;11,62;13;Lei N. 9.504/97;Registro de Candidatura - Substituição de Candidato - Por Ineligibilidade
+11,627;11,62;13;Lei N. 9.504/97;Registro de Candidatura - Substituição de Candidato - Por Renúncia
+11,629;11,628;1°, parágrafo único, I;Lei N. 9.504/97;Cargo - Deputado Distrital
+11,63;11,628;85 do Código Eleleitoral e 1°, parágrafo único, I da Lei N. 9.504/97;Código Eleitoral e Lei N. 9.504/97;Cargo - Deputado Estadual
+11,631;11,628;85 do CE e 1°, parágrafo único, I da Lei N. 9.504/97;Código Eleitoral e Lei N. 9.504/97;Cargo - Deputado Federal
+11,632;11,628;85 do CE e 1°, parágrafo único, I e 2° da Lei N. 9.504/97;Código Eleitoral e Lei N. 9.504/97;Cargo - Governador
+11,633;11,628;83 do CE e 1°, parágrafo único, II da Lei N. 9.504/97;Código Eleitoral e Lei N. 9.504/97;Cargo - Prefeito
+11,634;11,628;85 do CE e 1°, parágrafo único, I e 2° da Lei N. 9.504/97;Código Eleitoral e Lei N. 9.504/97;Cargo - Presidente da República
+11,635;11,628;46, §3°;Constituição Federal;Cargo - Primeiro Suplente de Senador
+11,636;11,628;46, §3°;Constituição Federal;Cargo - Segundo Suplente de Senador
+11,637;11,628;85 do CE e 1°, parágrafo único, I da Lei N. 9.504/97;Código Eleitoral e Lei N. 9.504/97;Cargo - Senador
+11,638;11,628;83 do CE e 1°, parágrafo único, II da Lei N. 9.504/97;Código Eleitoral e Lei N. 9.504/97;Cargo - Vereador
+11,639;11,628;85 do CE e 1°, parágrafo único, I da Lei N. 9.504/97;Código Eleitoral e Lei N. 9.504/97;Cargo - Vice-Governador
+11,64;11,628;83 do CE e 1°, parágrafo único, II da Lei N. 9.504/97;Código Eleitoral e Lei N. 9.504/97;Cargo - Vice-Prefeito
+11,641;11,628;85 do CE e 1°, parágrafo único, I da Lei N. 9.504/97;Código Eleitoral e Lei N. 9.504/97;Cargo - Vice-Presidente da República
+11,642;11,583;1°;Lei N. 9.504/97;Eleições - 1° Turno
+11,643;11,583;2°, §1°;Lei N. 9.504/97;Eleições - 2° Turno
+11,644;11,583;224;Código Eleitoral;Eleições - Anulação de Eleições
+11,645;11,583;2° e 3°, caput e §2°;Lei N. 9.504/97;Eleições - Eleição Majoritária
+11,646;11,583;5°;Lei N. 9.504/97;Eleições - Eleição Proporcional
+11,647;11,583;187, 201, 212, 217;Código Eleitoral;Eleições - Eleição Suplementar
+11,649;11,648;33, § 4°;Lei N. 9.504/97;Pesquisa Eleitoral - Divulgação de Pesquisa Eleitoral Fraudulenta
+11,65;11,648;33, § 3°;Lei N. 9.04/97;Pesquisa Eleitoral - Divulgação de Pesquisa Eleitoral Sem Prévio Registro
+11,651;11,648;33, caput e § 1°;Lei N. 9.504/97;Pesquisa Eleitoral - Registro de Pesquisa Eleitoral
+11,653;11,652;39-A;Lei N. 9.504/97;Propaganda Política - Propaganda Eleitoral - Adesivo
+11,654;11,652;39, §3°;Lei N. 9.504/97;Propaganda Política - Propaganda Eleitoral - Alto-falante/Amplificador de Som
+11,655;11,652;37, caput e §2°;Lei N. 9.504/97;Propaganda Política - Propaganda Eleitoral - Banner/Cartaz/Faixa
+11,656;11,652;37, §2º;Lei N. 9.504/97;Propaganda Política - Propaganda Eleitoral - Bem Particular
+11,657;11,652;37, caput e §2°;Lei N. 9.504/97;Propaganda Política - Propaganda Eleitoral - Bem Particular de Uso Comum
+11,658;11,652;37;Lei N. 9.504/97;Propaganda Política - Propaganda Eleitoral - Bem Público
+11,659;11,652;63;Lei N. 9.608/98;Propaganda Política - Propaganda Eleitoral - Bem Tombado
+11,66;11,652;39, §5°, II;Lei N. 9.504/97;Propaganda Política - Propaganda Eleitoral - Boca de Urna
+11,661;11,652;37, §6°;Lei N. 9.504/97;Propaganda Política - Propaganda Eleitoral - Cavalete
+11,662;11,652;39, §§ 4° e 7°;Lei N. 9.504/97;Propaganda Política - Propaganda Eleitoral - Comício/Showmício
+11,663;11,652;56;Lei N. 9.504/97;Propaganda Política - Propaganda Eleitoral - Conduta Vedada a Emissora de Rádio/Televisão na Programação Normal
+11,664;11,652;39, §6º;Lei N. 9.504/97;Propaganda Política - Propaganda Eleitoral - Confecção, Utilização ou Distribuição de Brinde
+11,665;11,652;243, VIII do CE e 41 da Lei N. 9.504/97;Código Eleitoral e Lei N. 9.504/97;Propaganda Política - Propaganda Eleitoral - Contrariedade à Lei de Postura Municipal
+11,666;11,652;46;Lei N. 9.504/97;Propaganda Política - Propaganda Eleitoral - Debate Político
+11,667;11,652;36, §3° e 36-A;Lei N. 9.504/97;Propaganda Política - Propaganda Eleitoral - Extemporânea/Antecipada
+11,668;11,652;38;Lei N. 9.504/97;Propaganda Política - Propaganda Eleitoral - Folhetos/Volantes/Santinhos/Impressos
+11,67;11,669;47,49 e 50;Lei N. 9.504/97;Propaganda Política - Propaganda Eleitoral - Distribuição de Tempo de Propaganda
+11,671;11,669;51;Lei N. 9.504/97;Propaganda Política - Propaganda Eleitoral - Horário Eleitoral Gratuito/Inserções de Propaganda
+11,672;11,669;47, caput e 49;Lei N. 9.504/97;Propaganda Política - Propaganda Eleitoral - Horário Eleitoral Gratuito/Programa em Bloco
+11,673;11,669;44;Lei N. 9.504/97;Propaganda Política - Propaganda Eleitoral - Rádio
+11,674;11,669;1° da Lei N. 9.612/98 e 71 da Resolução - TSE 22.718/2008;Lei N. 9.612/98 e Resolução - TSE 22.718/2008;Propaganda Política - Propaganda Eleitoral - Rádio Comunitária
+11,675;11,669;44;Lei N. 9.504/97;Propaganda Política - Propaganda Eleitoral - Televisão
+11,676;11,669;53-A;Lei N. 9.504/97;Propaganda Política - Propaganda Eleitoral - Invasão de Horário Destinado a Outro Cargo/Partido/Coligação
+11,677;11,652;43;Lei N. 9.504/97;Propaganda Política - Propaganda Eleitoral - Imprensa Escrita - Jornal/Revista/Tabloide
+11,678;11,652;43;Lei N. 9.504/97;Propaganda Política - Propaganda Eleitoral - Inobservância do Limite Legal
+11,679;11,652;57-A a 57-I;Lei N. 9.504/97;Propaganda Política - Propaganda Eleitoral - Internet
+11,68;11,652;242;Código Eleitoral;Propaganda Política - Propaganda Eleitoral - Omissão de Informações Obrigatórias
+11,681;11,652;39, §8º;Lei N. 9.504/97;Propaganda Política - Propaganda Eleitoral - Outdoors
+11,682;11,652;37, caput e § 2º;Lei N. 9.504/97;Propaganda Política - Propaganda Eleitoral - Pintura em Muro
+11,683;11,652;45, II e § 4°;Lei N. 9.504/97;Propaganda Política - Propaganda Eleitoral - Truncagem, Montagem, Utilização de Gravação Externa, Computação Gráfica, Desenho Animado ou Efeito Especial
+11,685;11,684;30-A;Lei N. 9.504/97;Captação ou Gasto Ilícito de Recursos Financeiros de Campanha Eleitoral
+11,687;11,686;29, III e IV;Lei N. 9.504/97;Prestação de Contas - De Comitê Financeiro
+11,689;11,688;19, §§ 2º e 3º;Lei N. 9.504/97;Registro de Comitê Financeiro - Eleição Majoritária
+11,69;11,688;19, §§ 2º e 3º;Lei N. 9.504/97;Registro de Comitê Financeiro - Eleição Proporcional
+11,691;11,688;19, §§ 1º e 3º;Lei N. 9.504/97;Registro de Comitê Financeiro - Único
+11,695;11,694;30, I;Lei N. 9.504/97;Contas - Aprovação das Contas
+11,696;11,694;30, II;Lei N. 9504/97;Contas - Aprovação das Contas com Ressalvas
+11,697;11,693;30, III;Lei N. 9.504/97;Contas - Desaprovação/Rejeição das Contas
+11,698;11,692;30, IV;Lei N. 9.504/97;Contas - Não Apresentação das Contas
+11,7;11,699;23;Lei N. 9.504/97;Doação de Recursos Acima do Limite Legal - Pessoa Física
+11,701;11,699;81;Lei N. 9.504/97;Doação de Recursos Acima do Limite Legal - Pessoa Jurídica
+11,704;11,703;5º, LXVIII;Constituição Federal;Habeas Corpus - Liberatório
+11,705;11,703;5°, LXVIII;Constituição Federal;Habeas Corpus - Preventivo
+11,707;11,706;147, caput e § 1°;Código Eleitoral;Impugnação - Identidade de Eleitor Admitido a Votar
+11,708;11,706;63;Lei N. 9.504/97;Impugnação - Nomeação de Membro da Mesa Receptora
+11,709;11,706;36, § 2°;Código Eleitoral;Impugnação - Nomeação de Membro da Junta Eleitoral
+11,71;11,706;66, §§ 1°, 2° e 3°;Lei N. 9.504/97;Impugnação - Sistema Eletrônico de Votação
+11,711;11,706;69, caput e § 1º;Código Eleitoral;Impugnação - Voto por Cédula
+11,712;11,583;26;Resolução - TSE 22.717/2008;Registro de Candidatura - DRAP - Partido/Coligação
+11,714;11,713;158;Código Eleitoral;Apuração/Totalização de Votos
+11,715;11,713;106 e 107;Código Eleitoral;Quociente Eleitoral/Partidário
+11,718;11,717;22;Lei Complementar N. 64/90;Abuso - De Poder Econômico
+11,719;11,717;22;Lei Complementar N. 64/90;Abuso - De Poder Político/Autoridade
+11,72;11,717;22;Lei Complementar N. 64/90;Abuso - Uso Indevido de Meio de Comunicação Social
+11,721;11,716;41-A;Lei N. 9.504/97;Captação Ilícita de Sufrágio
+11,722;11,716;14, §10;Constituição Federal;Corrupção ou Fraude
+11,723;11,716;73, VI, b;Lei N. 9.504/97;Propaganda Política - Propaganda Institucional
+11,724;11,428;215;Código Eleitoral;Diplomação
+11,726;11,725;15;Constituição Federal;Direitos Políticos - Perda dos Direitos Políticos
+11,727;11,725;15 - a contrario sensu;Constituição Federal;Direitos Políticos - Restabelecimento dos Direitos Políticos
+11,728;11,725;15;Constituição Federal;Direitos Políticos - Suspensão de Direitos Políticos
+11,73;11,729;14, V e parágrafo único;Código de Processo Civil;Execução - De Astreintes
+11,731;11,729;367, IV;Código Eleitoral;Execução - De Multa Eleitoral
+11,732;11,729;475-I, §1°;Código de Processo Civil;Execução de Julgado
+11,735;11,734;839;Código de Processo Civil;Cautelar Inominada - De Busca e Apreensão
+11,736;11,734;846 e 848;Código de Processo Civil;Cautelar Inominada - De Produção Antecipada de Provas
+11,737;11,734;796;Código de Processo Civil;Cautelar Inominada - Incidental
+11,738;11,734;800;Código de Processo Civil;Cautelar Inominada - Preparatória
+11,74;11,739;301, VI e §§ 1° e 3°;Código de Processo Civil;Exceção - De Coisa Julgada
+11,741;11,739;"3°; 267, VI e 301, X";Código de Processo Civil;Exceção - De Ilegitimidade de Parte
+11,742;11,739;134 e 136;Código de Processo Civil;Exceção - De Impedimento
+11,743;11,739;307;Código de Processo Civil;Exceção - De Incompetência
+11,744;11,739;301, V e §§ 1º e 3º;Código de Processo Civil;Exceção - De Litispendência
+11,746;11,739;135;Código de Processo Civil;Exceção - De Suspeição
+11,748;11,747;10, caput;Lei N. 9.096/95;Alteração Estatutária de Partido Político em Matéria Administrativa
+11,75;11,749;6°;Lei N. 9.504/97;Coligação Partidária - Majoritária
+11,751;11,749;6°;Lei N. 9.504/97;Coligação Partidária - Majoritária e Proporcional
+11,752;11,749;6°;Lei N. 9.504/97;Coligação Partidária - Proporcional
+11,753;11,747;8°;Lei N. 9.504/97;Convenção Partidária
+11,756;11,755;22;Lei N. 9.096/95;Filiação Partidária - Cancelamento
+11,757;11,755;22, parádrgafo único;Lei N. 9.096/95;Filiação Partidária - Coexistência
+11,758;11,755;22, parágrafo único;Lei N. 9.096/95;Filiação Partidária - Exclusão
+11,76;11,759;1°;Resolução TSE N. 22.610/2007;Justificação de Desfiliação Partidária
+11,761;11,759;1°, caput;Resolução TSE N. 22.610/2007;Perda de Cargo Eletivo por Desfiliação Partidária
+11,762;11,747;29, §§ 1º, 4°, 6º e 7º;Lei N. 9.096/95;Fusão de Partidos Políticos
+11,763;11,747;29, §§ 2º, 3º, 6° e 7°;Lei N. 9.096/95;Incorporação de Partidos Políticos
+11,765;11,764;17, § 1°;Constituição Federal;Dissolução de Órgão de Direção Partidária
+11,766;11,764;10, parágrafo único II;Lei N. 9.096/95;Partido Político - Órgão de Direção Estadual
+11,767;11,764;10, parágrafo único, II;Lei N. 9.096/95;Partido Político - Órgão de Direção Municipal
+11,768;11,764;10, parágrafo único, I;Lei N. 9.096/95;Partido Político - Órgão de Direção Nacional
+11,769;11,747;3°;Lei N. 9.096/95;Partido Político - Comissão Provisória
+11,771;11,77;36, § 1°;Lei N. 9.504/97;Propaganda Política - Propaganda Intrapartidária
+11,773;11,772;45, caput e §§ 5º e 6º;Lei N. 9.504/97;Propaganda Política - Propaganda Partidária
+11,775;11,774;46, §§ 1º a 5º;Lei N. 9.096/95;Veiculação de Propaganda Partidária - Em Bloco
+11,776;11,774;46, §§ 1º e 6º;Lei N. 9.096/95;Veiculação de Propaganda Partidária - Em Inserções
+11,777;11,428;14, I;Constituição Federal;Plebiscito
+11,778;11,428;5°, XXXIV;Constituição Federal;Requerimento
+11,779;9,878;62 a 65;L 9605/98;Contra o Ordenamento Urbano e o Patrimônio Cultural
+11,78;3,618;62 a 65;Lei 9605/98;Crimes contra o Ordenamento Urbano e o Patrimônio Cultural
+11,782;11,781;232;CPC;Intimação
+11,783;11,781;232;CPC;Citação
+11,784;11,781;453, II;CPC;Oitiva
+11,785;11,781;261;CPC;Diligências
+11,786;11,781;"914, § 2º; 915, §§ 2º e 4º";CPC;Atos executórios
+11,797;5,874;349-A;CP;Entrada de aparelho telefônico de comunicação móvel em estabelecimento prisional
+11,883;10,064;196;CF;Tratamento Médico-Hospitalar
+11,884;10,064;196;CF;Fornecimento de Medicamentos
+11,885;11,883;96;CF;Unidade de terapia intensiva (UTI) ou unidade de cuidados intensivos (UCI)
+11,895;3,603;41-B a 41-G;"Lei 10671/2003; 12.299/2010";Crimes Previstos no Estatuto do Torcedor
+11,896;9,847;41-B a 41-G;"Le 10.671/2003; 12.299/2010";Previstos no Estatuto do Torcedor
+11,914;10,187;Art. 69;Lei Complementar 35, de 1979;Licença
+11,923;10,672;100 caput e §§ 1º, 2º e 6º;Constituição Federal;Fraude / Quebra de ordem cronológica
+11,924;10,672;100, caput e §§ 1º e 2º;Constituição;Pagamento
+11,939;9,932;349-A;Código Pena;Entrada de aparelho telefônico de comunicação móvel em estabelecimento prisional
+11,94;6,127;Art. 201, §§ 3º e 4º (CF/88 antes da alteração da emenda 20/98), art. 28 (Lei 8.212/1991 antes da alteração oriunda da lei 8.870/1994).;CF/88, Lei 8.212/1991;Inclusão do 13º salário (gratificação natalina) no PBC
+11,941;6,12;Art. 26;Lei 8.870/94;Art. 26 da Lei 8.870/1994
+11,942;6,12;Art. 29, § 5.º;Lei 8.213/1991;Art. 29, § 5º, da Lei 8.213/1991
+11,943;6,12;Art. 29, II;Lei 8.213/1991;Art. 29, II, da Lei 8.213/1991
+11,944;6,12;Art. 14 (EC 20/1998). Art. 5º (EC 41/2003);EC 20/1998 e EC 41/2003;Alteração do teto máximo para o valor do benefício previdenciário do RGPS (EC 20 e 41)
+11,945;6,149;Art. 21, § 3º;Lei 8.880/94;Revisão do valor do benefício no primeiro reajuste após a concessão (Art. 21, § 3º, da Lei 8.880/1994)
+11,946;6,114;Art. 20 e 21;Lei 8.742/93;Deficiente
+11,947;6,114;"Art. 20 e 21 (Lei 8.742,93); Art. 34 (Lei 10.741/2003)";Lei 8.742/93, Lei 10.741/2003;Idoso
+11,954;10,439;120;8.213/1991.;Acidente de Trabalho - Ressarcimento ao Erário
+11,958;3,491;Art. 259, parágrafo único;CP;Difusão culposa de doença ou praga
+11,959;3,415;Art. 180, §3º;CP;Receptação culposa
+11,961;3,491;Art. 250, §2º;CP;Incêndio culposo
+11,962;9,773;Art. 250, §2º;CP;Incêndio culposo
+11,963;3,491;Art. 251, §3º;CP;Explosão culposa
+11,964;9,773;Art. 251, §3º;CP;Explosão culposa
+11,965;9,773;Art. 252, parágrafo único;CP;Uso culposo de gás tóxico ou asfixiante
+11,966;3,491;252, parágrafo único;CP;Uso culposo de gás tóxico ou asfixiante
+11,967;3,491;Art. 252, parte final;CP;Inundação culposa
+11,968;9,773;Art. 254, parte final;CP;Inundação culposa
+11,969;3,491;Art. 256, parágrafo único;CP;Desabamento ou desmoronamento culposo
+11,97;9,773;Art. 256, parágrafo único;CP;Desabamento ou desmoronamento culposo
+11,971;9,773;Art. 259, parágrafo único;CP;Difusão culposa de doença ou praga
+11,972;3,491;Art. 260, §2º;CP;Desastre ferroviário culposo
+11,973;9,773;Art. 260, §2º;CP;Desastre ferroviário culposo
+11,977;10,577;art. 2º;Lei 12.318/2010;Alienação Parental
+11,978;3,412;154-A;CP;Invasão de Dispositivo Informático
+11,979;9,634;7º;11.340/2006;Violência Doméstica Contra a Mulher
+11,98;10,455;1240-A;CC;Usucapião Conjugal
+11,982;9,192;7º, § 1º;Lei n. 6.515/1977;Separação de Corpos
+11,99;10,455;Art. 1.260 a 1.262;CC;Usucapião de bem móvel
+12,027;4,263;Art. 72;L. 9.099/95;Composição Civil
+12,031;10,12;13;Dec. 4887/2003;Desapropriação para Regularização de Comunidade Quilombola / Dec. 4887/2003
+12,044;11,615;26;Resolução - TSE 22.717/2008;Registro de Candidatura - DRAP Partido/Coligação
+12,063;11,716;73 a 78;Lei 9.504/1997;Conduta Vedada ao Agente Público
+12,091;3,369;Art. 121, § 2º, VI e §2º-A;Código Penal (Decreto-Lei 2.848/1940);Feminicídio
+12,13;3,369;121, § 6º;Código Penal;Homicídio Agravado pela Prática de Extermínio de Seres Humanos
+12,131;9,635;Art. 121, § 6º;Código Penal;Homicídio Agravado pelo Extermínio de Seres Humanos
+12,152;8,826;304;Código de Processo Civil;Revisão de Tutela Antecipada
+12,157;10,688;101 e 102;ECA;Internação Provisória
+12,16;10,67;560 a 566;CPC;Requerimento de Reintegração de Posse
+12,161;10,67;3º, caput e § 9º;DL 911/1969;Requerimento de Apreensão de Veículo
+12,194;5,56;129, § 9º e 11;CP;Contra a Mulher
+12,195;5,56;129, §9º e 11;CP;Contra pessoas não identificadas como mulher
+12,196;9,647;129, § 9º e 11;CP;Contra a mulher
+12,197;9,647;129, § 9º e 11;CP;Contra pessoas não identificadas como mulher
+12,216;6,094;1º;Lei 10.779/2003;Seguro-defeso ao pescado artesanal profissional
+12,217;287;2º, caput;Lei 13.260/2016;Terrorismo
+12,218;12,217;2º;Lei 13.2060;Atos de Terrorismo
+12,219;12,217;3º;Lei 13.260/2016;Organização Terrorista
+12,22;12,217;5º;Lei 13.260/2016;Preparação de ato terrorista
+12,221;12,217;6º;Lei 13.260/2016;Manutenção ou financiamento do terrorismo
+12,222;6,233;Art. 54, do CDC;Lei n. 9.656/99 e Lei n. 8.078/90 (C.D.C.);Fornecimento de medicamentos
+12,223;6,233;54. dp CDC;Lei 9656/1999 c/c CDC;Tratamento médico-hospitalar
+12,224;6,233;54, do CDC;Lei 9.656/1999 c/c CDC;Unidade de terapia intensiva (UTI) ou Unidade de cuidados intensivos (UCI)
+12,225;6,233;54, do CDC;Lei 9.656/1999 c/c CDC;Reajuste contratual
+12,236;12,235;759;CPC;Nomeação
+12,237;12,235;760;CPC;Dispensa
+12,238;12,235;761;CPC;Remoção
+12,242;12,241;756;CPC;Levantamento
+12,243;12,241;761;CPC;Remoção
+12,244;12,241;760;CPC;Dispensa
+12,245;12,241;755, I;CPC;Nomeação
+12,333;287;1º;Lei 12.850;Crimes previstos na Lei da Organização Criminosa
+12,334;12,333;2º;Lei 12.850/2013;Promoção, constituição, financiamento ou integração de Organização Criminosa
+12,335;12,333;18 a 21;Lei 12.850;Crimes ocorridos na investigação da prova
+12,336;12,335;18;Lei 12.850;Revelação de identidade, fotografia ou filmagem do colaborador
+12,337;12,335;19;Lei 12850/2013;Imputação falsa de prática de infração penal ou revelação inverídica sobre estrutura de organização criminal
+12,338;12,335;20;Lei 12.850/2013;Descumprimento de determinação de sigilo
+12,339;12,335;21;Lei 12.850/2013;Recusa ou omissão de dados cadastrais, registros, documentos e informações
+12,34;3,692;40;DL 3688/41;Provocação de tumulto ou conduta inconveniente
+12,341;9,964;19-B;ECA;Apadrinhamento de Criança ou Adolescente
+12,342;287;"121, § 2º, VII; 129, § 12 (CP) e Art. 1º, I e II (Lei 8.072/1990)";CP e Lei 8.072/1990;Crimes cometidos contra autoridade ou agente descrito nos arts. 142 e 143 da Constituição Federal, integrantes do sistema prisional e da Força Nacional de Segurança Pública
+12,343;3,692;18;DL 3688/41;Fabrico, comércio ou detenção de arma branca ou munição
+12,344;3,692;19;DL 3688/1941;Porte de arma (branca)
+12,345;3,692;21;DL 3688/1941;Vias de fato
+12,346;3,692;31;DL 3688/41;Omissão de cautela na guarda ou condução de animal
+12,347;3,692;42;DL 3688/1941;Perturbação do trabalho ou do sossego alheios
+12,348;3,692;45;DL 3688/1941;Simulação de Qualidade de Funcionário
+12,349;3,692;47;Dl 3688/1941;Uso ilegítimo de uniforme ou distintivo
+12,35;3,692;50;DL 3688/1941;Jogo de azar
+12,351;3,692;51;DL 3688/1941;Loteria não autorizada
+12,352;3,692;58;DL 3688/1941;Jogo do bicho
+12,353;3,692;63;DL 3688/1941;Servir bebidas alcóolicas a vulneráveis
+12,354;3,692;65;DL 3688/1941;Perturbação da tranquilidade
+12,355;3,692;66;DL 3688/1941;Omissão de comunicação de crime
+12,356;3,692;68;DL 3688/1941;Recusa de dados sobre a própria identificação ou qualificação
+12,358;9,635;CP art. 121, § 2º, VI e ECA arts. 103 a 104;Código Penal e ECA;Feminicídio
+12,379;10,193;LC 35, art. 42, III;LC 35;Remoção Compulsória
+12,38;10,198;"Art. 129, § 4º; art. 93, VIII";CF;Aposentadoria Compulsória
+12,383;12,156;Art. 4º;L. 13.715, de 2018;Perda por crime contra titular do mesmo poder ou descendente (L. 13.715/2018)
+12,384;9,74;Art. 2º;L. 13.718, de 2018;Importunação Sexual
+12,385;9,74;Art. 2º;Lei 13.718/2018;Divulgação de cena de estupro, sexo ou pornografia
+12,392;11,595;Art. 1º , I, alínea k;LC 64/1990;Inelegibilidade - Renúncia a cargo político na pendência de representação ou petição que possa levar a outra causa de inelegibilidade
+12,393;11,595;Art. 1º, I, m;LC 64/1990;Inelegibilidade - Exclusão do exercício de profissão
+12,395;11,595;Art. 1º, I, q;LC 64/1990;Inelegibilidade - Aposentadoria Compulsória ou PAD (magistrados e membros do MP)
+12,396;11,595;Art. 1º, I, o;LC 64/1990;Inelegibilidade - Demissão do serviço público
+12,397;3,463;Art. 2º;Lei 13.718, de 2018;Importunação Sexual
+12,398;3,463;Art. 2º;Lei 13.718, de 2018;Divulgação de cena de estupro, sexo ou pornografia
+12,399;6,096;Art. 48, § 1º ao 4º e art. 106;Leis 8.213/91 e 11.718/2008;Híbrida (Art. 48/106)
+12,4;8,919;11, caput;CPC;Nulidade - Ausência de publicidade de decisão
+12,401;8,919;11, caput;CPC;Nulidade - Ausência de Fundamentação de Decisão
+12,402;8,919;146, § 7º;CPC;Nulidade - Impedimento
+12,403;8,919;146, § 7º;CPC;Nulidade - Suspeição
+12,404;8,919;272, § 2º;CPC;Nulidade - Ausência de Nome das Partes
+12,405;8,919;272, §§ 2º e 5º;CPC;Nulidade - Ausência de Identificação de Advogado ou de Sociedade de Advogados
+12,406;8,919;279;CPC;Nulidade - Ausência de Intimação do Ministério Público
+12,407;8,919;280;CPC;Nulidade - Citação Sem Observância das Prescrições Legais
+12,408;8,919;280;CPC;Nulidade - Intimação Sem Observância das Prescrições Legais
+12,41;8,919;280;CPC;Nulidade - Intimação Sem Observância das Prescrições Legais
+12,411;8,919;803, I, parágrafo único;CPC;Nulidade - Título Extrajudicial Não Correspondente a Obrigação Certa, Líquida e Exigível
+12,412;8,919;803, II, parágrafo único;CPC;Nulidade - Ausência de Citação do Executado
+12,413;8,919;803, III, parágrafo único;CPC;Nulidade - Execução Instaurada Antes de Condição ou Termo
+12,414;10,736;485, VI, § 3§ 3º e 7º;CPC;Ausência de Legitimidade para a Causa
+12,415;8,884;139 a 143;CPC;Poderes, Deveres e Responsabilidades do Juiz
+12,416;9,192;294 a 304, § 1º e 305 a 310;CPC;Tutela de Urgência
+12,417;9,192;294 a 299 e 311;CPC;Tutela de Evidência
+12,418;9,192;304,§§ 2º a 6º;CPC;Revisão de Tutela Antecipada Antecedente
+12,419;8,99;"369 a 384; 389 a 441 e 463 a 484";CPC;Provas em geral
+12,42;9,06;"1.003;1.023,caput;1.026,caput;1.044,§1º(CPC);42,caput;49,50,82,§1º;83,§§1ºe2º(L.9.099/1995);575;586;593,caput;598;619;640(CPP);894,capute§4º;895,caput;896,§12;897,caput;897-A,capute§3º(CLT);258;259;275,§1º;276,caput;279,caput;281,caput;282(C.Eleit.)";CPC, Lei n. 9.099/1995, CPP, CLT, Código Eleitoral e CPPM;Tempestividade
+12,467;;2º, I a V;Portaria Conjunta CNJ e CNMP nº 1/2019;QUESTÕES DE ALTA COMPLEXIDADE, GRANDE IMPACTO E REPERCUSSÃO
+12,468;12,467;2º, I a V;Portaria Conjunta CNJ e CNMP nº 1/2019;Brumadinho
+12,469;12,467;2º, I a V;Portaria CNJ e CNMP nº 1/2019;Boate Kiss
+12,47;12,467;2º, I a V;Portaria Conjunta CNJ e CNMP nº 1/2019;Mariana
+12,471;12,467;2º, I a V;Portaria Conjunta CNJ e CNMP nº 1/2019;Unaí
+12,542;3,397;140, §2º;CP;Real
+12,543;3,397;140, §3º;CP;Preconceituosa
+12,544;3,397;140, caput;CP;Simples
+12,545;9,658;art. 140, caput;CP;Simples
+12,546;9,658;Art. 140, §2º;CP;Real
+12,547;9,658;Art. 140, §3º;CP;Preconceituosa
+12,612;12,467;2º, I a V;Portaria Conjunta CNJ e CNMP nº 1/2019;COVID-19
+12,634;11,467;354-A;Código Eleitoral;Apropriação Indébita Eleitoral
+12,642;11,557;262;Código Eleitoral;Processamento de Recurso Contra Expedição de Diploma
+12,73;7,942;28-A, § 6º;CPP;Acordo de Não Persecução Penal
+12,731;7,942;76;Lei 9,099/1995;Transação Penal
+12,732;7,942;89;Lei 9.099;Suspensão Condicional de Processo
+12,756;12,755;"81, parágrafo único, I; 110 e 111";CDC;Interesses ou Direitos Difusos
+12,757;12,755;"81,parágrafo único, II; 110 e 111";CDC;Interesses ou Direitos Coletivos em Sentido Estrito
+12,758;12,755;"81, parágrafo único, III; 110 e 111";CDC;Interesses ou Direitos Individuais Homogêneos
+12,77;10,421;Meta 12;XIII Encontro Nacional do Poder Judiciário;Obras Públicas
+12,772;3,692;20;DL 3688/41;Anúncio de Processo, Substância ou Objeto Destinado a Provocar Aborto
+12,773;3,692;22;DL 3688/41;Internação Não Autorizada em Estabelecimento Psiquiátrico
+12,774;3,692;23;DL 3688/41;Custódia de Doente Mental Sem Autorização do Responsável
