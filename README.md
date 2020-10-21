@@ -8,10 +8,14 @@
 
 ## Overview
 
-Text mining em petições iniciais para extrair quais artigos e leis aparecem no documento, para assim cruzar essas informações com as tabelas de assuntos do CNJ e chegar a recomendações dos assuntos. Reduzindo as opções de 700+ para em torno de 5 opções. 
+Text mining em petições iniciais para extrair quais artigos e leis aparecem no documento, para assim cruzar essas informações com as tabelas de assuntos do CNJ e chegar a recomendações dos assuntos. Dessa forma, reduzindo as mais de 700 opções para em torno de 5 opções.
 
 
 ## Installation
+A linguagem de programção utilizada nesse desenvolvimento foi o Python, por isso caso não possua instalado, pode instalar nesse [link](https://www.python.org/downloads/)
+
+Recomendo instalar também o Anaconda, que possui o ambiente Jupyter Notebook, que foi utilizado no desenvolvimento. Download nesse [link](https://www.anaconda.com/products/individual)
+
 Para instalar, em um console, use o comando "pip"
 
 Exemplo:
