@@ -10,6 +10,8 @@
 
 Text mining em petições iniciais para extrair quais artigos e leis aparecem no documento, para assim cruzar essas informações com as tabelas de assuntos do CNJ e chegar a recomendações dos assuntos. Dessa forma, reduzindo as mais de 700 opções para em torno de 5 opções.
 
+Esse repositório também possui as telas em HTML simulando o sistema do CNJ com as devidas alterações.
+
 
 ## Installation
 A linguagem de programção utilizada nesse desenvolvimento foi o Python, por isso caso não possua instalado, pode instalar nesse [link](https://www.python.org/downloads/)
