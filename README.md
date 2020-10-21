@@ -16,7 +16,7 @@ A linguagem de programção utilizada nesse desenvolvimento foi o Python, por is
 
 Recomendo instalar também o Anaconda, que possui o ambiente Jupyter Notebook, que foi utilizado no desenvolvimento. Download nesse [link](https://www.anaconda.com/products/individual)
 
-Para instalar, em um console, use o comando "pip"
+Para instalar as bibliotecas python utilizadas, em um console, use o comando "pip"
 
 Exemplo:
 ```
