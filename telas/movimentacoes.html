@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>CNJ</title>
+
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <script script="script" languague="javascript" src="javascript/funcoes.js"></script>
+    <body id="container">
+        <header class="topnav">
+            <div id="nav-titulo">
+                <img id="menu-sanduiche" src="images/menu-sanduiche.png"/>
+                <img id="logo" src="images/logo-pje.png"/>
+                <p id="nav-cadastro">Painel do usuário - 2ºGrau</p>
+            </div>
+            <div id="nav-login">
+                <img id="login" src="images/login.png"/>
+                <p id="nav-nome">Anderson Oliveira</p>
+            </div>
+        </header>
+
+        <div id='certidao-container'>
+            <h3 id='certidao-titulo'>CERTIDÃO</h3>
+            <p id="p1">CERTIFICO E DOU FÉ QUE às 23h59m59s do dia 28/09/2020 decorreu o prazo legal interposto recurso da r. decisão ID 19275780.</p>
+            <p id="p2">Brasília-DF, 29 de setembro de 2020</p>
+            <p id="p3">Everton Leandro dos Santos Lisboa</p>
+            <p id="p4">Diretor de Scretaria da Terceira Turma Cível</p>
+        </div>
+
+        <div id="infos">
+            <section>
+                <p class="info-esq">ID do documento</p>
+                <p class="info-dir">20134393</p>
+            </section>
+            <section>
+                <p class="info-esq">Por</p>
+                <p class="info-dir">SANDRA FORTES DE MELO</p>
+            </section>
+            <section>
+                <p class="info-esq">Em</p>
+                <p class="info-dir">29/09/2020 17:21:15</p>
+            </section>
+            <section>
+                <p class="info-esq">Tipo de Documento</p>
+                <p class="info-dir">Certidão</p>
+            </section>
+            <section>
+                <p class="info-esq">Documento</p>
+                <p class="info-dir">Certidão</p>
+            </section>
+        </div>
+
+        <div id="proxima-acao">
+            <p>
+                <label for="acao">Próxima ação</label>
+            </p>
+
+            <select name="acao" id="acao" onchange="verificarAcao(this.value)">
+                <option value="" disabled="disabled" selected="selected">Selecione</option>
+                <option value="0">Devolver para a secretaria</option>
+                <option value="1">Elaborar decisão</option>
+                <option value="2">Elaborar despacho</option>
+                <option value="3">Elaborar voto</option>
+            </select>
+
+            <p>SELECIONE UMA PRÓXIMA AÇÃO AO LADO</p>
+
+        </div>
+
+    </body>
+</html>

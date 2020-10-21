@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>CNJ</title>
+
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body id="container">
+        <header class="topnav">
+            <div id="nav-titulo">
+                <img id="menu-sanduiche" src="images/menu-sanduiche.png"/>
+                <img id="logo" src="images/logo-pje.png"/>
+                <p id="nav-cadastro">Cadastro de processo - 1ºGrau</p>
+            </div>
+            <div id="nav-login">
+                <img id="login" src="images/login.png"/>
+                <p id="nav-nome">Anderson Oliveira</p>
+            </div>
+        </header>
+
+        <div id="menu-cadastro">
+            <p id="item-menu-cad-dados-iniciais">DADOS INICIAIS</p>
+            <p id="item-menu-cad">ASSUNTOS</p>
+            <p id="item-menu-cad">PARTES</p>
+            <p id="item-menu-cad">CARACTERÍSTICAS</p>
+            <p id="item-menu-cad">INCLUIR PETIÇÕES E DOCUMENTOS</p>
+            <p id="item-menu-cad">PROTOCOLAR INICIAL</p>
+        </div>
+
+        <div id="cadastro-processo">
+            <h2>Cadastro do processo</h2>
+
+            <p>
+                <label for="file">Incluir Petição*</label>
+            </p>
+
+            <p>
+                <input type="file" id="file">
+            </p>
+
+            <p>
+                <label for="materia">Matéria*</label>
+            </p>
+
+            <p>
+                <select name="materia" id="materia">
+                    <option value="" disabled="disabled" selected="selected">Selecione</option>
+                    <option value="0">DIREITO CIVIL</option>
+                    <option value="1">DIREITO DA CRIANÇA E DO ADOLESCENTE</option>
+                    <option value="2">DIREITO DO CONSUMIDOR</option>
+                    <option value="3">DIREITO TRIBUTÁRIO</option>
+                    <option value="4">DIREITO DA SAÚDE</option>
+                </select>
+            </p>
+
+            <p>
+                <label for="jurisdicao">Jurisdição*</label>
+            </p>
+
+            <p>
+                <select name="jurisdicao" id="jurisdicao">
+                    <option value="" disabled="disabled" selected="selected">Selecione</option>
+                    <option value="0">Fórum Desembargador Helládio Toledo Monteiro</option>
+                    <option value="1">Fórum Desembargador Milton Sebastião Barbosa</option>
+                    <option value="2">Fórum Desembargador José Júlio Leal Fagundes</option>
+                    <option value="3">Fórum Desembargador Márcio Ribeiro</option>
+                    <option value="4">Fórum Desembargador José Manoel Coelho</option>
+                </select>
+            </p>
+
+            <p>
+                <label for="classe">Classe Judicial*</label>
+            </p>
+
+            <p>
+                <select name="classe" id="classe">
+                    <option value="" disabled="disabled" selected="selected">Selecione</option>
+                    <option value="0">INSOLVÊNCIA</option>
+                    <option value="1">PROCEDIMENTO COMUM CÍVEL</option>
+                    <option value="2">DISSOLUÇÃO PARCIAL DE SOCIEDADE</option>
+                    <option value="3">INVETÁRIO</option>
+                </select>
+            </p>
+
+            <p>
+                <label for="classe">Assunto*</label>
+            </p>
+
+            <p>
+                <select name="classe" id="classe" data-dropup-auto="false">
+                    <option value="" disabled="disabled" selected="selected">Selecione</option>
+                    <option value="0" class="green-color">Horas Extras</option>
+                    <option value="1" class="green-color">Abono Pecuniário</option>
+                    <option value="2" class="green-color">Férias</option>
+                    <option value="3" class="green-color">Décimo Terceiro Salário</option>
+                    <option value="3" class="green-color">Contrato de Aprendizagem</option>
+                    <option value="3">Abandono de incapaz</option>
+                    <option value="3">Furto </option>
+                    <option value="3">Crimes contra a Propriedade Industrial</option>
+                    <option value="3">Charlatanismo </option>
+                    <option value="3">Posse Sexual Mediante Fraude</option>
+                    <option value="3">Rufianismo</option>
+                    <option value="3">Peculato</option>
+                    <option value="3">Crime Culposo</option>
+                    <option value="3">Dano</option>
+                    <option value="3">Homicí­dio Simples</option>
+                    <option value="3">Constrangimento ilegal </option>
+                </select>
+            </p>
+
+            <p>
+                <button>INCLUIR</button>
+            </p>
+        </div>
+
+    </body>
+</html>
